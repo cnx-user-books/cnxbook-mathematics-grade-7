@@ -1,0 +1,226 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>“Noughts and Crosses” and Module Test</title>
+  <metadata>
+  <md:content-id>m31267</md:content-id><md:title>“Noughts and Crosses” and Module Test</md:title>
+  <md:abstract/>
+  <md:uuid>af359685-cd06-4a02-b5b3-96327359b2a4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164011611939">
+      <title>MATHEMATICS</title>
+      <para id="para-id1164011611939">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164015980733">
+      <title>Decimal Fractions</title>
+      <para id="para-id1164015980733">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164015270854">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1164015270854">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164011218732">
+      <title>Memorandum </title>
+      <para id="id1164011319987">MODULE TETS 5</para>
+      <para id="id1164011523973">1. a) 0,68</para>
+      <list id="id1164023257049" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,875</item>
+        <item>0,45 (3)</item>
+      </list>
+      <para id="id1164015748834">2. a) 8432,17</para>
+      <para id="id1164011418451">8432,168</para>
+      <para id="id1164017571439">8432,2 (3)</para>
+      <para id="id1164015537000">3. </para>
+      <table id="id1164010188541" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>23,6489</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>23 648,9</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>0,236489</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>236 489</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1164010140444">(4)</para>
+      <para id="id1164011129289">4. a) 523,017 (2)</para>
+      <list id="id1164011237073" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,987 (3)</item>
+        <item>1,34 (2)</item>
+      </list>
+      <para id="id1164016031131">5. 180 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 2,25</para>
+      <para id="id1164016623886"> 80 times (4)</para>
+      <para id="id1164015345842">6. 88,5 x 28,3</para>
+      <para id="id1164011289530"> 2 504,55 m
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msubsup><m:mrow/><m:mrow/><m:mrow/></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {}  rSub {}  rSup {} } {}</m:annotation></m:semantics></m:math> (4)</para>
+    </section>
+    <section id="id1164015789196">
+      <title>Leaner Section</title>
+      <para id="para-id1164015789196">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164015159014">
+      <title>Content</title>
+      <section id="id1164015258068">
+        <title>ACTIVITY: “Noughts and Crosses” and Module Test</title>
+        <para id="id1164016004170">26. Let us play “Noughts and Crosses”!</para>
+        <para id="id1164010028242">You need a friend and a rectangle with decimal numbers as in the example. </para>
+        <para id="id1164011304061">You may also write your own decimal numbers in the blocks.</para>
+        <list id="id1164010028299" list-type="bulleted">
+          <item>Player 1 chooses any number on the rectangle and must say what number ÷ or × by 10, 100 or 1 000 will give that number.</item>
+        </list>
+        <para id="id1164011394786">e.g. 2,5 : 25 ÷ 10 = 2,5 or</para>
+        <para id="id1164017559066">  0,025 ´ 100 = 2,5</para>
+        <table id="id1164011281572" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>0,9</entry>
+                <entry>2,2</entry>
+                <entry>0,45</entry>
+                <entry>1,4</entry>
+              </row>
+              <row>
+                <entry>2,5</entry>
+                <entry>0,08</entry>
+                <entry>0,91</entry>
+                <entry>0,17</entry>
+              </row>
+              <row>
+                <entry>0,007</entry>
+                <entry>3,6</entry>
+                <entry>0,168</entry>
+                <entry>0,024</entry>
+              </row>
+              <row>
+                <entry>0,14</entry>
+                <entry>0,98</entry>
+                <entry>0,016</entry>
+                <entry>4,1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1164009973280" list-type="bulleted">
+          <item>Player 2 checks with the calculator.</item>
+          <item>If player 1 is correct, he marks his block with a x or o. </item>
+          <item>Take turns until one of the players is the first one to get 4 x’s or o’s in a row. (horizontal, vertical or diagonal).</item>
+        </list>
+        <section id="id1164011458754">
+          <title>MODULE TEST</title>
+          <para id="id1164011305590">1. Write as a decimal fraction:</para>
+          <para id="id1164011286018">a) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {"25"} } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+          <para id="id1164011204856">b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> ..................................................</para>
+          <para id="id1164011222439">c) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"20"} } } {}</m:annotation></m:semantics></m:math> .................................................. (3)</para>
+          <para id="id1164011203360">
+            <emphasis effect="bold">2. Round off</emphasis>
+            <emphasis effect="bold">8432,1679:</emphasis>
+          </para>
+          <para id="id1164010174418">a) to 2 digits after the decimal comma: ..................................................</para>
+          <para id="id1164015363157">b) to the nearest 1 000th: ..................................................</para>
+          <para id="id1164017305930">c) to the nearest tenth: .................................................. (3)</para>
+          <para id="id1164015080287">3. Complete the table:</para>
+          <table id="id1164011516988" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Number</entry>
+                  <entry>236,489</entry>
+                </row>
+                <row>
+                  <entry>÷ 10</entry>
+                  <entry>.........................</entry>
+                </row>
+                <row>
+                  <entry>× 100</entry>
+                  <entry>.........................</entry>
+                </row>
+                <row>
+                  <entry>÷ 1 000</entry>
+                  <entry>.........................</entry>
+                </row>
+                <row>
+                  <entry>× 1 000</entry>
+                  <entry>.........................</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id1164015088136"> (4)</para>
+          <para id="id1164016414710">4. Calculate without a calculator:</para>
+          <para id="id1164015199427">a) r = 2 000 – 1476,983</para>
+          <para id="id1164016101054"> ......................................................................................................</para>
+          <para id="id1164011193043"> ......................................................................................................</para>
+          <para id="id1164011493719"> ......................................................................................................</para>
+          <para id="id1164011524038"> ...................................................................................................... (2)</para>
+          <para id="id1164017455388">b) t = R4,70 × 0,21</para>
+          <para id="id1164011312494"> ......................................................................................................</para>
+          <para id="id1164015035586"> ......................................................................................................</para>
+          <para id="id1164015136254"> ......................................................................................................</para>
+          <para id="id1164011190270"> ......................................................................................................</para>
+          <para id="id1164015951910"> ......................................................................................................</para>
+          <para id="id1164015788009"> ...................................................................................................... (3)</para>
+          <para id="id1164010032625">c) u = 26,80 ÷ 20</para>
+          <para id="id1164015134022"> ......................................................................................................</para>
+          <para id="id1164018351735"> ......................................................................................................</para>
+          <para id="id1164013877971"> ......................................................................................................</para>
+          <para id="id1164011249832"> ...................................................................................................... (2)</para>
+          <para id="id1164010169871">5. How many times can a bottle with a capacity of 2,25 ℓ be filled from a 180 ℓ container?</para>
+          <para id="id1164015089636">......................................................................................................</para>
+          <para id="id1164015071321">......................................................................................................</para>
+          <para id="id1164017332180">......................................................................................................</para>
+          <para id="id1164018802181">......................................................................................................</para>
+          <para id="id1164010092085">......................................................................................................</para>
+          <para id="id1164010130875">......................................................................................................</para>
+          <para id="id1164016100887">......................................................................................................</para>
+          <para id="id1164015140434">...................................................................................................... (4)</para>
+          <para id="id1164015498870">6. A space shuttle travels 88,5 m per second. How far will it travel in 28,3 seconds?</para>
+          <para id="id1164015415920">......................................................................................................</para>
+          <para id="id1164015203082">......................................................................................................</para>
+          <para id="id1164016046838">......................................................................................................</para>
+          <para id="id1164016454279">......................................................................................................</para>
+          <para id="id1164011626789">......................................................................................................</para>
+          <para id="id1164011153531">......................................................................................................</para>
+          <para id="id1164015014198">......................................................................................................</para>
+          <para id="id1164015798698">......................................................................................................</para>
+          <para id="id1164010024769">...................................................................................................... (4)</para>
+          <para id="id1164015801030">(25)</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Number Patterns (Terms)</title>
+  <metadata>
+  <md:content-id>m22082</md:content-id><md:title>Number Patterns (Terms)</md:title>
+  <md:abstract/>
+  <md:uuid>2f4c04ff-f95e-4980-8140-742a6d62ec69</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7625613">
+      <title>MATHEMATICS</title>
+      <para id="para-id7625613">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166510714604">
+      <title>Number Patterns</title>
+      <para id="para-id1166510714604">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7687595">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id7687595">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7765872">
+      <title>Memorandum</title>
+      <para id="para-id7765872">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5434301">
+      <title>Leaner Section</title>
+      <para id="para-id5434301">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166512981068">
+      <title>Content</title>
+      <section id="id1166510428046">
+        <title>ACTIVITY: Number Patterns (Terms) [LO 2.1, LO 2.3.1, LO 2.3.2] </title>
+        <section id="id2012307">
+          <title>9. Did you know?</title>
+          <para id="id1166509323407">The numbers in a number sequence are also known as <emphasis effect="bold">TERMS</emphasis>.</para>
+        </section>
+        <section id="id1166515251821">
+          <title>10. Problem</title>
+          <para id="id4646526">Make your own number sequence! </para>
+          <para id="id6630466">With a friend, work through the following example:</para>
+          <list id="id1166512616626" list-type="bulleted">
+            <item>Draw a flow chart with two operator blocks: </item>
+            <item>Fill the answers in on the right.</item>
+          </list>
+        </section>
+        <section id="id5284272">
+          <title>n- values</title>
+          <figure id="id5718810">
+            <media id="id5718810_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Spinnekop.jpg" id="id5718810__onlineimage" height="168" width="469"/>
+            </media>
+          </figure>
+          <para id="id1166511686950">Your number sequence is 7 ; 12 ; 17 ; 22 ; 27</para>
+          <para id="id3494704">Your rule will be: </para>
+          <para id="id1166509579348">T<sub>n</sub>  = (5 × <emphasis effect="italics">n</emphasis>) + 2</para>
+          <para id="id2401232">Term which</para>
+          <para id="id1166512870874">one = 5<emphasis effect="italics">n</emphasis> + 2</para>
+          <para id="id4927354">Thus: T<sub>2</sub> = (5 × 2) + 2  = 12</para>
+          <para id="id8992984">T<sub>12</sub> = (5 × 12) + 2  = 62</para>
+          <list id="id5434878" list-type="bulleted">
+            <item>If you are certain that you understand the above, compile your own number sequence.</item>
+          </list>
+          <para id="id5388029">_____________________________________________________________________</para>
+          <para id="id1166514137329">_____________________________________________________________________</para>
+          <para id="id1166510725497">_____________________________________________________________________</para>
+          <para id="id3456199">_____________________________________________________________________</para>
+          <para id="id3661644">_____________________________________________________________________</para>
+          <list id="id1166519138746" list-type="bulleted">
+            <item>Also compile three questions of your own and ask a friend to answer them.</item>
+          </list>
+          <para id="id5317173">_____________________________________________________________________</para>
+          <para id="id1282571">_____________________________________________________________________</para>
+          <para id="id2513415">_____________________________________________________________________</para>
+          <para id="id1166510463987">_____________________________________________________________________</para>
+          <para id="id3912166">_____________________________________________________________________</para>
+          <para id="id7859210">_____________________________________________________________________</para>
+          <para id="id1166514187086">_____________________________________________________________________</para>
+          <para id="id1166515987025">_____________________________________________________________________</para>
+          <para id="id2307909">_____________________________________________________________________</para>
+          <para id="id1166515068091">_____________________________________________________________________</para>
+          <para id="id4998246">_____________________________________________________________________</para>
+        </section>
+        <section id="id7648029">
+          <title>DO YOU UNDERSTAND THE PRECEDING WORK?</title>
+          <table id="id8311893" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id8310153" list-type="bulleted">
+                      <item>Complete the following by placing a tick in the appropriate block:</item>
+                    </list>
+                  </entry>
+                  <entry>uncertain</entry>
+                  <entry>reason­ably certain</entry>
+                  <entry>very certain</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id8932303" list-type="bulleted">
+                      <item>I can see various patterns in numbers</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id5387886" list-type="bulleted">
+                      <item>I am able to predict what the subsequent pattern will be</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id1166514067125" list-type="bulleted">
+                      <item>I can explain the Fibonacci series and complete the next sequence</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id5082720" list-type="bulleted">
+                      <item>I am able to draw the Fibonacci spiral</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id6166076" list-type="bulleted">
+                      <item>I can explain the Pascal triangle to a friend</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id1166516001696" list-type="bulleted">
+                      <item>I can determine triangular numbers by means of a formula</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id1166512806221" list-type="bulleted">
+                      <item>I can determine the sum of numbers by using the Gauss method</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <list id="id7641417" list-type="bulleted">
+                      <item>I am able to compile my own number sequences</item>
+                    </list>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+    </section>
+    <section id="id8225258">
+      <title>Assessment</title>
+      <para id="id2891054"><emphasis>Learning Outcome 2:</emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id5766887"><emphasis>Assessment Standard 2.1:</emphasis> We know this when the learner investigates and extends numeric and geometric patterns looking for a relationship or rules, including patterns.</para>
+      <para id="id4256157"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using;</para>
+      <para id="id1166515319610"><emphasis effect="bold">2.3.1: </emphasis>verbal descriptions;</para>
+      <para id="id3805454"><emphasis effect="bold">2.3.2:</emphasis> flow diagrams.</para>
+    </section>
+  </content>
+</document>

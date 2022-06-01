@@ -1,0 +1,528 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Estimations, Equations and Variables (Magic square)</title>
+  <metadata>
+  <md:content-id>m21837</md:content-id><md:title>Estimations, Equations and Variables (Magic square)</md:title>
+  <md:abstract/>
+  <md:uuid>3cd7508a-a178-409a-816b-c4bc983f8c5d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171441802930">
+      <title>MATHEMATICS</title>
+      <para id="para-id1171441802930">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171441634130">
+      <title>Estimations, Equations and Variables</title>
+      <para id="para-id1171441634130">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171441557656">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1171441557656">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171436999886">
+      <title>Memorandum</title>
+      <para id="id1171438192460">6. 12</para>
+      <para id="id1171436031830">7  (a) 18   </para>
+      <para id="id1171446831684"> (b) 13    </para>
+      <para id="id1171439543716"> (c) 17</para>
+      <para id="id1171439911823"> (d) 19</para>
+      <para id="id1171445700772"> (e) 12</para>
+      <para id="id1171442666123">
+        <emphasis effect="bold">Sum: 45</emphasis>
+      </para>
+      <para id="id1171433971676">2.1 </para>
+      <table id="id1171438845269" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1171441939885" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1171437113579" summary="">
+        <tgroup cols="18">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171436809062">8.</para>
+      <table id="id1171441126137" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>14</entry>
+              <entry>7</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>15</entry>
+              <entry>4</entry>
+              <entry>9</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>5</entry>
+              <entry>16</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>11</entry>
+              <entry>2</entry>
+              <entry>13</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171438424418">
+        <emphasis effect="bold">Sum: 34 </emphasis>
+      </para>
+      <para id="id1171433868800">9.  (a) 48    </para>
+      <para id="id8296569"> (b) 10    </para>
+      <para id="id1171440923218"> (c) 64</para>
+      <para id="id7633957"> (d)  90</para>
+      <para id="id1171442336414"> (e) 108</para>
+      <para id="id8284624">10.  (a) true    </para>
+      <para id="id1171434138965"> (b) true    </para>
+      <para id="id3268555"> (c) false</para>
+      <para id="id1171449038093"> (d) false</para>
+      <para id="id1171440127901"> (e) true</para>
+      <para id="id1171440750318">11.</para>
+      <table id="id1171436912016" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>_____</entry>
+              <entry>_____</entry>
+              <entry>_____</entry>
+            </row>
+            <row>
+              <entry>_____</entry>
+              <entry>_____</entry>
+              <entry>_____</entry>
+            </row>
+            <row>
+              <entry>_____</entry>
+              <entry>_____</entry>
+              <entry>_____</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171440415857">12. </para>
+      <table id="id1171438357644" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>9 969</entry>
+              <entry>_____</entry>
+              <entry>9 699</entry>
+              <entry>_____</entry>
+            </row>
+            <row>
+              <entry>_____</entry>
+              <entry>_____</entry>
+              <entry>_____</entry>
+              <entry>6 669</entry>
+            </row>
+            <row>
+              <entry>6 966</entry>
+              <entry>9 669</entry>
+              <entry>6 696</entry>
+              <entry>_____</entry>
+            </row>
+            <row>
+              <entry>6 699</entry>
+              <entry>_____</entry>
+              <entry>6 969</entry>
+              <entry>9 666</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171432845719">13.  <emphasis effect="bold">Learners own assessment</emphasis></para>
+    </section>
+    <section id="id1171440035712">
+      <title>Leaner Section</title>
+      <para id="para-id1171440035712">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171440243056">
+      <title>Content</title>
+      <para id="para-id1171440243056">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171438042284">
+      <title>ACTIVITY: Estimations, Equations and Variables (Magic square) [LO 1.7.2, LO 1.9.1, LO 1.10, LO 2.5]</title>
+      <para id="id1171440689094">6. Do you still remember?</para>
+      <para id="id1171438691593">The sum of all the numbers in a magic square is the same, whether they are arranged horizontally, vertically or diagonally.</para>
+      <para id="id1171440407536">What is the sum of the following magic square? _____________________________</para>
+      <table id="id1171437123483" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171440141187">7. Sometimes we substitute numbers with letters of the alphabet.</para>
+      <para id="id3509822">Look at the following magic square. Now replace the letters with the correct numbers.</para>
+      <table id="id1171433137345" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entrytbl cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry>a</entry>
+                    <entry>11</entry>
+                    <entry>16</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>b</entry>
+                    <entry>15</entry>
+                    <entry>c</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>14</entry>
+                    <entry>d</entry>
+                    <entry>e</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>a: _____________________________b: _____________________________c: _____________________________d: _____________________________e: _____________________________</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171438340907">What is the sum of the magic square? _____________________________</para>
+      <para id="id1171436860745">8. Brainteaser!</para>
+      <para id="id1171442618531">In the following magic square the numbers have been replaced by letters. </para>
+      <table id="id1171440294995" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>c</entry>
+              <entry>3k + 2c</entry>
+              <entry>k + 3c</entry>
+              <entry>2k + 4c</entry>
+            </row>
+            <row>
+              <entry>3k + 3c</entry>
+              <entry>4c</entry>
+              <entry>2k + c</entry>
+              <entry>k + 2c</entry>
+            </row>
+            <row>
+              <entry>2k + 2c</entry>
+              <entry>k + c</entry>
+              <entry>3k + 4c</entry>
+              <entry>3c</entry>
+            </row>
+            <row>
+              <entry>k + 4c</entry>
+              <entry>2k + 3c</entry>
+              <entry>2c</entry>
+              <entry>3k + c</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171434555618">What is the sum of the magic square? ______________________________________</para>
+      <para id="id1171437139855">9. We can also assign values to particular letters, e.g.</para>
+      <para id="id1171433240336">a = 9 ; b = 6 ; c = 8 ; d = 2 ; e = 10 and f = 20</para>
+      <para id="id1171441878965">Calculate:</para>
+      <para id="id1171434533034">a) b x c = ________________________________</para>
+      <para id="id1171442817932">b) f ÷ d = ________________________________</para>
+      <para id="id8294282">c) a x b + e = ____________________________</para>
+      <para id="id3213135">d) (f – e) x a = ____________________________</para>
+      <para id="id1171434003404">e) [(c – d) + b] x a = _______________________</para>
+      <para id="id1171437171903">10. Replace the letters with any number of your choice and check whether the statements are true or false.</para>
+      <para id="id6485137">a) e + f = f + e _______________________</para>
+      <para id="id1171440674018">b) 2k + 2c = 2 x (k + c) _______________________</para>
+      <para id="id1171439631724">c) h – g = g – h _______________________</para>
+      <para id="id1171434057617">d) 4b = 4 + b _______________________</para>
+      <para id="id1171434907815">e) x + (y + z) = (x + y) + z _______________________</para>
+      <para id="id1171434091732">11. Brainteaser!</para>
+      <para id="id1171433458246">Construct you own magic square. Reduce the seven squares to five by moving only four of the toothpicks. Make a drawing of your attempt in the space that is provided and show which toothpicks have been moved to which position.</para>
+      <figure id="id1171437435930">
+        <media id="id1171437435930_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-76bf.png" id="id1171437435930__onlineimage" height="163" width="161"/>
+        </media>
+      </figure>
+      <para id="id1171436885153">12. Another Brainteaser!</para>
+      <para id="id1171434396407">Can you complete the following magic square with numbers using 6's and/or 9's only? (Remember that the sum of the numbers in each row, column or diagonal must be</para>
+      <para id="id1171447256222">the same!)</para>
+      <table id="id1171443846180" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>6 666</entry>
+              <entry/>
+              <entry>6 996</entry>
+            </row>
+            <row>
+              <entry>9 696</entry>
+              <entry>6 999</entry>
+              <entry>9 966</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>9 999</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>9 996</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171436991505">13. Time for self-assessment</para>
+      <para id="id1171437392551">Place a tick in the appropriate space.</para>
+      <table id="id1171437271373" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Unsure</entry>
+              <entry>Fairly sure</entry>
+              <entry>Very sure</entry>
+            </row>
+            <row>
+              <entry>I am able to explain the following and to give an example:</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>a) square number</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>b) rectangular number</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>c) cubed number</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>I know a synonym for:</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>a) square number</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>b) cubed number</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>I can replace letters with numbers to complete a magic square</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+            <row>
+              <entry>I can do the 4 main calculations correctly after having replaced the letters with numerical values</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+              <entry>____</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171434212494">
+      <title>Assessment</title>
+      <para id="id1171435840518"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1171440496743"><emphasis>Assessment Standard 1.7:</emphasis> We know this when the learner estimates and calculates by selecting and using operations appropriate to solving problems that involve:</para>
+      <para id="id847294"><emphasis>1.7.2: </emphasis>multiple operations with integers;</para>
+      <para id="id1171436875441"><emphasis>Assessment Standard 1.9:</emphasis> We know this when the learner uses a range of techniques to perform calculations including:</para>
+      <para id="id1171442537919"><emphasis>1.9.1: </emphasis>using the commutative, associative and distributive properties with positive rational numbers and zero;</para>
+      <para id="id1171447152963"><emphasis>Assessment Standard 1.10:</emphasis> We know this when the learner uses a range of strategies to check solutions and judges the reasonableness of solutions.</para>
+      <para id="id1171436032569"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1171437127999"><emphasis>Assessment Standard 2.5:</emphasis> We know this when the learner solves or completes number sentences by inspection or by trial-and-improvement, checking the solutions by substitution (e.g. 2 x - 8 = 4).</para>
+    </section>
+  </content>
+</document>

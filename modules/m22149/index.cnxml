@@ -1,0 +1,252 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Area of irregular figures</title>
+  <metadata>
+  <md:content-id>m22149</md:content-id><md:title>Area of irregular figures</md:title>
+  <md:abstract/>
+  <md:uuid>dbdd8a6b-6672-4980-9050-ce58d29c0716</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169819302565">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169819302565">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169817153259">
+      <title>Perimeter, Area and Volume</title>
+      <para id="para-id1169817153259">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169816102055">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1169816102055">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169816495632">
+      <title>Memorandum</title>
+      <list id="id1169817068710" list-type="bulleted">
+        <item>Bigger than a half + smaller than a half make 1 square, and the squares bigger than a half have been counted already</item>
+      </list>
+      <para id="id1169816373006">19. </para>
+      <para id="id8201115">a) 30   </para>
+      <para id="id1169817267124">b) 40   </para>
+      <para id="id3240166">c) 25   </para>
+      <para id="id1169816067155">d) 35   </para>
+      <para id="id1169816509810">e) 4 986   </para>
+      <para id="id1169819062636">f) 2,51   </para>
+      <para id="id1169816256350">g) 308   </para>
+      <para id="id6629406">h) 71,2</para>
+      <para id="id1169816479833">i)  10</para>
+      <para id="id1169816207870">j)  40</para>
+      <para id="id1169816008592">k) 120</para>
+      <para id="id1169816260830">l) 1,743</para>
+      <para id="id1169816233194">m) 186</para>
+      <para id="id3777090">n) 1 528</para>
+      <para id="id1169816058911">o) 8,249</para>
+    </section>
+    <section id="id1169817147294">
+      <title>LEANER SECTION</title>
+      <para id="para-id1169817147294">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169817057526">
+      <title>Content</title>
+      <section id="id1169817135894">
+        <title>ACTIVITY: Area of irregular figures [LO 4.2, LO 2.5, LO 2.3]</title>
+        <para id="id1169816772265">16. AREA OF IRREGULAR FIGURES</para>
+        <para id="id8201471">16.1 a) Work together with a friend. How will you determine the area of this figure? Assume that every square is 1 cm2.</para>
+        <para id="id1169817269352">_____________________________________________________________________</para>
+        <para id="id1169814921597">_____________________________________________________________________</para>
+        <para id="id4101979">_____________________________________________________________________</para>
+        <para id="id1169816233614">_____________________________________________________________________</para>
+        <para id="id1169816786552">b) Now use your method and determine the area!</para>
+        <para id="id8197683">_____________________________________________________________________</para>
+        <para id="id8790063">_____________________________________________________________________</para>
+        <para id="id1169816825309">_____________________________________________________________________</para>
+        <para id="id1169818435040">_____________________________________________________________________</para>
+        <figure id="id1169817145822">
+          <media id="id1169817145822_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-2211.png" id="id1169817145822__onlineimage" height="139" width="121"/>
+          </media>
+        </figure>
+        <para id="id5916206">16.2 Did you know?</para>
+        <para id="id1169816317973">With irregular figures, we can only determine an approximate area. We do it by counting all the whole squares within the figure. We also count all the squares that are bigger than half a square and add it to the first total. The squares that are smaller than half a square are not counted. Can you give a reason for this?</para>
+        <para id="id8180352">_____________________________________________________________________</para>
+        <para id="id1169816349024">_____________________________________________________________________</para>
+        <para id="id5615061">_____________________________________________________________________</para>
+        <para id="id8831134">_____________________________________________________________________</para>
+        <para id="id1169817156089">This is how we express the approximate area in cm².</para>
+        <figure id="id1169817068496">
+          <media id="id1169817068496_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-2669.png" id="id1169817068496__onlineimage" height="185" width="173"/>
+          </media>
+        </figure>
+        <para id="id1169816316786">e.g. </para>
+        <para id="id1169816474295">Whole squares : 26</para>
+        <para id="id1169817209810">Squares bigger than half <emphasis effect="underline">: 12</emphasis></para>
+        <para id="id3827584">Approximate area :38 cm²</para>
+        <para id="id1169816272398">16.3 Now draw the outline of your hand on the squared paper below. Assume that each square is 1 cm².</para>
+        <figure id="id1169816038074">
+          <media id="id1169816038074_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-c5ec.png" id="id1169816038074__onlineimage" height="789" width="552"/>
+          </media>
+        </figure>
+        <para id="id1169816256346">a) Calculate the approximate area of your hand. __________________________</para>
+        <para id="id1169816180958">b) Which learner’s hand covered the biggest area? ________________________</para>
+        <para id="id1169817119085">c) Which learner’s hand covered the smallest area? ________________________</para>
+        <para id="id1169818820447">17 Time for self-assessment</para>
+        <table id="id1169817080967" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1169819452533" list-type="bulleted">
+                    <item>Tick the applicable column: </item>
+                  </list>
+                </entry>
+                <entry>Un­certain</entry>
+                <entry>Reasonably certain</entry>
+                <entry>Certain</entry>
+              </row>
+              <row>
+                <entry>I can explain the concept “area”.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can convert cm² to mm² and vice versa.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can convert m² tot cm² and vice versa.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can convert km² to m² and vice versa.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can convert m² to hectare and vice versa.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I know the formulas to determine the areas of the following figures:</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169819501952" list-type="bulleted">
+                    <item>square</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id7907632" list-type="bulleted">
+                    <item>rectangle</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169816088272" list-type="bulleted">
+                    <item>triangle</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can determine the area of regular figures.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can determine the approximate areas of irregular figures.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5564702">18.1 Let us play a game!</para>
+        <para id="id1169819608954">You need a friend, two dice, paper and a pencil. Player A is the “perimeter” and player B is the “area”. You are both “rectangles” and work in cm.</para>
+        <para id="id1169819872648">Player A throws the two dice and then works out the perimeter of a rectangle with the two numbers, e.g. 6 and 2.</para>
+        <para id="id1169815327815"> (6 x 2) + (2 x 2) = 16 cm</para>
+        <para id="id7026058">Player B calculates the area with the same numbers: 6 x 2 = 12 cm2</para>
+        <para id="id8437494">The perimeter is greater, thus player A gets two points. Take turns. The player who gets the most points after 15 rounds is the winner.</para>
+        <para id="id8612242">18.2 CHALLENGE!</para>
+        <para id="id1169818667840">a) Look carefully at this example of a house plan.</para>
+        <figure id="id1169816458200">
+          <media id="id1169816458200_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-1d10.png" id="id1169816458200__onlineimage" height="195" width="305"/>
+          </media>
+        </figure>
+        <para id="id1169819475991">b) Now draw your own plan of a house as simply as possible.</para>
+        <para id="id1169819314655">c) What is the area of the floor surface of your house? _____________________</para>
+        <para id="id1169816046464">d) How big is your yard? ____________________________________________</para>
+        <para id="id1169816147121">e) What is the perimeter of your garage(s)? _____________________________</para>
+        <para id="id1169819308639">f) If you sell your house for half a million rand, what will the cost be per m²? _____________________________________________________________________</para>
+        <para id="id7473762">_____________________________________________________________________</para>
+        <para id="id1169818986732">g) If your parents build on another room 6,1 m by 3,5 m, what will the area of your house then be?</para>
+        <para id="id1169818434074">_____________________________________________________________________</para>
+        <para id="id1169816476283">_____________________________________________________________________</para>
+        <para id="id1169818993283">19. Let us now see if you can improve on the results of your previous mental test.</para>
+        <para id="id1169816497695">Complete the following as quickly and accurately as possible:</para>
+        <para id="id1169819588159"/>
+        <para id="id1169817059806">a) 0,6 of 50 = _______________________</para>
+        <para id="id1169819590585">b) 0,8 of 50 = _______________________</para>
+        <para id="id1169818603687">c) 50% of 50 = ______________________</para>
+        <para id="id1169819146530">d) 70% of 50 = ______________________</para>
+        <para id="id1169818692104">e) 4,986 x 1 000 = ___________________</para>
+        <para id="id1169819098900">f) 0,251 x 10 = ____________________</para>
+        <para id="id8546171">g) 3,08 x 100 = ______________________</para>
+        <para id="id8888735">h) 7,12 x 10 = ____________________</para>
+        <para id="id1169818442888">i) 25% x 40 = _______________________</para>
+        <para id="id1169816398884">j) 100% x 40 = ______________________</para>
+        <para id="id1169816061178">k) 300% x 40 = ______________________</para>
+        <para id="id1169816084981">l) 174,3 ÷ 100 = _____________________</para>
+        <para id="id6937397">m) 18,6 ÷ 0,1 = ______________________</para>
+        <para id="id1169815325202">n) 15,28 ÷ 0,01 = ____________________</para>
+        <para id="id1169816045568">o) 8 249 ÷ 1 000 = ___________________</para>
+        <para id="id3339438">Did you improve? ______________________</para>
+      </section>
+    </section>
+    <section id="id3056355">
+      <title>Assessment</title>
+      <para id="id3042319"><emphasis><emphasis effect="italics">Learning Outcome 4:</emphasis></emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+      <para id="id1169818931936"><emphasis><emphasis effect="italics">Assessment Standard 4.2:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner solves problems;</para>
+      <para id="id1169819758846"><emphasis><emphasis effect="italics">Assessment Standard 4.5:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner calculates, by selecting and using appropriate formulae.</para>
+      <para id="id1169818863364"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1169819586990"><emphasis><emphasis effect="italics">Assessment Standard 1.8:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner performs mental calculations involving squares of natural numbers to at least 10<sup>2</sup> and cubes of natural numbers to at least 5<sup>³</sup>.</para>
+    </section>
+  </content>
+</document>

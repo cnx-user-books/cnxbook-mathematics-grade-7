@@ -1,0 +1,264 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Three dimensional objects</title>
+  <metadata>
+  <md:content-id>m22154</md:content-id><md:title>Three dimensional objects</md:title>
+  <md:abstract/>
+  <md:uuid>c01d6803-b582-4cb5-9eb2-c480a37f7483</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169676068208">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169676068208">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8670210">
+      <title>Perimeter, Area and Volume</title>
+      <para id="para-id8670210">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169681843362">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1169681843362">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169676687935">
+      <title>Memorandum</title>
+      <para id="id1169676729093">20.3.2  </para>
+      <para id="id1169686689329">a) sphere</para>
+      <para id="id1169686013634">   pyramid</para>
+      <para id="id1169679620988">   cube</para>
+      <para id="id1169675881969">cylinder</para>
+      <para id="id1169687866725">triangular prism</para>
+      <para id="id1169676270388">cone</para>
+      <para id="id1169676529952">hexagonal prism</para>
+      <para id="id1169684700048">c) b)  8; 12; 6</para>
+      <para id="id1169680876464">   c)  5; 8; 5</para>
+      <para id="id1169676725421">   d)  6; 10; 6</para>
+      <para id="id1169675828851">e) 12; 18; 8</para>
+      <para id="id1169683575525">f)  6; 9; 5</para>
+      <para id="id1169680900120">d) a) right-angled or rectangular prism</para>
+      <para id="id1169681628671">b) cube</para>
+      <para id="id1169679614008">c) pyramid</para>
+      <para id="id1169679656117">d) pentagonal pyramid</para>
+      <para id="id1169677840316">e) hexagonal prism</para>
+    </section>
+    <section id="id1169683962194">
+      <title>LEANER SECTION</title>
+      <para id="para-id1169683962194">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169676247448">
+      <title>Content</title>
+      <section id="id1169689104863">
+        <title>ACTIVITY: Three dimensional objects [LO 3.1, LO 3.2]</title>
+        <para id="id1169680517948">20. THREE DIMENSIONAL OBJECTS</para>
+        <para id="id1169689456350">20.1 Did you know?</para>
+        <para id="id1169676697721">Two-dimensional objects have only two dimensions, namely length and breadth, that enable us to calculate perimeter and area.</para>
+        <para id="id1169686503369">Three-dimensional objects have three dimensions: length, breadth and height, which enable us to calculate volume.</para>
+        <para id="id1169676273344">20.2 Did you also know?</para>
+        <figure id="id1169676046167">
+          <media id="id1169676046167_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-6a0c.png" id="id1169676046167__onlineimage" height="90" width="400"/>
+          </media>
+        </figure>
+        <para id="id1169680880958">20.3 Let us look at a few dimensional objects:</para>
+        <para id="id1169675846537">20.3.1 Interesting to know!</para>
+        <para id="id1169680750009">Three-dimensional figures are also known as cubic figures. Some figures have four or more faces (see sketch above) and are called polyhedrons.</para>
+        <para id="id1169676293684">The word polyhedron is Greek, which means many edges. The first polyhedrons were discovered more than 2 000 years ago by a Greek Mathematician, Euclid.</para>
+        <para id="id1169684487036">20.3.2 Work with a friend</para>
+        <para id="id1169676264452">a) Match each form with the correct description: </para>
+        <table id="id1169675931107" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <media id="id1169679656479" alt="">
+                    <image mime-type="image/png" src="../../media/graphics2-2d2c.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>pyramid</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1169676109341" alt="">
+                    <image mime-type="image/png" src="../../media/graphics3-630c.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>hexagonal prism</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1169688380952" alt="">
+                    <image mime-type="image/png" src="../../media/graphics4-80d0.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>sphere</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1169680537076" alt="">
+                    <image mime-type="image/png" src="../../media/graphics5-3f30.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>cone</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1169682096515" alt="">
+                    <image mime-type="image/png" src="../../media/graphics6-fa50.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>triangular prism</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1169679600040" alt="">
+                    <image mime-type="image/png" src="../../media/graphics7-774d.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>cube</entry>
+              </row>
+              <row>
+                <entry>
+                  <media id="id1169679643848" alt="">
+                    <image mime-type="image/png" src="../../media/graphics8-3128.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry>cylinder</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169684689663">b) Now use the above information and group the following items. Then report back to the class, providing reasons why you have grouped the forms in this way.</para>
+        <figure id="id1169676392563">
+          <media id="id1169676392563_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-e007.png" id="id1169676392563__onlineimage" height="283" width="527"/>
+          </media>
+        </figure>
+        <para id="id1169675861081">c) Complete the following table:</para>
+        <table id="id1169676038913" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Figure</entry>
+                <entry>Vertex</entry>
+                <entry>Edge</entry>
+                <entry>Face</entry>
+              </row>
+              <row>
+                <entry>e.g.a) </entry>
+                <entry>
+                  <media id="id1169679206531" alt="">
+                    <image mime-type="image/png" src="../../media/graphics10-df49.png"/>
+                  </media>
+                </entry>
+                <entry>8</entry>
+                <entry>12</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>
+                  <media id="id1169676292618" alt="">
+                    <image mime-type="image/png" src="../../media/graphics11-1867.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>
+                  <media id="id1169675897375" alt="">
+                    <image mime-type="image/png" src="../../media/graphics12-ddbf.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>
+                  <media id="id1169680726595" alt="">
+                    <image mime-type="image/png" src="../../media/graphics13-01c8.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>e)</entry>
+                <entry>
+                  <media id="id1169685791922" alt="">
+                    <image mime-type="image/png" src="../../media/graphics14-b0d3.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>f)</entry>
+                <entry>
+                  <media id="id1169681851904" alt="">
+                    <image mime-type="image/png" src="../../media/graphics15-9695.png"/>
+                  </media>
+                </entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169675896088">d) Can you name all the figures above?</para>
+        <para id="id1169678920326">a) _______________________________________________________________</para>
+        <para id="id1169682547399">b) _______________________________________________________________</para>
+        <para id="id1169675435354">c) _______________________________________________________________</para>
+        <para id="id1169678922094">d) _______________________________________________________________</para>
+        <para id="id1169679608664">e) _______________________________________________________________</para>
+        <para id="id1169679284501">f) _______________________________________________________________</para>
+        <para id="id1169675506239">21. Let us take a closer look at three-dimensional objects.</para>
+        <para id="id1169680833112">21.1.1 Did you know?</para>
+        <para id="id8730677">A cube is a square shape. Thus all its edges are equally long.</para>
+        <para id="id1169686326356">21.1.2 Look at this cube.</para>
+        <para id="id1169675537553">Can you draw this cube from another angle?</para>
+        <figure id="id1169675895800">
+          <media id="id1169675895800_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics16-8170.png" id="id1169675895800__onlineimage" height="136" width="150"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id5248647">
+      <title>Assessment</title>
+      <para id="id5381670"><emphasis><emphasis effect="italics">Learning Outcome 3:</emphasis></emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id1891597"><emphasis><emphasis effect="italics">Assessment Standard 3.1:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner recognises visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including those previously dealt with;</para>
+      <para id="id1169678936673"><emphasis><emphasis effect="italics">Assessment Standard 3.2:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes and classifies geometric figures and solids in terms of properties.</para>
+    </section>
+  </content>
+</document>

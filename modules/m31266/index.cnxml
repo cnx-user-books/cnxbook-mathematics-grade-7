@@ -1,0 +1,514 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Division by multiples of 10</title>
+  <metadata>
+  <md:content-id>m31266</md:content-id><md:title>Division by multiples of 10</md:title>
+  <md:abstract/>
+  <md:uuid>12886fd2-cfe6-4e28-a012-60198c9344fb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6212409">
+      <title>MATHEMATICS</title>
+      <para id="para-id6212409">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171117972354">
+      <title>Decimal Fractions</title>
+      <para id="para-id1171117972354">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171127967656">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1171127967656">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171121110991">
+      <title>Memorandum </title>
+      <para id="id1171130848507">23.4.2  a) 0,041</para>
+      <list id="id1171121586735" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,81</item>
+        <item>0,0093</item>
+      </list>
+      <list id="id1171117620996" list-type="bulleted">
+        <item>b en c</item>
+      </list>
+      <para id="id1171127677018">23.6 a) 1,234</para>
+      <list id="id1171127555311" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,845</item>
+        <item>7,23</item>
+      </list>
+      <para id="id2019260">25. a) R51</para>
+      <list id="id1171120695357" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>R211,59</item>
+        <item>21160c</item>
+        <item>R2,90</item>
+        <item>Ja</item>
+      </list>
+      <para id="id1668366">Cost per call: R1,77</para>
+      <list id="id1171120649860" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>91,5</item>
+        <item>R102,13</item>
+        <item>R1,28 x 24 = R30,72</item>
+        <item>R3,27</item>
+        <item>Own answers</item>
+      </list>
+    </section>
+    <section id="id1992700">
+      <title>Leaner Section</title>
+      <para id="para-id1992700">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171120774473">
+      <title>Content</title>
+      <section id="id1171127822835">
+        <title>ACTIVITY: Division by multiples of 10 [LO 1.5.1, LO 1.7.5]</title>
+        <para id="id1171117592310">23.4 DIVISION BY MULTIPLES OF 10</para>
+        <para id="id1171120620974">23.4.1 Do you still remember? </para>
+        <para id="id1171118127404">a) This is how I divide 0,8 by 40:</para>
+        <para id="id7433490">0,8 ÷ 40 = (0,8 ÷ 10) ÷ 4</para>
+        <para id="id1171129872410">= 0,08 ÷ 4</para>
+        <para id="id1171127942286">= 0,02</para>
+        <para id="id1171115937313">b) When I divide 4,2 by 600, I say:</para>
+        <para id="id1171118927563">4,2 ÷ 600 = (4,2 ÷ 100) ÷ 6</para>
+        <para id="id1171126982178">= 0,042 ÷ 6</para>
+        <para id="id1171120832211">= 0,007</para>
+        <para id="id1171122174613">23.4.2 Calculate the following without a calculator:</para>
+        <para id="id1171128647792">a) j = 3,28 ÷ 80</para>
+        <para id="id1171122493447">…………………………………………………………………………………………..</para>
+        <para id="id1171122433207">…………………………………………………………………………………………..</para>
+        <para id="id1171118125158">b) d = 567 ÷ 700</para>
+        <para id="id1171122205141">…………………………………………………………………………………………..</para>
+        <para id="id1171125468028">………………………………………………………………………………………….. </para>
+        <para id="id5603440">c) g = 18,6 ÷ 2 000</para>
+        <para id="id1171122118328">…………………………………………………………………………………………..</para>
+        <para id="id1171125588762">………………………………………………………………………………………….. </para>
+        <para id="id1145683">23.5 DIVISION WITH DECIMAL FRACTIONS</para>
+        <para id="id1171128048249">23.5.1 Work through the following examples with a friend:</para>
+        <para id="id1171120727753">A roll of material is 11,25 m long. 1,5 m of material is needed to make one dress. </para>
+        <para id="id1171127088375">How many dresses can be cut from this roll of material?</para>
+        <para id="id1171127697792">a) I must calculate 11,25 ÷ 1,5</para>
+        <para id="id3476254">I change the decimal fractions to fractions:</para>
+        <para id="id1171122519766"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>25</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>11</m:mtext></m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>25</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>11</m:mtext></m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11","25"="11" {  { size 8{"25"} }  over  { size 8{"100"} } } ="11" {  { size 8{1} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math> en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>1,5</m:mn><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,5=1 {  { size 8{5} }  over  { size 8{"10"} } } =1 {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+        <equation id="id1171122109176">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>11</m:mtext>
+                              <m:mrow>
+                                <m:mfrac>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>4</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mfrac>
+                                <m:mo stretchy="false">÷</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mfrac>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mfrac>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mrow>
+                                  <m:mfrac>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mtext>45</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>4</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                  <m:mo stretchy="false">÷</m:mo>
+                                  <m:mfrac>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>3</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>45</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mn>7</m:mn>
+                        <m:mfrac>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"11" {  { size 8{1} }  over  { size 8{4} } }  div 1 {  { size 8{1} }  over  { size 8{2} } } = {  { size 8{"45"} }  over  { size 8{4} } }  div  {  { size 8{3} }  over  { size 8{2} } } }  {} # 
+= {  { size 8{"45"} }  over  { size 8{4} } }  times  {  { size 8{2} }  over  { size 8{3} } }  {} # 
+=7 {  { size 8{1} }  over  { size 8{2} } }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1171121417208">I make use of <emphasis effect="bold">equivalent fractions</emphasis>: </para>
+        <equation id="id1171128218660">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>11</m:mtext>
+                              <m:mi>,</m:mi>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>25</m:mtext>
+                                    <m:mo stretchy="false">÷</m:mo>
+                                    <m:mn>1,5</m:mn>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:mfrac>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow>
+                                            <m:mtext>11</m:mtext>
+                                            <m:mi>,</m:mi>
+                                            <m:mtext>25</m:mtext>
+                                          </m:mrow>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>1,5</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mfrac>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mfrac>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mtext>10</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mtext>10</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mfrac>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mtext>112</m:mtext>
+                                        <m:mi>,</m:mi>
+                                        <m:mn>5</m:mn>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mtext>15</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mfrac>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mn>7,5</m:mn>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mn>7</m:mn>
+                        <m:mfrac>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                        <m:mi/>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"11","25" div 1,5= {  { size 8{"11","25"} }  over  { size 8{1,5} } }  times  {  { size 8{"10"} }  over  { size 8{"10"} } } = {  { size 8{"112",5} }  over  { size 8{"15"} } } }  {} # 
+=7,5 {} # 
+=7 {  { size 8{1} }  over  { size 8{2} } } ` {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id1171120249307">c) I must calculate 11,25 ÷ 1,5I change the <emphasis effect="bold">divisor to a whole number</emphasis> so that I can divide easier.</para>
+        <para id="id1171120107821">1,5 × 10 = 15</para>
+        <para id="id1171125527062">To keep the balance in the sum, I must also multiply the dividend by 10!</para>
+        <para id="id2170177">11,25 × 10 = 112,5</para>
+        <table id="id8699970" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry namest="c3" nameend="c4">7</entry>
+                <entry>,5</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>15</entry>
+                <entry namest="c3" nameend="c4">112</entry>
+                <entry>,5</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry namest="c3" nameend="c4">–105 </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry namest="c3" nameend="c4">7</entry>
+                <entry>5</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>–7</entry>
+                <entry>5</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>·</entry>
+                <entry>·</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1171120408424">The answer is thus 7,5 dresses..</para>
+        <para id="id1171121860822">23.5.2 Which of the above-mentioned methods are precisely the same?</para>
+        <para id="id7090908">…………………………………………………………………………………………..</para>
+        <para id="id1171120056850">…………………………………………………………………………………………..</para>
+        <para id="id1171116150676">23.5.2 Which of the above-mentioned methods are precisely the same?</para>
+        <para id="id1171115832177"/>
+        <para id="id1171120151560">23.6 Calculate the following by first changing the divisor to a whole number:</para>
+        <para id="id1171128765400">a) q = 0,88848 ÷ 0,72</para>
+        <para id="id1171118409860">…………………………………………………………………………………………..</para>
+        <para id="id1171121884370">…………………………………………………………………………………………..</para>
+        <para id="id1171128403928">…………………………………………………………………………………………..</para>
+        <para id="id2408497">…………………………………………………………………………………………..</para>
+        <para id="id1171120345228">b) p = 0,14365 ÷ 0,17</para>
+        <para id="id1171120351408">…………………………………………………………………………………………..</para>
+        <para id="id1171128446893">…………………………………………………………………………………………..</para>
+        <para id="id1171127702914">…………………………………………………………………………………………..</para>
+        <para id="id1171121696680">…………………………………………………………………………………………..</para>
+        <para id="id1171116459397">c) v = 0,30366 ÷ 0,042</para>
+        <para id="id1171120425706">…………………………………………………………………………………………..</para>
+        <para id="id1171120122394">…………………………………………………………………………………………..</para>
+        <para id="id1171124275713">…………………………………………………………………………………………..</para>
+        <para id="id1171120620506">…………………………………………………………………………………………..</para>
+        <para id="id1171126793828"/>
+        <para id="id1171127725197">24. Time for self-assessment</para>
+        <table id="id1171127672770" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1171130830313" list-type="bulleted">
+                    <item>Tick the applicable block:</item>
+                  </list>
+                </entry>
+                <entry>YES</entry>
+                <entry>NO</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can divide decimal fractions by 10 correctly.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can divide decimal fractions by 100 correctly.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can divide decimal fractions by 1 000 correctly.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I know how to divide decimal fractions by multiples of 10.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can divide decimal fractions by decimal fractions.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1171119603863">25. Look at the following telephone account and answer the questions. You may use your calculator.</para>
+        <figure id="id1171120219629">
+          <media id="id1171120219629_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-cff7.png" id="id1171120219629__onlineimage" height="419" width="575"/>
+          </media>
+        </figure>
+        <para id="id1171125479820">a) Round off the cost of the overseas call to the nearest rand. ……………………</para>
+        <para id="id1171120070915">b) What is the total cost of the calls that were made? …………………………….</para>
+        <para id="id1171117656719">c) Round off the above answer to the nearest cent. ………………………………</para>
+        <para id="id1171120661450">d) What was the average cost of each cell phone (Vodacom) call? ………………</para>
+        <para id="id3743528">e) Is MTN cheaper than Vodacom? ……………….. Motivate. ………………...</para>
+        <para id="id1171128168845">…………………………………………………………………………………………..</para>
+        <para id="id1171128515187">…………………………………………………………………………………………..</para>
+        <para id="id1171118107215">f) Round off the cost of the national calls (0 – 50 km) to 1 digit after the comma.</para>
+        <para id="id1171120016848">…………………………………………………………………………………………..</para>
+        <para id="id4675259">g) What is the total cost of the national calls? ……………………………………</para>
+        <para id="id1171122460758">h) If two “ShareCall” calls cost R1,28, what would 48 such calls cost?</para>
+        <para id="id1171131932399">………………………………………………………………………………………….. </para>
+        <para id="id1171121667334">i) The account is paid with a R200 note and a R20 note. How much change will be given?</para>
+        <para id="id1171115728596">…………………………………………………………………………………………..</para>
+        <para id="id1171127832591">j) How much is YOUR telephone account each month, on average, over a period of one year?</para>
+        <para id="id1171118713757">…………………………………………………………………………………………..</para>
+      </section>
+    </section>
+    <section id="id1171120705532">
+      <title>Assessment</title>
+      <para id="id3730897"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id3788651"><emphasis>Assessment Standard 1.5:</emphasis> We know this when the learner solves problems in context including contexts that may be used to build awareness of other Learning Areas, as well as human rights, social, economic and environmental issues such as:</para>
+      <para id="id1171122293116">1.5.1 financial (including profit and loss, budgets, accounts, loans, simple interest, hire purchase, exchange rates);</para>
+      <para id="id1171127802653"><emphasis>Assessment Standard 1.7:</emphasis> We know this when the learner estimates and calculates by selecting and using operations appropriate to solving problems that involve:</para>
+      <para id="id1647207">1.7.5 division of positive decimals with at least 3 decimal places by whole numbers.</para>
+    </section>
+  </content>
+</document>

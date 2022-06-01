@@ -1,0 +1,339 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Decimal fractions and rounding off</title>
+  <metadata>
+  <md:content-id>m31260</md:content-id><md:title>Decimal fractions and rounding off</md:title>
+  <md:abstract/>
+  <md:uuid>d7628234-d822-46a7-97bf-e1dabe6c5e4a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id23981163">
+      <title>MATHEMATICS</title>
+      <para id="para-id23981163">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id20948381">
+      <title>Decimal Fractions</title>
+      <para id="para-id20948381">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16726766">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id16726766">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10514137">
+      <title>Memorandum </title>
+      <list id="id20747971" list-type="bulleted">
+        <item>a) 41c</item>
+      </list>
+      <list id="id11164650" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>42
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></item>
+        <item>44c</item>
+      </list>
+      <list id="id18638658" list-type="bulleted">
+        <item>Rounding off</item>
+      </list>
+      <para id="id14499418">11.3.1 a) Look at the 2<sup>nd</sup> digit after comma (100ths) </para>
+      <para id="id6427236">If 5, 6, 7, 8, 9: 10ths – digit 1 more</para>
+      <para id="id5790786">If 4, 3, 2, 1, 0: 10ths – digits remains the same</para>
+      <para id="id4524781">Replace everything after 10ths with noughts</para>
+      <section id="id21254932">
+        <title/>
+        <list id="id16940888" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>Look at 3<sup>rd</sup> digit after comma</item>
+        </list>
+        <para id="id23807869">If 5, 6, 7, 8, 9: 100ths – digit 1 more</para>
+        <para id="id21290111">If 4, 3, 2, 1, 0: 100ths – digit remains the same</para>
+        <para id="id16580152">Replace everything after 100ths with noughts</para>
+      </section>
+      <section id="id21014482">
+        <title/>
+        <list id="id18832915" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>Look at 4<sup>th</sup> digit after comma</item>
+        </list>
+        <para id="id17067230">If 5. 6, 7, 8, 9: Thousandths 1 more</para>
+        <para id="id12825894">If 4, 3, 2, 1, 0: Thousandths temain the same</para>
+        <para id="id5710332">Replace everything after 1 000ths with noughts</para>
+        <para id="id17203332">11.4 a) 4,5</para>
+        <para id="id10587171">  9,9</para>
+        <para id="id10649349">  5,3</para>
+        <para id="id4845272">  7,6</para>
+        <para id="id18535979">  52,6</para>
+        <para id="id5843037">  88</para>
+        <para id="id11143720">11.4 b)</para>
+        <table id="id9110166" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6,41</entry>
+                <entry>8,60</entry>
+                <entry>7,26</entry>
+                <entry>9,49</entry>
+                <entry>5,03</entry>
+                <entry>6,29</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id18485767">
+          <figure id="id18485770">
+            <media id="id18485770_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-320a.png" id="id18485770__onlineimage" height="49" width="93"/>
+            </media>
+          </figure>
+          <figure id="id5000506">
+            <media id="id5000506_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-5103.png" id="id5000506__onlineimage" height="49" width="93"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id21155446">11.4 c) (i)     (ii) </para>
+        <figure id="id20925934">
+          <media id="id20925934_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-5588.png" id="id20925934__onlineimage" height="49" width="93"/>
+          </media>
+        </figure>
+        <figure id="id12609060">
+          <media id="id12609060_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-4c91.png" id="id12609060__onlineimage" height="49" width="93"/>
+          </media>
+        </figure>
+        <para id="id8958576">  (iii)     (iv) </para>
+        <para id="id18697712">
+          <figure id="id12656444">
+            <media id="id12656444_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics5-9320.png" id="id12656444__onlineimage" height="49" width="93"/>
+            </media>
+          </figure>
+          <figure id="id19012441">
+            <media id="id19012441_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics6-7668.png" id="id19012441__onlineimage" height="49" width="93"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id22789421" list-type="bulleted">
+          <item>(vi)</item>
+        </list>
+        <para id="id9108237">12.2 a) 11</para>
+        <list id="id24013607" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>R406</item>
+          <item>6</item>
+          <item>5</item>
+          <item>R327</item>
+          <item>8</item>
+          <item>9</item>
+          <item>14</item>
+          <item>448</item>
+          <item>1 390</item>
+        </list>
+      </section>
+    </section>
+    <section id="id20929532">
+      <title>Leaner Section</title>
+      <para id="para-id20929532">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id19033537">
+      <title>Content</title>
+      <section id="id16979435">
+        <title>ACTIVITY: Decimal fractions and rounding off [LO 1.4.2, LO 1.7.1]</title>
+        <para id="id18406312">11.1 DECIMAL FRACTIONS AND ROUNDING OFF</para>
+        <para id="id10583396">Work together with a friend. Look at the sketches. What does one potato cost in each case?</para>
+        <figure id="id9018531">
+          <media id="id9018531_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-3fcd.png" id="id9018531__onlineimage" height="387" width="575"/>
+          </media>
+        </figure>
+        <para id="id18944083">11.2 Round off the following to the nearest whole number. Write down the corresponding letter and see what word is hiding away.</para>
+        <table id="id5826092" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>B</entry>
+                <entry>D</entry>
+                <entry>E</entry>
+                <entry>F</entry>
+                <entry>G</entry>
+                <entry>I</entry>
+                <entry>K</entry>
+              </row>
+              <row>
+                <entry>39</entry>
+                <entry>149</entry>
+                <entry>7</entry>
+                <entry>236</entry>
+                <entry>38</entry>
+                <entry>6</entry>
+                <entry>17</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id18911536" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>L</entry>
+                <entry>M</entry>
+                <entry>N</entry>
+                <entry>O</entry>
+                <entry>R</entry>
+                <entry>S</entry>
+                <entry>T</entry>
+                <entry>U</entry>
+              </row>
+              <row>
+                <entry>237</entry>
+                <entry>15</entry>
+                <entry>35</entry>
+                <entry>16</entry>
+                <entry>8</entry>
+                <entry>150</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5010265">a) 8,047</para>
+        <para id="id18912494">b) 15,51</para>
+        <para id="id20598272">c) 3,7</para>
+        <para id="id10541986">d) 35,236</para>
+        <para id="id22792321">e) 149,089</para>
+        <para id="id20624558">f) 6,4</para>
+        <para id="id11181400">g) 35,09</para>
+        <para id="id11380543">h) 38,456</para>
+        <para id="id20587869">i) 15,912</para>
+        <para id="id20973565">j) 236,199</para>
+        <para id="id12052272">k) 235,89</para>
+        <para id="id4635966">What is your answer? ...........................................................................</para>
+        <para id="id21172093">11.3.1 Work in groups of three. Formulate rules/methods for the following:</para>
+        <para id="id12717622">a) Rounding off to one decimal place (tenths):</para>
+        <para id="id19081503"/>
+        <para id="id12825829"/>
+        <para id="id11187032"/>
+        <para id="id11187036"/>
+        <para id="id5241608">b) Rounding off to two decimal places (hundredths):</para>
+        <para id="id12694510"/>
+        <para id="id17721870"/>
+        <para id="id18551640"/>
+        <para id="id18551645"/>
+        <para id="id11422588">c) Rounding off to three decimal places (thousandths):</para>
+        <para id="id9033181"/>
+        <para id="id18944047"/>
+        <para id="id21211264"/>
+        <para id="id21211268">11.3.2 Compare your answers with those of the rest of the class.</para>
+        <para id="id24948237">11.4 </para>
+        <para id="id24948243">a) Complete the following flow diagram:</para>
+        <figure id="id20733306">
+          <media id="id20733306_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics8-ae6b.png" id="id20733306__onlineimage" height="247" width="463"/>
+          </media>
+        </figure>
+        <para id="id20588017">b) See if you can complete the table correctly:</para>
+        <table id="id10702825" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Number</entry>
+                <entry>4,368</entry>
+                <entry>6,411</entry>
+                <entry>8,599</entry>
+                <entry>7,255</entry>
+                <entry>9,493</entry>
+                <entry>5,034</entry>
+                <entry>6,286</entry>
+              </row>
+              <row>
+                <entry>Rounded off to 2 decimal places</entry>
+                <entry>4,37</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+                <entry>.............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7877530">c) Round off the following to 3 decimal places. Draw a circle around the correct answer:</para>
+        <figure id="id17227911">
+          <media id="id17227911_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-5cb5.png" id="id17227911__onlineimage" height="360" width="525"/>
+          </media>
+        </figure>
+        <para id="id11265783">12.1 Do you still remember?</para>
+        <para id="id20885056"> 1 000 ml  = 1 litre</para>
+        <para id="id6708847"> 1 000 g = 1 kg</para>
+        <para id="id18719696"> 1 000 kg = 1 tonne </para>
+        <para id="id20738227"> 1 000 litres = 1 k </para>
+        <para id="id6341049"> 1 000 m = 1 km</para>
+        <para id="id11406406"> 100 c = R1,00</para>
+        <para id="id23474105">12.2 Fill in the missing answers:</para>
+        <para id="id19046142">e.g. 3 521 mm to the nearest m = 4 m</para>
+        <para id="id11169848">a) 11 296 mm to the nearest m = ......................... m</para>
+        <para id="id4582456">b) R406,38 to the nearest rand = R.........................</para>
+        <para id="id6069720">c) 6 455 litre to the nearest kl = ......................... kl</para>
+        <para id="id11159829">d) 4 823 kg to the nearest tonne = ......................... t</para>
+        <para id="id18527003">e) 32 687 c to the nearest rand = R.........................</para>
+        <para id="id6821275">f) 8 388 g to the nearest kg = ......................... kg</para>
+        <para id="id16821046">g) 8 630 m to the nearest litre = ......................... litres</para>
+        <para id="id12564055">h) 14 277 m to the nearest km = ......................... km</para>
+        <para id="id4778515">i) R4,4839 to the nearest cent = ......................... c</para>
+        <para id="id13602589">j) R13,9021 to the nearest cent = ......................... c</para>
+      </section>
+    </section>
+    <section id="id21254960">
+      <title>Assessment</title>
+      <para id="id23586440"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id8302980"><emphasis>Assessment Standard 1.4</emphasis> We know this when the learner recognises and uses equivalent forms of the rational numbers listed above, including:</para>
+      <para id="id18529421">1.4.2 decimals;</para>
+      <para id="id8347378"><emphasis>Assessment Standard 1.7:</emphasis> We know this when the learner estimates and calculates by selecting and using operations appropriate to solving problems that involve:</para>
+      <para id="id11923252">1.7.1 rounding off numbers to at least one decimal place.</para>
+    </section>
+  </content>
+</document>

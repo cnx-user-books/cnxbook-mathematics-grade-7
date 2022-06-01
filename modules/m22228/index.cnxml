@@ -1,0 +1,456 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Probability</title>
+  <metadata>
+  <md:content-id>m22228</md:content-id><md:title>Probability</md:title>
+  <md:abstract/>
+  <md:uuid>127d8006-5d66-4521-9ee3-90f714ee2db3</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8603535">
+      <title>MATHEMATICS</title>
+      <para id="para-id8603535">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165338652092">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id1165338652092">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8220854">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id8220854">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5901880">
+      <title>Memorandum</title>
+      <para id="id5751040">20.3 (a) (i) a half (one out of 2)</para>
+      <para id="id3378938"> (ii) a half (one out of 2)</para>
+      <para id="id1165336402743"> (c) one quarter (one out of 6)</para>
+      <para id="id7944701"> (d) 2 out of 21</para>
+      <para id="id1165338435983">20.4 (a) one sixth (one out of six)</para>
+      <para id="id8768400">20.5 six out of 36 (one sixth)</para>
+      <para id="id8159303">22. ALL THE MATHS IS DONE!</para>
+      <para id="id1165342057624">MODULE TEST 9</para>
+      <para id="id1165338532821">1. Check learner’s effort.</para>
+      <para id="id8842378">2. glide</para>
+      <para id="id1165336597186">3. (a) Only a part of the group was questioned to get information</para>
+      <para id="id8459265">.</para>
+      <para id="id1165337249044">(b) About the possibility that something might happen.</para>
+      <para id="id2707535">4. (a) 10</para>
+      <para id="id1165342993200"> (b) 10</para>
+      <para id="id1165338717070"> (c) 10,6</para>
+      <para id="id1165336614475">5. (a) picture graph / pictogram</para>
+      <para id="id1165342862294">(b) Learners are six years and older in grade 1. / Nobody is younger than six years.</para>
+      <para id="id1165340796634">(c) 110</para>
+      <para id="id6077464">(d) 30</para>
+      <para id="id6438218">(e) 680</para>
+      <para id="id1165342843176">6.</para>
+      <para id="id1165340616981">7.4 4 out of 32 (one eigth).</para>
+    </section>
+    <section id="id6512578">
+      <title>LEARNERS SECTION</title>
+      <para id="para-id6512578">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8388446">
+      <title>Content</title>
+      <para id="para-id8388446">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7751569">
+      <title>ACTIVITY: Probability [LO 5.10, LO 5.9]</title>
+      <para id="id1165341852886">20. PROBABILITY</para>
+      <para id="id1165340556454">20.1 Class discussion</para>
+      <para id="id1165342972710">a) What chance do you have of passing Grade 7?</para>
+      <para id="id1165338027994">b) What is the chance that it will rain today?</para>
+      <para id="id1165340583715">c) What chance does your team (any sport) have of winning the next match?</para>
+      <para id="id1165337514448">d) What is your chance of winning the Lotto?</para>
+      <para id="id1165336445479">e) What is the chance that one day you will walk on the moon?</para>
+      <para id="id1165337532294">20.2.1 Did you know?</para>
+      <para id="id3941867">In the above cases, you have actually estimated the possibility that something will or will not happen.</para>
+      <para id="id1165337613163">20.2.2 Did you also know?</para>
+      <para id="id1165341517202">Probability stretches from “no chance” that something will happen to “it will definitely happen”.</para>
+      <para id="id1165337592001">A probability of 0 means that the happening will never occur.</para>
+      <para id="id6521541">A probability of 1 means that the happening will definitely occur.</para>
+      <para id="id7293916">20.2.3 IMPORTANT to KNOW:</para>
+      <para id="id1165337062104">The probability that something will happen depends on:</para>
+    </section>
+    <section id="id1165337499426">
+      <title>The number of times it can happen</title>
+      <para id="id3602439">Total number of possibilities</para>
+      <para id="id6368752">The closer you answer is to 1, the more likely it is </para>
+      <para id="id1165336430310">that the event/happening will take place.</para>
+      <para id="id8203628">20.3 Work with a friend and answer the following questions:</para>
+      <para id="id1165338477737">a) You throw a coin up into the air. What is the probability that it will fall:</para>
+      <para id="id1165340921889">i) heads up? ________________________</para>
+      <para id="id1165340017217">ii) tails up? _________________________</para>
+      <para id="id8423526">b) Throw a coin into the air 50 times. Your friend can help you keep record which side of the coin faced upwards each time it landed.</para>
+      <para id="id1165337952183">i) Complete the table:</para>
+      <table id="id1165337249401" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>Heads</entry>
+              <entry>Tails</entry>
+              <entrytbl namest="c4" nameend="c5" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c2">Probability</entry>
+                  </row>
+                  <row>
+                    <entry>Heads</entry>
+                    <entry>Tails</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>E.g.</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>10</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{"10"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>10</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{6} }  over  { size 8{"10"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>First 10 throws:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Second 10 throws:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Third 10 throws:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Fourth 10 throws:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+            <row>
+              <entry>Fifth 10 throws:</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+              <entry>.............</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4762465">ii) What is the average for your throws for:</para>
+      <para id="id1165342050346">a) heads: _______________________</para>
+      <para id="id8155382">a) tails: ________________________</para>
+      <para id="id6987211">c) What is the probability that both coins will land heads up if you throw them up at the same time?</para>
+      <para id="id1165337759382">_____________________________________________________________________</para>
+      <para id="id1165338769851">d) A person participating in the Lotto game must take a blue ball out of the container in order to win a prize. If there are 19 pink balls and 2 blue balls in the container, what is the probability that the contestant will win a prize?</para>
+      <para id="id4790697">_____________________________________________________________________</para>
+      <para id="id8076603">20.4 Work on your own. You will need a di.</para>
+      <para id="id7851533">a) What is the probability that the 3 will fall on top when you throw the dice? _____________________________________________________________________</para>
+      <para id="id2454900">b) Now throw the di 15 times. In the space below make a tick (√) every time the 3 lands on top.</para>
+      <para id="id1165340005777">Now write the total number of ticks as a fraction where the denominator is 15. _____________________________________________________________________</para>
+      <para id="id8120772">Is your answer close to one sixth (use your calculator) _________________________</para>
+      <para id="id1165341576374">Can you explain this? __________________________________________________</para>
+      <para id="id1165337944564">_____________________________________________________________________</para>
+      <para id="id6144647">20.5 Did you know?</para>
+      <para id="id1165342897722">It would be pure chance if you achieved a probability of one sixth in the above activity. Practical probability is based on what you actually did. Theoretical probability is only an attempt to predict what might happen.</para>
+      <para id="id1165337245470">The more times that you throw the di, the closer the practical</para>
+      <para id="id1165337570854">and theoretical probabilities should come to each other.</para>
+      <para id="id1165337020117">20.6 BRAINTEASER</para>
+      <list id="id1165339270145" list-type="bulleted">
+        <item>What is the probability that you will get 7, if you throw two dice at the same time and add the numbers that are showing upwards?</item>
+      </list>
+      <para id="id1165336540815">_____________________________________________________________________</para>
+      <para id="id1165337704556">_____________________________________________________________________</para>
+      <para id="id6174633">21. Time for self-assessment</para>
+      <table id="id2478105" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>
+                <list id="id5811848" list-type="bulleted">
+                  <item>Colour in the face that is true of you:</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>I can explain the concept “probability”.</entry>
+              <entry>
+                <media id="id1165338539685" alt="">
+                  <image mime-type="image/png" src="../../media/graphics1-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1165338721150" alt="">
+                  <image mime-type="image/png" src="../../media/graphics2-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id5950936" alt="">
+                  <image mime-type="image/png" src="../../media/graphics3-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>I know what a probability of 0 means.</entry>
+              <entry>
+                <media id="id1165339263379" alt="">
+                  <image mime-type="image/png" src="../../media/graphics4-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1165337025904" alt="">
+                  <image mime-type="image/png" src="../../media/graphics5-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1165342989910" alt="">
+                  <image mime-type="image/png" src="../../media/graphics6-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>know what a probability of 1 means.</entry>
+              <entry>
+                <media id="id1165338817702" alt="">
+                  <image mime-type="image/png" src="../../media/graphics7-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1165336552088" alt="">
+                  <image mime-type="image/png" src="../../media/graphics8-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id8176496" alt="">
+                  <image mime-type="image/png" src="../../media/graphics9-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>I know the “formula” to determine probability.</entry>
+              <entry>
+                <media id="id1165340751512" alt="">
+                  <image mime-type="image/png" src="../../media/graphics10-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id6711740" alt="">
+                  <image mime-type="image/png" src="../../media/graphics11-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id8501685" alt="">
+                  <image mime-type="image/png" src="../../media/graphics12-2974.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>I was able to correctly calculate the probability in the given questions.</entry>
+              <entry>
+                <media id="id6027635" alt="">
+                  <image mime-type="image/png" src="../../media/graphics13-e20c.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1165337607520" alt="">
+                  <image mime-type="image/png" src="../../media/graphics14-1bea.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1165337544021" alt="">
+                  <image mime-type="image/png" src="../../media/graphics15-2974.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165340920990">22. For FUN!</para>
+      <list id="id4641299" list-type="bulleted">
+        <item>Use the given co-ordinates and decode the code:</item>
+      </list>
+      <para id="id2517290">(9,9) (9,2) (1,10) (1,10) (3,2)  (1,0) (6,10) (2,6)</para>
+      <para id="id4874861">............................................ .........................</para>
+      <para id="id7523623">(4,1) (3,2) (1,10) (1,10) (5,8)  (8,5) (6,10) (1,2) (6,10)</para>
+      <para id="id1165343794634">............................................ ......................................</para>
+      <para id="id1165337378159">(8,5) (6,10) (1,2) (1,8) (8,5) (9,9) (3,8) (9,1) (5,8) (6,10)!!</para>
+      <para id="id1165337383006">................. ......................................................................!!</para>
+      <figure id="id6350068">
+        <media id="id6350068_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics16-07de.png" id="id6350068__onlineimage" height="257" width="257"/>
+        </media>
+      </figure>
+      <section id="id1165338681806">
+        <title>Assessment</title>
+        <para id="id2455867"><emphasis>Learning Outcome 5:</emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+        <para id="id1165338686544"><emphasis>Assessment Standard 5.9:</emphasis><emphasis effect="italics"/>We know this when the learner critically reads and interprets data presented in a variety of ways to draw conclusions and make predictions sensitive.</para>
+        <para id="id1165337542239"><emphasis>Assessment Standard 5.10:</emphasis><emphasis effect="italics"/>We know this when the learner performs simple experiments where the possible outcomes are equally likely.</para>
+      </section>
+      <section id="id2390317">
+        <title>MODULE TEST</title>
+        <para id="id7708970">1. Reduce the frog on a scale 2:1.</para>
+        <figure id="id6142334">
+          <media id="id6142334_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics17-cd04.png" id="id6142334__onlineimage" height="314" width="523"/>
+          </media>
+        </figure>
+        <para id="id7883889">(3)</para>
+        <para id="id1165340667561">2. What kind of transformation was in the following figure?</para>
+        <figure id="id8001946">
+          <media id="id8001946_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics18-90d5.png" id="id8001946__onlineimage" height="107" width="68"/>
+          </media>
+        </figure>
+        <para id="id1165337269695">_____________________________________________</para>
+        <para id="id8912269">(1)</para>
+        <para id="id7868136">3. Explain the following concepts:</para>
+        <para id="id3361038">a) random test: ____________________________________________________</para>
+        <para id="id2911264">_____________________________________________________________________</para>
+        <para id="id1165340244051">_____________________________________________________________________</para>
+        <para id="id2107907">(2)</para>
+        <para id="id1165343113247">b) probability: _____________________________________________________</para>
+        <para id="id7707862">_____________________________________________________________________</para>
+        <para id="id1165337031264">_____________________________________________________________________</para>
+        <para id="id8267818">(2)</para>
+        <para id="id7105664">4. Look at the following:</para>
+        <para id="id3947953">A group of learners’ marks out of 15 were as follows:</para>
+        <para id="id1165337068682">6; 11 ; 12 ; 15 ; 9 ; 10 ; 10 ; 10 ; 8 ; 15</para>
+        <para id="id1165338964751">a) Calculate the mode:_______________________________________________</para>
+        <para id="id1165338689807">_____________________________________________________________________</para>
+        <para id="id1165340589014">_____________________________________________________________________</para>
+        <para id="id5922382">(2)</para>
+        <para id="id1165337277807">b) Calculate the median: _____________________________________________</para>
+        <para id="id8631632">_____________________________________________________________________</para>
+        <para id="id1165337546343">_____________________________________________________________________</para>
+        <para id="id1165336612299">(2)</para>
+        <para id="id1165343054136">c) Calculate the arithmetic mean (average): ______________________________</para>
+        <para id="id6774397">_____________________________________________________________________</para>
+        <para id="id1165340488701">_____________________________________________________________________</para>
+        <para id="id1165342801906">(2)</para>
+        <para id="id1165338435264">5. Study the graph and answer the following questions:</para>
+        <figure id="id8463638">
+          <media id="id8463638_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics19-0595.png" id="id8463638__onlineimage" height="339" width="227"/>
+          </media>
+        </figure>
+        <para id="id1165337362069">a) What is this type of graph called?</para>
+        <para id="id1165342644914">_____________________________________________________________________</para>
+        <para id="id1165340514549">(1)</para>
+        <para id="id1165336496974">b) Why does it “jump” from 0 to 6?</para>
+        <para id="id1165337585732">_____________________________________________________________________</para>
+        <para id="id2401008">_____________________________________________________________________</para>
+        <para id="id6566123">(1)</para>
+        <para id="id8017938">c) How many learners are 7 years old?</para>
+        <para id="id1165342888803">_____________________________________________________________________</para>
+        <para id="id7019222">(1)</para>
+        <para id="id8242242">d) How many more 9 year old learners are there than 12 year olds?</para>
+        <para id="id1165341589567">_____________________________________________________________________</para>
+        <para id="id8231799">(1)</para>
+        <para id="id1165342861095">e) How many learners are there in the school?</para>
+        <para id="id4674700">_____________________________________________________________________</para>
+        <para id="id6154726">(1)</para>
+        <para id="id1165338380654">6. Represent the information given in question on a line graph.</para>
+        <para id="id6574300">(3)</para>
+        <para id="id1165337526773">7. What is the probability that you will take a black ball from a container containing 12 red, 6 green, 4 black, 2 yellow and 8 blue balls?</para>
+        <para id="id4315662">_____________________________________________________________________</para>
+        <para id="id7312459">_____________________________________________________________________</para>
+        <para id="id5216043">_____________________________________________________________________</para>
+        <para id="id1165337938771">_____________________________________________________________________</para>
+        <para id="id1165337618334">(2)</para>
+      </section>
+    </section>
+  </content>
+</document>

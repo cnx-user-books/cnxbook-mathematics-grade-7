@@ -1,0 +1,402 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Polygons</title>
+  <metadata>
+  <md:content-id>m22113</md:content-id><md:title>Polygons</md:title>
+  <md:abstract/>
+  <md:uuid>b10c664a-1f4f-4d5b-8d8b-6f6d8b0e6326</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3671981">
+      <title>MATHEMATICS</title>
+      <para id="para-id3671981">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7879862">
+      <title>Space and Shape</title>
+      <para id="para-id7879862">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4464902">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id4464902">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170400317706">
+      <title>Memorandum</title>
+      <para id="id1170400389247">15.2 </para>
+      <para id="id650159">(a) concave</para>
+      <para id="id3973384">(b) concave</para>
+      <para id="id4272768">(c) convex</para>
+      <para id="id5511426">16.1  </para>
+      <para id="id8861068">(a) rhombus    </para>
+      <para id="id6098327">(b) trapezium</para>
+      <para id="id1170400350733">(c) octagon     </para>
+      <para id="id1170400313152">(d) quadrilateral polygon</para>
+      <para id="id1170403731042">(e) hexagon</para>
+      <para id="id1170409220575">(f) heptagon</para>
+      <para id="id3316700">(g) pentagon</para>
+      <para id="id6531477">(h) parallelogram</para>
+      <para id="id4308150">16.2 </para>
+      <figure id="id2178584">
+        <media id="id2178584_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-76bc.png" id="id2178584__onlineimage" height="85" width="101"/>
+        </media>
+      </figure>
+      <para id="id4908761">16.3 108°</para>
+      <para id="id1170407773837">17.1 SIMILARITIES     </para>
+      <para id="id1170405818963">* 4 equally long sides     </para>
+      <para id="id8490675">  sides ⁄ ⁄      </para>
+      <para id="id8898830"> * diagonals half each other</para>
+      <para id="id7802238"> * 4 corners</para>
+      <para id="id1170401190928">DIFFERENCES</para>
+      <para id="id3466524">* angles of</para>
+      <para id="id2434016">rhombus not 90°</para>
+      <para id="id2547586">17.2 SIMILARITIES     </para>
+      <para id="id7952177">* have 2 pairs of equally long sides  </para>
+      <para id="id6922686">* 2 opposite sides are equally long</para>
+      <para id="id1170400381564"> * have 4 corners</para>
+      <para id="id1170400386479"> * diagonals halve (bisect) each other</para>
+      <para id="id7898979">DIFFERENCES</para>
+      <para id="id1170408838976">* angles of parallelogram not 90°</para>
+      <para id="id5388501">18. </para>
+      <para id="id4929318">(a) kite</para>
+      <para id="id4662383">(b) trapezium</para>
+      <para id="id7322142">20.2 ceilings; gates; trusses; bridges; scaffolding</para>
+    </section>
+    <section id="id2566147">
+      <title>Leaner Section</title>
+      <para id="para-id2566147">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2547748">
+      <title>Content</title>
+      <section id="id7837566">
+        <title>ACTIVITY: Polygons [LO 3.1, LO 2.3]</title>
+        <para id="id3381365">15. POLYGONS</para>
+        <para id="id1170399147130">15.1 Did you know?</para>
+        <para id="id4796546">Geometric forms in a plane that are made up of straight lines are called polygons. These are made up of sides, angles or corners and vertices.</para>
+        <figure id="id7198984">
+          <media id="id7198984_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-0476.png" id="id7198984__onlineimage" height="117" width="393"/>
+          </media>
+        </figure>
+        <para id="id7624622">15.2 Did you also know?</para>
+        <para id="id3714297">A polygon is convex if all the lines that join any two vertices are inside the polygon. </para>
+        <para id="id5579980">All the inner angles are either acute or obtuse angles.</para>
+        <para id="id4998612">The polygon will be concave if any lines that join two vertices fall outside the polygon. </para>
+        <para id="id2832477">Then one or more of the inside angles will be a reflex angle.</para>
+        <figure id="id1170403391756">
+          <media id="id1170403391756_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-25bf.png" id="id1170403391756__onlineimage" height="86" width="241"/>
+          </media>
+        </figure>
+        <figure id="id9053565">
+          <media id="id9053565_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-e302.png" id="id9053565__onlineimage" height="107" width="173"/>
+          </media>
+        </figure>
+        <para id="id2379906">15.2.1 Are the following polygons convex or concave?</para>
+        <para id="id1170402157036"><figure id="id2666276"><media id="id2666276_media" alt=""><image mime-type="image/png" src="../../media/graphics5-1da5.png" id="id2666276__onlineimage" height="76" width="150"/></media></figure>a) </para>
+        <para id="id5837161">_________________________________</para>
+        <para id="id2482514"/>
+        <para id="id8986065">b)</para>
+        <figure id="id3364319">
+          <media id="id3364319_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-b46b.png" id="id3364319__onlineimage" height="70" width="167"/>
+          </media>
+        </figure>
+        <para id="id4300002">_________________________________</para>
+        <para id="id1170400277864"/>
+        <para id="id1170400318363">c) </para>
+        <figure id="id1170402300384">
+          <media id="id1170402300384_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-2dac.png" id="id1170402300384__onlineimage" height="78" width="133"/>
+          </media>
+        </figure>
+        <para id="id7376319">_________________________________</para>
+        <para id="id3159902"/>
+        <para id="id5593456">15.3 Also Remember!</para>
+        <para id="id1170403518535">The sides of a regular polygon are equally long and all the angles are equally big.</para>
+        <para id="id1170409084209">The more sides a regular polygon has, the bigger the inside angles become.</para>
+        <para id="id1170406631061">The sides of an irregular polygon are all of different lengths.</para>
+        <figure id="id8637499">
+          <media id="id8637499_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics8-efdc.png" id="id8637499__onlineimage" height="100" width="100"/>
+          </media>
+        </figure>
+        <figure id="id1170409110750">
+          <media id="id1170409110750_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-bdff.png" id="id1170409110750__onlineimage" height="102" width="144"/>
+          </media>
+        </figure>
+        <para id="id6756513">15.4 TAKE NOTE!</para>
+        <para id="id911242">We can calculate the size of the angles of a regular polygon with the help of this formula:</para>
+        <figure id="id6251030">
+          <media id="id6251030_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics10-3ae2.png" id="id6251030__onlineimage" height="38" width="335"/>
+          </media>
+        </figure>
+        <para id="id7510475">e.g. Hexagon: </para>
+        <para id="id8194237">
+          <figure id="id6596639">
+            <media id="id6596639_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics11-9e4d.png" id="id6596639__onlineimage" height="150" width="117"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id7636953">16.1  Work with a friend. Can you say what each of the following polygons are called? Write the name in each figure.</para>
+        <para id="id6550521">a) </para>
+        <figure id="id8871427">
+          <media id="id8871427_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics12-019d.png" id="id8871427__onlineimage" height="99" width="129"/>
+          </media>
+        </figure>
+        <para id="id7735162">b) </para>
+        <figure id="id3460556">
+          <media id="id3460556_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics13-0de4.png" id="id3460556__onlineimage" height="81" width="203"/>
+          </media>
+        </figure>
+        <para id="id1170405864985">c) </para>
+        <figure id="id4254155">
+          <media id="id4254155_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics14-2729.png" id="id4254155__onlineimage" height="87" width="87"/>
+          </media>
+        </figure>
+        <para id="id8661264">d) </para>
+        <figure id="id4416995">
+          <media id="id4416995_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics15-678d.png" id="id4416995__onlineimage" height="90" width="129"/>
+          </media>
+        </figure>
+        <para id="id4697827">e)</para>
+        <figure id="id4106340">
+          <media id="id4106340_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics16-8bc7.png" id="id4106340__onlineimage" height="99" width="113"/>
+          </media>
+        </figure>
+        <para id="id4281929">f)</para>
+        <figure id="id1170405630622">
+          <media id="id1170405630622_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics17-b9ed.png" id="id1170405630622__onlineimage" height="96" width="95"/>
+          </media>
+        </figure>
+        <para id="id3768148">g)</para>
+        <figure id="id1170406702136">
+          <media id="id1170406702136_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics18-cc29.png" id="id1170406702136__onlineimage" height="98" width="103"/>
+          </media>
+        </figure>
+        <para id="id4766110">h)</para>
+        <figure id="id3635105">
+          <media id="id3635105_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics19-d2b4.png" id="id3635105__onlineimage" height="88" width="173"/>
+          </media>
+        </figure>
+        <para id="id4032251">16.2 Calculate the size of each angle of the octagon.</para>
+        <para id="id1170406748360">_____________________________________________________________________</para>
+        <para id="id4412266">_____________________________________________________________________</para>
+        <para id="id4082690">_____________________________________________________________________</para>
+        <para id="id1170399904702">_____________________________________________________________________</para>
+        <para id="id1170409064880">_____________________________________________________________________</para>
+        <para id="id5615541">16.3 What is the size of each angle of a pentagon?</para>
+        <para id="id6206157">_____________________________________________________________________</para>
+        <para id="id1170402394032">_____________________________________________________________________</para>
+        <para id="id7151664">_____________________________________________________________________</para>
+        <para id="id3542070">_____________________________________________________________________</para>
+        <para id="id1170408173561">_____________________________________________________________________</para>
+        <para id="id4263816">17.1 Work in groups of three. Cut strips of thick cardboard or use ice cream sticks. Make holes at the ends and join the sticks with split pins. Build a square. </para>
+        <para id="id1170405636223">Press on one corner and change it into a rhombus.</para>
+        <figure id="id2505496">
+          <media id="id2505496_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics20-3107.png" id="id2505496__onlineimage" height="82" width="90"/>
+          </media>
+        </figure>
+        <para id="id1170400189205">
+          <figure id="id1170404866728">
+            <media id="id1170404866728_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics21-647f.png" id="id1170404866728__onlineimage" height="80" width="111"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id4294818" list-type="bulleted">
+          <item>Now compare the square with the rhombus and see if you can complete the following table:</item>
+        </list>
+        <para id="id6334055">SIMILARITIES  </para>
+        <para id="id1170399917870">between rhombus and square </para>
+        <para id="id6664117">_____________________________________________________________________</para>
+        <para id="id1170407983726">_____________________________________________________________________</para>
+        <para id="id4038812">_____________________________________________________________________</para>
+        <para id="id1170399987889">_____________________________________________________________________</para>
+        <para id="id1170405760696">_____________________________________________________________________</para>
+        <para id="id5528597">DIFFERENCES </para>
+        <para id="id1170405643440">between rhombus and square</para>
+        <para id="id1170405685284">_____________________________________________________________________</para>
+        <para id="id3103487">_____________________________________________________________________</para>
+        <para id="id6611111">_____________________________________________________________________</para>
+        <para id="id8143988">_____________________________________________________________________</para>
+        <para id="id3023034">_____________________________________________________________________</para>
+        <para id="id7541356">17.2 From other groups of three. Follow the same instructions as for 17.1 but build a rectangle instead. If you press on a corner it will change into a parallelogram.</para>
+        <list id="id7802543" list-type="bulleted">
+          <item>Now complete the table by comparing the rectangle with the parallelogram:</item>
+        </list>
+        <para id="id8090634">SIMILARITIES  </para>
+        <para id="id9059487">between rectangle and parallelogram </para>
+        <para id="id3551730">_____________________________________________________________________</para>
+        <para id="id3455174">_____________________________________________________________________</para>
+        <para id="id1170405708786">_____________________________________________________________________</para>
+        <para id="id4292263">_____________________________________________________________________</para>
+        <para id="id2388479">_____________________________________________________________________</para>
+        <para id="id7836470">DIFFERENCES </para>
+        <para id="id1170403317857">between rectangle and parallelogram</para>
+        <para id="id6252070">_____________________________________________________________________</para>
+        <para id="id4836906">_____________________________________________________________________</para>
+        <para id="id8235475">_____________________________________________________________________</para>
+        <para id="id1170406696308">_____________________________________________________________________</para>
+        <para id="id4929387">_____________________________________________________________________</para>
+        <para id="id4869854">18. What do we call this geometric figure?</para>
+        <para id="id1170408876644"><figure id="id1170406713460"><media id="id1170406713460_media" alt=""><image mime-type="image/png" src="../../media/graphics22-9609.png" id="id1170406713460__onlineimage" height="112" width="85"/></media></figure>a)</para>
+        <para id="id8641951">__________________________________________</para>
+        <para id="id1170405983011">b)</para>
+        <figure id="id1170409141189">
+          <media id="id1170409141189_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics23-c9ec.png" id="id1170409141189__onlineimage" height="45" width="163"/>
+          </media>
+        </figure>
+        <para id="id4342277">__________________________________________</para>
+        <para id="id4960961">19. Form groups of four. Your teacher will say who must do a, b, c, and d.</para>
+        <para id="id1340268">19.1 Discuss the similarities and differences between:</para>
+        <para id="id1170402359493">a) a rhombus and a kite;</para>
+        <para id="id4711438">b) a trapezium and a parallelogram;</para>
+        <para id="id1170405868416">c) a rectangle and a trapezium;</para>
+        <para id="id7840222">d) a kite and a trapezium.</para>
+        <para id="id8929533">19.2 Make a poster to explain the above and report back to the class.</para>
+        <para id="id2879102">20. Did you know?</para>
+        <para id="id6912646">In maths we say a figure / structure is rigid if it can keep its original form even though pressure is applied to one of its corners, e.g.</para>
+        <figure id="id1170405720707">
+          <media id="id1170405720707_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics24-0037.png" id="id1170405720707__onlineimage" height="67" width="248"/>
+          </media>
+        </figure>
+        <para id="id8989465">Not sturdy </para>
+        <figure id="id1170407029483">
+          <media id="id1170407029483_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics25-9acf.png" id="id1170407029483__onlineimage" height="55" width="108"/>
+          </media>
+        </figure>
+        <para id="id1170403341651">Sturdy</para>
+        <para id="id3671762">20.1 Divide into pairs. Use cool drink straws and build any rigid structure. See if you can build the highest structure in the class!</para>
+        <para id="id1170405865979">20.2 TAKE NOTE!</para>
+        <para id="id1170400205844">A triangle is the only polygon that is rigid. It doesn’t change its form when pressure is applied to any of its corners.</para>
+        <para id="id1170403204756">Where, do you think, do engineers and builders regularly use triangles to ensure stability in their constructions?</para>
+        <para id="id4860913">_____________________________________________________________________</para>
+        <para id="id5819258">_____________________________________________________________________</para>
+        <para id="id3526637">_____________________________________________________________________</para>
+        <para id="id4261124">_____________________________________________________________________</para>
+        <para id="id5402320">_____________________________________________________________________</para>
+        <para id="id7445432">21. Time for self-assessment</para>
+        <para id="id2339097"/>
+        <table id="id1170408184629" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id4188871" list-type="bulleted">
+                    <item>Tick the applicable block..</item>
+                  </list>
+                </entry>
+                <entry>Uncertain</entry>
+                <entry>Certain</entry>
+              </row>
+              <row>
+                <entry>I can explain what the following are:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170408170290" list-type="bulleted">
+                    <item>a polygon</item>
+                  </list>
+                </entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id2992105" list-type="bulleted">
+                    <item>a convex polygon</item>
+                  </list>
+                </entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id5813843" list-type="bulleted">
+                    <item>a concave polygon</item>
+                  </list>
+                </entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170402501709" list-type="bulleted">
+                    <item>a regular polygon</item>
+                  </list>
+                </entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id7463438" list-type="bulleted">
+                    <item>an irregular polygon</item>
+                  </list>
+                </entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>I know the formula to determine / calculate the size of the angles of a regular polygon</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>I can point out the similarities between different geometric forms.</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>I can point out the differences between different geometric forms.</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>I can build a rigid construction with cool drink straws</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id4344753">
+      <title>Assessment</title>
+      <para id="id7499968"><emphasis>Learning Outcome 3: </emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id1170401153723"><emphasis>Assessment Standard 3.1: </emphasis>We know this when the learner recognises, visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including those previously dealt with.</para>
+      <para id="id1170402391120"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id5538217"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner represents and uses relationships between variables in order to determine input and/or output values in a variety of ways.</para>
+    </section>
+  </content>
+</document>

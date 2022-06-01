@@ -1,0 +1,83 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Number Patterns (Gauss calculations)</title>
+  <metadata>
+  <md:content-id>m22080</md:content-id><md:title>Number Patterns (Gauss calculations)</md:title>
+  <md:abstract/>
+  <md:uuid>d351b9cc-240f-4319-be4b-df0acfd335cb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164571884208">
+      <title>MATHEMATICS</title>
+      <para id="para-id1164571884208">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164571884223">
+      <title>Number Patterns</title>
+      <para id="para-id1164571884223">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164571884231">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1164571884231">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164571884245">
+      <title>Memorandum</title>
+      <para id="id1164571884255">8.</para>
+      <para id="id1164571884260">c) (i) 465</para>
+      <para id="id1164571884267">(ii) 1 508</para>
+      <para id="id1164571884274">b). </para>
+    </section>
+    <section id="id1164571884280">
+      <title>Leaner Section</title>
+      <para id="para-id1164571884280">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164571884294">
+      <title>Content</title>
+      <section id="id1164571884301">
+        <title>ACTIVITY: Number Patterns (Gauss calculations) [LO 2.2] </title>
+        <section id="id1164571884322">
+          <title>8. Did you know?</title>
+          <para id="id1164571884331">Karl Friedrich Gauss (1777 - 1855) was 9 years old when his educator asked him to add all the numbers from 1 to 100. He did this in record time and the method he used is now known as the "Gauss method".</para>
+          <para id="id1164571884338">a) How would YOU solve this problem? ___________________________________</para>
+          <para id="id1164571884351">____________________________________________________________________</para>
+          <para id="id1164571884356">____________________________________________________________________</para>
+          <para id="id1164571884360">____________________________________________________________________</para>
+          <para id="id1164571884365">____________________________________________________________________</para>
+          <para id="id1164571884369">b) Let us look at how Gauss calculated the sum!</para>
+          <figure id="id1164571884379">
+            <media id="id1164571884379_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-61ef.png" id="id1164571884379__onlineimage" height="151" width="465"/>
+            </media>
+          </figure>
+          <list id="id1164571884406" list-type="bulleted">
+            <item>The sum total of each pair, e.g. 1 + 100 or 3 + 98, is 101. There are 50 pairs in total. The sum is therefore 50 × 101 = 5 050. Easy, isn't it?</item>
+          </list>
+          <para id="id1164571884423">c) Use Gauss' method to calculate:</para>
+          <para id="id1164571884429">i) the sum of the numbers from 1 to 30 </para>
+          <para id="id1164571884439">_____________________________________________________________________</para>
+          <para id="id1164571884443">_____________________________________________________________________</para>
+          <para id="id1164571884447">_____________________________________________________________________</para>
+          <para id="id1164571884451">_____________________________________________________________________</para>
+          <para id="id1164571884456">_____________________________________________________________________</para>
+          <para id="id1164571884460">ii) the sum of the numbers from 5 to 55</para>
+          <para id="id1164571884469">_____________________________________________________________________</para>
+          <para id="id1164571884473">_____________________________________________________________________</para>
+          <para id="id1164571884478">_____________________________________________________________________</para>
+          <para id="id1164571884482">_____________________________________________________________________</para>
+        </section>
+      </section>
+    </section>
+    <section id="id1164571884489">
+      <title>Assessment</title>
+      <para id="id1164571884502"><emphasis>Learning Outcome 2:</emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1164571884521"><emphasis>Assessment Standard 2.2:</emphasis> We know this when the learner describes, explains and justifies observed relationships or rules in own words.</para>
+    </section>
+  </content>
+</document>

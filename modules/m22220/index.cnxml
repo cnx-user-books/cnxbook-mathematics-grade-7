@@ -1,0 +1,75 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Symmetry and rotation</title>
+  <metadata>
+  <md:content-id>m22220</md:content-id><md:title>Symmetry and rotation</md:title>
+  <md:abstract/>
+  <md:uuid>3d2ad4ce-d8d5-42d8-89ce-d5e3e3cac585</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3918009">
+      <title>MATHEMATICS</title>
+      <para id="para-id3918009">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3918196">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id3918196">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3256459">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id3256459">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4183612">
+      <title>Memorandum</title>
+      <para id="id6408191">5. </para>
+      <para id="id8136983">(a) symmetry line; symmetry axle</para>
+      <para id="id5975630"> (b) 90 degrees</para>
+      <para id="id7238978"> 4</para>
+      <para id="id8095338">(c) (i) 6</para>
+      <para id="id3756816"> (ii) 3</para>
+      <para id="id7659552"> (iii) 2</para>
+    </section>
+    <section id="id7377209">
+      <title>LEANER SECTION</title>
+      <para id="para-id7377209">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7159709">
+      <title>Content</title>
+      <section id="id8866210">
+        <title>ACTIVITY: Symmetry and rotation </title>
+        <para id="id8614137">5. SYMMETRY AND ROTATION</para>
+        <para id="id5132439">a) Refer back to the drawing at 1 b). What do we call the dotted line?</para>
+        <para id="id8843270">_____________________________________________________________________</para>
+        <para id="id8911653">b) Trace the following square and cut it out. Find the middle point by drawing in the diagonals. Attach your square to a piece of cardboard with a drawing pin. Make a dot in one corner of the square. Now draw the perimeter of the square on the cardboard using your pencil and a ruler.</para>
+        <figure id="id7159247">
+          <media id="id7159247_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-5777.png" id="id7159247__onlineimage" height="107" width="210"/>
+          </media>
+        </figure>
+        <list id="id7171678" list-type="bulleted">
+          <item>Rotate the dot clockwise (turn it right) to the following corner. </item>
+        </list>
+        <para id="id8595567">How many degrees has the square rotated? __________________________________</para>
+        <para id="id1167133527735">If you rotate the square 360 degrees, how many times have you turned it?</para>
+        <para id="id8553572"/>
+        <para id="id7762027">c) Do the same with the hexagon and triangle below.</para>
+        <figure id="id8483851">
+          <media id="id8483851_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-eff1.png" id="id8483851__onlineimage" height="180" width="475"/>
+          </media>
+        </figure>
+        <para id="id5620719">i) How many times will the hexagon rotate in a full revolution? _____________________________________________________________________</para>
+        <para id="id7856850">ii) How many times does the triangle rotate in a full revolution? _____________________________________________________________________</para>
+        <para id="id3800275">iii) How many times does a rectangle rotate in a full revolution? _____________________________________________________________________</para>
+      </section>
+    </section>
+  </content>
+</document>

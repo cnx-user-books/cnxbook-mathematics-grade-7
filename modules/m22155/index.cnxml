@@ -1,0 +1,473 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Nets</title>
+  <metadata>
+  <md:content-id>m22155</md:content-id><md:title>Nets</md:title>
+  <md:abstract/>
+  <md:uuid>e8c30718-3fac-47fc-a706-dcfe57344f59</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3217995">
+      <title>MATHEMATICS</title>
+      <para id="para-id3217995">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1624189">
+      <title>Perimeter, Area and Volume</title>
+      <para id="para-id1624189">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6847494">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id6847494">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1261773">
+      <title>Memorandum</title>
+      <para id="id5920584">21.1.2</para>
+      <para id="id6647420">21.2.3</para>
+      <list id="id6990512" list-type="bulleted">
+        <item>6; 8; 12</item>
+        <item>7</item>
+      </list>
+      <para id="id6728007">21.2.6</para>
+      <para id="id8413409">21.2.7  </para>
+      <para id="id6456055">a) right-angled or rectangular prism</para>
+      <para id="id7121255">b) cuboid</para>
+      <para id="id5558937">a)</para>
+      <para id="id7694269">b)</para>
+    </section>
+    <section id="id7192936">
+      <title>LEANER SECTION</title>
+      <para id="para-id7192936">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7575362">
+      <title>Content</title>
+      <section id="id6452054">
+        <title>ACTIVITY: Nets [LO 3.4, LO 3.7]</title>
+        <para id="id8531405">21.2 NETS:</para>
+        <para id="id6726762">21.2.1 For this activity please bring a cardboard box of any size to school. Cut it open (be careful!) so that you can unfold it flat on your table or desk. Now count how many edges, vertexes and faces it has.</para>
+        <para id="id8550090">21.2.2 Did you know?</para>
+        <para id="id5027328">When we cut a cube or any other form open and lay it flat (see sketch) we call the spread-out cube/figure the net of the cube/figure. The dotted lines indicate the folds.</para>
+        <figure id="id2211270">
+          <media id="id2211270_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-5866.png" id="id2211270__onlineimage" height="142" width="180"/>
+          </media>
+        </figure>
+        <figure id="id6770149">
+          <media id="id6770149_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-ddee.png" id="id6770149__onlineimage" height="80" width="84"/>
+          </media>
+        </figure>
+        <para id="id6823162">21.2.3 Look carefully at the following net of a cube. Can you draw one or two more nets that will differ from this one?</para>
+        <figure id="id1108385">
+          <media id="id1108385_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-44ee.png" id="id1108385__onlineimage" height="119" width="159"/>
+          </media>
+        </figure>
+        <para id="id7380000">21.2.4 Now trace the net of the cube above neatly and accurately. Now fold your own cube. Use sticky tape to join the edges together</para>
+        <para id="id6821782">Complete: A cube has._________ faces, _________ vertexes and _________ edges.</para>
+        <para id="id6184730">21.2.5 Now modify your cube into a di. Compare this with an actual di if you don’t know where to make the dots!</para>
+        <para id="id6750677">What is the total number of dots on the opposite faces of a di? __________________</para>
+        <para id="id5879958">21.2.6 Can you complete the following nets? Loosen the edges of your dice and fold it flat to help you.</para>
+        <para id="id2948214">a) </para>
+        <figure id="id6070712">
+          <media id="id6070712_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-4a41.png" id="id6070712__onlineimage" height="124" width="163"/>
+          </media>
+        </figure>
+        <para id="id8447212">b)</para>
+        <figure id="id8341136">
+          <media id="id8341136_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-2af3.png" id="id8341136__onlineimage" height="124" width="163"/>
+          </media>
+        </figure>
+        <para id="id5389897">c) </para>
+        <figure id="id7387413">
+          <media id="id7387413_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-0164.png" id="id7387413__onlineimage" height="163" width="124"/>
+          </media>
+        </figure>
+        <para id="id4686547">d)</para>
+        <figure id="id5864323">
+          <media id="id5864323_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-40a7.png" id="id5864323__onlineimage" height="163" width="124"/>
+          </media>
+        </figure>
+        <para id="id6902524">e)</para>
+        <figure id="id8199729">
+          <media id="id8199729_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics8-3fc8.png" id="id8199729__onlineimage" height="124" width="163"/>
+          </media>
+        </figure>
+        <para id="id757902">21.2.7 Bring any empty cereal box from home to school. Cut it open along the edges and lay it flat. Now answer these questions:</para>
+        <para id="id7789545">a) What do we call this box you have brought along?</para>
+        <para id="id7275068">_____________________________________________________________________</para>
+        <para id="id6372261">b) Can you give a synonym for your answer at (a) ?</para>
+        <para id="id6581637">_____________________________________________________________________</para>
+        <para id="id8471830">c) Now draw the net of the cereal box that you have cut open.</para>
+        <para id="id4693802">d) Can you also draw the net of a rectangular prism in another way?</para>
+        <para id="id6847445">21.2.8 CLASS DISCUSSION</para>
+        <para id="id7151566">Which of the following nets, do you think, a manufacturer would rather use? Motivate!</para>
+        <para id="id4437586">A </para>
+        <figure id="id7763349">
+          <media id="id7763349_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-f0b1.png" id="id7763349__onlineimage" height="167" width="207"/>
+          </media>
+        </figure>
+        <para id="id6015600">B</para>
+        <figure id="id5950746">
+          <media id="id5950746_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics10-814a.png" id="id5950746__onlineimage" height="147" width="173"/>
+          </media>
+        </figure>
+        <para id="id6611146">_____________________________________________________________________</para>
+        <para id="id7404096">_____________________________________________________________________</para>
+        <para id="id7405133">_____________________________________________________________________</para>
+        <para id="id8118074">_____________________________________________________________________</para>
+        <para id="id2961178">21.2.9 BRAINTEASER!</para>
+        <para id="id5343765">Two parts of the nets of the following figures are missing. Can you draw them in?</para>
+        <para id="id7001997">a)</para>
+        <para id="id2129799">
+          <figure id="id6974886">
+            <media id="id6974886_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics11-402b.png" id="id6974886__onlineimage" height="80" width="96"/>
+            </media>
+          </figure>
+          <figure id="id8553245">
+            <media id="id8553245_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics12-4f82.png" id="id8553245__onlineimage" height="85" width="113"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id5904228">b)</para>
+        <para id="id7402023">
+          <figure id="id6400078">
+            <media id="id6400078_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics13-2783.png" id="id6400078__onlineimage" height="81" width="123"/>
+            </media>
+          </figure>
+          <figure id="id6980352">
+            <media id="id6980352_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics14-2659.png" id="id6980352__onlineimage" height="108" width="63"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id6329084">22. Time for self-assessment</para>
+        <list id="id6750007" list-type="bulleted">
+          <item>Colour in the face that is true of your understanding of the work covered::</item>
+        </list>
+        <table id="id7879666" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c4">
+                  <list id="id6824409" list-type="bulleted">
+                    <item>Colour in the face that is true of your understanding of the work covered::</item>
+                  </list>
+                </entry>
+              </row>
+              <row>
+                <entry>I can explain the difference between 2 and 3 dimensional objects.</entry>
+                <entry>
+                  <media id="id7345126" alt="">
+                    <image mime-type="image/png" src="../../media/graphics15-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id8105866" alt="">
+                    <image mime-type="image/png" src="../../media/graphics16-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id6437211" alt="">
+                    <image mime-type="image/png" src="../../media/graphics17-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can explain the following concepts:</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id3253496" list-type="bulleted">
+                    <item>edge</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id765432" alt="">
+                    <image mime-type="image/png" src="../../media/graphics18-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id7356646" alt="">
+                    <image mime-type="image/png" src="../../media/graphics19-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id6876217" alt="">
+                    <image mime-type="image/png" src="../../media/graphics20-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id3258423" list-type="bulleted">
+                    <item>vertex</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id5079726" alt="">
+                    <image mime-type="image/png" src="../../media/graphics21-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id8196447" alt="">
+                    <image mime-type="image/png" src="../../media/graphics22-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id8143088" alt="">
+                    <image mime-type="image/png" src="../../media/graphics23-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1969553" list-type="bulleted">
+                    <item>face</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id3217092" alt="">
+                    <image mime-type="image/png" src="../../media/graphics24-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5461652" alt="">
+                    <image mime-type="image/png" src="../../media/graphics25-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id7799768" alt="">
+                    <image mime-type="image/png" src="../../media/graphics26-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id2821741" list-type="bulleted">
+                    <item>cube</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id7673038" alt="">
+                    <image mime-type="image/png" src="../../media/graphics27-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5494853" alt="">
+                    <image mime-type="image/png" src="../../media/graphics28-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id923960" alt="">
+                    <image mime-type="image/png" src="../../media/graphics29-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id8413283" list-type="bulleted">
+                    <item>rectangular prism</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id933442" alt="">
+                    <image mime-type="image/png" src="../../media/graphics30-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id940386" alt="">
+                    <image mime-type="image/png" src="../../media/graphics31-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id3351248" alt="">
+                    <image mime-type="image/png" src="../../media/graphics32-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id939531" list-type="bulleted">
+                    <item>layout</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id7180408" alt="">
+                    <image mime-type="image/png" src="../../media/graphics33-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id8343722" alt="">
+                    <image mime-type="image/png" src="../../media/graphics34-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id7181141" alt="">
+                    <image mime-type="image/png" src="../../media/graphics35-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can identify and name different 3 dimensional forms.</entry>
+                <entry>
+                  <media id="id2520122" alt="">
+                    <image mime-type="image/png" src="../../media/graphics36-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id4647926" alt="">
+                    <image mime-type="image/png" src="../../media/graphics37-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5377852" alt="">
+                    <image mime-type="image/png" src="../../media/graphics38.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can calculate the number of sides of a 3 dimensional figure.</entry>
+                <entry>
+                  <media id="id2438310" alt="">
+                    <image mime-type="image/png" src="../../media/graphics39.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id4045348" alt="">
+                    <image mime-type="image/png" src="../../media/graphics40.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id8143268" alt="">
+                    <image mime-type="image/png" src="../../media/graphics41.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can calculate the number of vertices of a 3 dimensional figure.</entry>
+                <entry>
+                  <media id="id3763059" alt="">
+                    <image mime-type="image/png" src="../../media/graphics42.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5594228" alt="">
+                    <image mime-type="image/png" src="../../media/graphics43.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5085572" alt="">
+                    <image mime-type="image/png" src="../../media/graphics44.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can calculate the number of sides of a 3 dimensional figure.</entry>
+                <entry>
+                  <media id="id7814880" alt="">
+                    <image mime-type="image/png" src="../../media/graphics45.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5597673" alt="">
+                    <image mime-type="image/png" src="../../media/graphics46.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id4190086" alt="">
+                    <image mime-type="image/png" src="../../media/graphics47.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can draw a cube from different angles.</entry>
+                <entry>
+                  <media id="id4614192" alt="">
+                    <image mime-type="image/png" src="../../media/graphics48.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id4287617" alt="">
+                    <image mime-type="image/png" src="../../media/graphics49.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id6661070" alt="">
+                    <image mime-type="image/png" src="../../media/graphics50.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I was able to complete the di layouts successfully.</entry>
+                <entry>
+                  <media id="id5793084" alt="">
+                    <image mime-type="image/png" src="../../media/graphics51.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id4414382" alt="">
+                    <image mime-type="image/png" src="../../media/graphics52.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id5457877" alt="">
+                    <image mime-type="image/png" src="../../media/graphics53.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can draw more than 1 layout of a rectangular prism.</entry>
+                <entry>
+                  <media id="id3570092" alt="">
+                    <image mime-type="image/png" src="../../media/graphics54.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id4446825" alt="">
+                    <image mime-type="image/png" src="../../media/graphics55.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id2689887" alt="">
+                    <image mime-type="image/png" src="../../media/graphics56.png"/>
+                  </media>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id3386650">
+      <title>Assessment</title>
+      <para id="id5167911"><emphasis><emphasis effect="italics">Learning Outcome 3:</emphasis></emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id6523343"><emphasis><emphasis effect="italics">Assessment Standard 3.4:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner designs and uses nets to make models of geometric solids studied up to and including this grade;</para>
+      <para id="id7247655"><emphasis><emphasis effect="italics">Assessment Standard 3.7:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner draws and interprets sketches of solids from different perspectives.</para>
+    </section>
+  </content>
+</document>

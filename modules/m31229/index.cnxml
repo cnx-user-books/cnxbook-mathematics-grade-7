@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Fractions - 03</title>
+  <metadata>
+  <md:content-id>m31229</md:content-id><md:title>Fractions - 03</md:title>
+  <md:abstract/>
+  <md:uuid>a8f1112b-b726-409b-9352-4214e6c3f509</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7319797">
+      <title>MATHEMATICS</title>
+      <para id="para-id7319797">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7615189">
+      <title>Common fractions</title>
+      <para id="para-id7615189">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3806283">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id3806283">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7677333">
+      <title>Memorandum</title>
+      <para id="id7494852">7. </para>
+      <para id="id3940066">(a) 24    </para>
+      <para id="id8289252">(b) 34    </para>
+      <para id="id1171892288930">(c) 54    </para>
+      <para id="id1171900623922">(d) 22    </para>
+      <para id="id8418778">(e) 32    </para>
+      <para id="id4195503">(f) 42    </para>
+      <para id="id5199980">(g)  9    </para>
+      <para id="id8401129">(h)  7</para>
+      <para id="id8031836">(i)  6</para>
+      <para id="id8202097">(j)  56</para>
+      <para id="id8105456">(k) 108</para>
+      <para id="id8184614">(l) 109</para>
+      <para id="id8187507">(m)  24</para>
+      <para id="id7933728">(n)  76</para>
+      <para id="id1171892989921">(o)  64</para>
+    </section>
+    <section id="id1171896212425">
+      <title>LEANER SECTION</title>
+      <para id="para-id1171896212425">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8203113">
+      <title>Content</title>
+      <section id="id4790543">
+        <title>ACTIVITY: Fractions [LO 1.10]</title>
+        <para id="id8843309">6. BRAIN-TEASER!</para>
+        <para id="id7976015">Colour in the given fraction in the following figures:</para>
+        <para id="id7525769"><figure id="id2582891"><media id="id2582891_media" alt=""><image mime-type="image/png" src="../../media/graphics1-1a40.png" id="id2582891__onlineimage" height="97" width="97"/></media></figure>a) </para>
+        <para id="id8183318"><figure id="id5257263"><media id="id5257263_media" alt=""><image mime-type="image/png" src="../../media/graphics2-02f6.png" id="id5257263__onlineimage" height="98" width="98"/></media></figure>b)</para>
+        <para id="id8217048">7. Let us see if you can still think quickly! Complete the following mental test as accurately and quickly as possible:</para>
+        <para id="id4652306"/>
+        <para id="id3752263">a) 6 + 18 = _______________</para>
+        <para id="id2469804">b) 16 + 18 = _______________</para>
+        <para id="id1526164">c) 16 + 38 = _______________</para>
+        <para id="id8590960">d) 14 + 8 = _______________</para>
+        <para id="id7717483">e) 18 + 14 = _______________</para>
+        <para id="id8135832">f) 18 + 24 = _______________</para>
+        <para id="id7935983">g) 4 x _______________ = 36   </para>
+        <para id="id8796888">h) 5 x _______________ = 35 </para>
+        <para id="id8402522">i) 48 ÷ _______________ = 8</para>
+        <para id="id8047339">j) _______________ ÷ 7 = 8</para>
+        <para id="id7586212">k) _______________ ÷ 9 = 12</para>
+        <para id="id8109960">l)  of 218 = _______________</para>
+        <para id="id8244304">m)  of 96 = _______________</para>
+        <para id="id1171894993326">n) 92 – 16 = _______________</para>
+        <para id="id8416423">o) 83 – 19 = _______________</para>
+        <list id="id6861718" list-type="bulleted">
+          <item>Colour in the applicable block:</item>
+        </list>
+        <table id="id1171892312200" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>My achievement</entry>
+                <entry>GOOD</entry>
+                <entry>AVERAGE</entry>
+                <entry>NOT SO GOOD</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id5227055">
+      <title>Assessment</title>
+      <para id="id7590789"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id3291129"><emphasis><emphasis effect="italics">Assessment Standard 1.10:</emphasis></emphasis> We know this when the learner uses a range of strategies to check solutions and judges the reasonableness of solutions.</para>
+    </section>
+  </content>
+</document>

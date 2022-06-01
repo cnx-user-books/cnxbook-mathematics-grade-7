@@ -1,0 +1,400 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Profit and lost</title>
+  <metadata>
+  <md:content-id>m31595</md:content-id><md:title>Profit and lost</md:title>
+  <md:abstract/>
+  <md:uuid>9b1dd0c3-1a23-4963-bebe-60487a4e86ef</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169183921712">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169183921712">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6980919">
+      <title>Percentages</title>
+      <para id="para-id6980919">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169192781589">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1169192781589">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169191419761">
+      <title>Memorandum</title>
+      <para id="id1169183854938">18.2</para>
+      <table id="id1169184764879" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Cost price</entry>
+              <entry>Selling price</entry>
+              <entry>Loss / Profit</entry>
+              <entry>% Loss / Profit</entry>
+            </row>
+            <row>
+              <entry>a)</entry>
+              <entry/>
+              <entry/>
+              <entry>R623</entry>
+              <entry>24,92% profit</entry>
+            </row>
+            <row>
+              <entry>b)</entry>
+              <entry/>
+              <entry/>
+              <entry>R80</entry>
+              <entry>28,57% loss</entry>
+            </row>
+            <row>
+              <entry>c)</entry>
+              <entry/>
+              <entry/>
+              <entry>R9,99</entry>
+              <entry>27,75% profit</entry>
+            </row>
+            <row>
+              <entry>d)</entry>
+              <entry/>
+              <entry>R19,14</entry>
+              <entry>R2,64</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>e)</entry>
+              <entry/>
+              <entry>R765</entry>
+              <entry>R135</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1169183880604" list-type="bulleted">
+        <item>a) 14%</item>
+      </list>
+      <list id="id1169190624526" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Jobcreating, housing, etc. </item>
+        <item>Milk, fresh fruit and veg. and meat</item>
+      </list>
+      <para id="id1169184809864">19.3 a) 41c</para>
+      <para id="id1169195616556">b) R2,66</para>
+      <para id="id1169183916449">c) R69,86</para>
+      <list id="id1169183699888" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>R770</item>
+      </list>
+      <para id="id7846711">20.  Pay VAT firstly, and then get discount.</para>
+      <para id="id1169183949818">21.     </para>
+      <para id="id3156056">a) &gt;</para>
+      <para id="id4552377">b) &lt;</para>
+      <para id="id1169183387580">c) =</para>
+      <para id="id1169194305636">d) &lt;</para>
+      <para id="id1169183829682">e) =</para>
+      <para id="id1169183896233">f) =</para>
+      <para id="id1169191742609">g) &gt;</para>
+      <para id="id1340723">h) &gt;</para>
+      <para id="id1169183622594">i) 0,55</para>
+      <para id="id1169191387732">j) 0,125</para>
+      <para id="id1169184813902">k) 1,42</para>
+      <para id="id1169184822657">l) 0,03</para>
+      <para id="id6460813">m) 0,45</para>
+      <para id="id1169183830754">n) 0,075</para>
+      <para id="id1169184963302">o) 0,625</para>
+    </section>
+    <section id="id1169184816439">
+      <title>LEANER SECTION</title>
+      <para id="para-id1169184816439">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169183830646">
+      <title>Content</title>
+      <section id="id1169191097585">
+        <title>ACTIVITY: Profit and lost [LO 1.4, LO 2.3.3]</title>
+        <para id="id1169184809972">18. PROFIT AND LOST</para>
+        <para id="id1169187009835">18.1 Important to know!</para>
+        <para id="id1169186633686">Profit = selling price – cost price</para>
+        <table id="id1169195829981" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entrytbl cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>% profit</entry>
+                      <entry>=</entry>
+                      <entry>selling price – cost price</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                      <entry>cost price</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>×</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>100</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entrytbl cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry/>
+                      <entry>=</entry>
+                      <entry>profit</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                      <entry>cost price</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>×</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>100</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169183916660">Loss = when you pay more for an item than what you sell it for</para>
+        <table id="id1169183826430" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entrytbl cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>% loss</entry>
+                      <entry>=</entry>
+                      <entry>loss</entry>
+                    </row>
+                    <row>
+                      <entry/>
+                      <entry/>
+                      <entry>cost price</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>×</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>100</entry>
+                    </row>
+                    <row>
+                      <entry>1</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169183824858">18.2 Complete the table with help of your calculator.</para>
+        <table id="id1169184822014" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Cost price</entry>
+                <entry>Selling price</entry>
+                <entry>Loss / Profit</entry>
+                <entry>% Loss / Profit</entry>
+              </row>
+              <row>
+                <entry>Bv.</entry>
+                <entry>R125</entry>
+                <entry>R160</entry>
+                <entry>R35</entry>
+                <entry>28% profit</entry>
+              </row>
+              <row>
+                <entry>a)</entry>
+                <entry>R2 500</entry>
+                <entry>R3 123</entry>
+                <entry>.................</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>R280</entry>
+                <entry>R200</entry>
+                <entry>.................</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>R36</entry>
+                <entry>R45,99</entry>
+                <entry>.................</entry>
+                <entry>.........................</entry>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>R16,50</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>16% profit</entry>
+              </row>
+              <row>
+                <entry>e) </entry>
+                <entry>R900</entry>
+                <entry>.................</entry>
+                <entry>.................</entry>
+                <entry>15% loss</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1169192077703">19.1 Did you know?</para>
+        <para id="id1169184818798"><emphasis effect="bold">Value added tax</emphasis> (VAT) is an amount of money that is determined by the Minister of Finance. This forms part of the government’s budget. It is also called sales tax.</para>
+        <para id="id6073379">19.2 Find out</para>
+        <para id="id1169183895521">a) What % VAT are we currently paying? ……………………………………….</para>
+        <para id="id1169184808399">…………………………………………………………………………………………..</para>
+        <para id="id3391006">b) What does the government do with the money that comes in through VAT?</para>
+        <para id="id1169183846068">…………………………………………………………………………………………..</para>
+        <para id="id1169188899134">…………………………………………………………………………………………..</para>
+        <para id="id1169184996752">c) Which items are not taxed by VAT? …………………………………………..</para>
+        <para id="id1169183907054">…………………………………………………………………………………………..</para>
+        <para id="id4064630">…………………………………………………………………………………………..</para>
+        <para id="id1169192557320"/>
+        <para id="id1169183923555">19.3 Calculate the VAT at 14 % on the following amounts. You may use your calculator.</para>
+        <para id="id1169186628798">a) R2,95 :  ………………………………………………………………………….</para>
+        <para id="id1169184813080">b) R18,99 : ………………………………………………………………………...</para>
+        <para id="id1169184813259">c) R499 : …………………………………………………………………………..</para>
+        <para id="id1169189029050">d) R 5 500 : ………………………………………………………………………..</para>
+        <para id="id1169183901229">20. BRAIN-TEASER!</para>
+        <para id="id1169188650396">You buy an article for cash and get a 10 % discount. You also have to pay 14 % VAT. What is the most advantageous for you: to first pay the tax and then get the discount or vice versa?</para>
+        <para id="id1169185737170">…………………………………………………………………………………………..</para>
+        <para id="id6596058">…………………………………………………………………………………………..</para>
+        <para id="id1169194898979">…………………………………………………………………………………………..</para>
+        <para id="id6345031">…………………………………………………………………………………………..</para>
+        <para id="id1169193876513"/>
+        <para id="id1169184756515">21. Can you complete the following mental test within 3 minutes?</para>
+        <para id="id1169183829396"/>
+        <table id="id1169183348528" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Fill in: &lt; ; &gt; ; = :</entry>
+                <entry>Write as a decimal fraction:</entry>
+              </row>
+              <row>
+                <entry>a) 0,8 ........... 8%</entry>
+                <entry>i) 55% : ....................</entry>
+              </row>
+              <row>
+                <entry>b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math> ............ 76%</entry>
+                <entry>j) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math> : ....................</entry>
+              </row>
+              <row>
+                <entry>c) 60% ........... 0,6</entry>
+                <entry>k) 142% : ....................</entry>
+              </row>
+              <row>
+                <entry>d) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{5} } } } {}</m:annotation></m:semantics></m:math> ............ 85%</entry>
+                <entry>l) 3% : ....................</entry>
+              </row>
+              <row>
+                <entry>e) 0,835 ........... 83,5%</entry>
+                <entry>m) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>20</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{"20"} } } } {}</m:annotation></m:semantics></m:math> : ....................</entry>
+              </row>
+              <row>
+                <entry>f) 0,02 ........... 2%</entry>
+                <entry>n) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math>% : ....................</entry>
+              </row>
+              <row>
+                <entry>g) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{3} } } } {}</m:annotation></m:semantics></m:math> ............ 33%</entry>
+                <entry>o) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>62</m:mtext><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"62" {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math>% : ....................</entry>
+              </row>
+              <row>
+                <entry>h) 12,5% ............ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8618898">(15)</para>
+        <figure id="id1169185098184">
+          <media id="id1169185098184_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-c2cd.png" id="id1169185098184__onlineimage" height="37" width="297"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id1169185066659">
+      <title>Assessment</title>
+      <para id="id1169186316852"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1169183304245"><emphasis>Assessment Standard 1.4:</emphasis> We know this when the learner recognises and uses equivalent forms of the rational numbers listed above;</para>
+      <para id="id1169188437375"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1169183389205"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner represents, explains and justifies observed relationships or rules in own words:</para>
+      <para id="id1169184770382">2.3.3 tables.</para>
+    </section>
+  </content>
+</document>

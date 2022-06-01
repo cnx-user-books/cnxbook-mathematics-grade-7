@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Rectangular and triangular numbers</title>
+  <metadata>
+  <md:content-id>m21835</md:content-id><md:title>Rectangular and triangular numbers</md:title>
+  <md:abstract/>
+  <md:uuid>4a61ef87-b048-4fec-ad14-a164ed52200e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7500676">
+      <title>MATHEMATICS</title>
+      <para id="para-id7500676">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5378147">
+      <title>Estimations, Equations and Variables</title>
+      <para id="para-id5378147">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170905475803">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1170905475803">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170899198595">
+      <title>Memorandum</title>
+      <para id="id1170904547710">1.  (b) quadrate number</para>
+      <para id="id1170904338979">2.  </para>
+      <para id="id1170893932465">(a) </para>
+      <para id="id1170907363831">(b) No  not quadrate of number</para>
+      <para id="id1170907671260">(c) No  1 + 2 + 3 + 4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ div } {}</m:annotation></m:semantics></m:math> 5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ &lt;&gt; } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2006059">3.  </para>
+      <para id="id1170902602513">(b) 64; 125; 216; 343</para>
+      <para id="id1170907675312">(c) 64</para>
+      <para id="id1170906606753">(d) 64 000</para>
+      <para id="id1170907422087">(e) 274 625</para>
+      <para id="id1348040">(f) K4:  + 64</para>
+      <para id="id1170904679010">K5:  + 64 + 125 = 225</para>
+      <para id="id1170902110533">(g) 1 + 8 + 27 + 64 + 125 + 216 = 441</para>
+      <para id="id1376622">(h) all square number</para>
+    </section>
+    <section id="id5056681">
+      <title>Leaner Section</title>
+      <para id="para-id5056681">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170907119184">
+      <title>Content</title>
+      <para id="para-id1170907119184">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170904490015">
+      <title>ACTIVITY: Rectangular and triangular numbers [LO 1.3.4, LO 1.7.2, LO 1.7.7, LO 2.3.1, LO 2.3.3]</title>
+      <para id="id1170897525518">1. Do you still remember?</para>
+      <para id="id1170903807725">In module 1 we learnt about square numbers and triangular numbers.</para>
+      <para id="id1170905146119">a) Can you explain to your partner what these patterns are like?</para>
+      <para id="id8263457">b) What is the synonym for square numbers?</para>
+      <para id="id1170907818382">2. Let us have a look at RECTANGULAR NUMBERS.</para>
+      <para id="id1170906601160">Did you know?</para>
+      <para id="id1170895396229">Each counting number bigger than 0 is a rectangular number. The Greeks used the term rectangular number for the product of two consecutive numbers only, </para>
+      <para id="id1170904272513">e.g. 42 = 6 x 7.</para>
+      <para id="id1170897998287">When we draw rectangular numbers, they will look like this:</para>
+      <table id="id1170906571464" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry/>
+              <entry/>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c6">
+                <emphasis effect="bold">6 = 1 </emphasis>
+                <emphasis effect="bold">×</emphasis>
+                <emphasis effect="bold"> 6</emphasis>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry namest="c9" nameend="c11">
+                <emphasis effect="bold">6 = 2 </emphasis>
+                <emphasis effect="bold">×</emphasis>
+                <emphasis effect="bold"> 3</emphasis>
+              </entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1947830">a) Now draw as many sketches as possible to represent the rectangular number 18.</para>
+      <para id="id1170906663857">b) Is 18 a square number? ______________________________ Why/why not?</para>
+      <para id="id1170899533098">_____________________________________________________________________</para>
+      <para id="id3082982">_____________________________________________________________________</para>
+      <para id="id8526762">c) Is 18 a triangular number? ___________________________ Why/why not?</para>
+      <para id="id5358778">_____________________________________________________________________</para>
+      <para id="id1170904612241">_____________________________________________________________________</para>
+      <para id="id1170897955176">3. Did you know?</para>
+      <para id="id6631426">a) We also have numbers to the power of three!! These numbers are also known as cubed numbers. Take a good look at the examples:</para>
+      <figure id="id1170904494160">
+        <media id="id1170904494160_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-065b.png" id="id1170904494160__onlineimage" height="45" width="51"/>
+        </media>
+      </figure>
+      <para id="id1170901469860">
+        <emphasis effect="bold">1 = 1 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 1 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 1 </emphasis>
+      </para>
+      <figure id="id8540222">
+        <media id="id8540222_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-0853.png" id="id8540222__onlineimage" height="83" width="94"/>
+        </media>
+      </figure>
+      <para id="id1170907723884">
+        <emphasis effect="bold">8 = 2 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 2 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 2 </emphasis>
+      </para>
+      <figure id="id1170907462142">
+        <media id="id1170907462142_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-fe1f.png" id="id1170907462142__onlineimage" height="102" width="126"/>
+        </media>
+      </figure>
+      <para id="id1170907687154">
+        <emphasis effect="bold">27 = 3 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 3 </emphasis>
+        <emphasis effect="bold">×</emphasis>
+        <emphasis effect="bold"> 3 </emphasis>
+      </para>
+      <para id="id1170906805049">b) Predict what the following four cubed numbers will be (you may use your pocket calculator).</para>
+      <para id="id1170907523882">___________________________; </para>
+      <para id="id8256650">___________________________; </para>
+      <para id="id2488013">___________________________; </para>
+      <para id="id1170904215564">___________________________;</para>
+      <para id="id1170898830346">c) List any of the above numbers that may be a square number:______________</para>
+      <para id="id1170899956743">d) What will the 40th cubed number be? _______________________________</para>
+      <para id="id5374124">e) What is 653 (to the power of 3)? ___________________________________</para>
+      <para id="id8383413">f) Take a good look at the following. Can you complete the table?</para>
+      <table id="id1170895469951" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Cubed numbers</entry>
+              <entry>Sum of the cubed numbers</entry>
+            </row>
+            <row>
+              <entry>K1</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>K2</entry>
+              <entry>1 + 8 = 9</entry>
+            </row>
+            <row>
+              <entry>K3</entry>
+              <entry>1 + 8 + 27 = 36</entry>
+            </row>
+            <row>
+              <entry>K4</entry>
+              <entry>1 + 8 + 27 + ........... = 100</entry>
+            </row>
+            <row>
+              <entry>K5</entry>
+              <entry>1 + 8 + 27 + ........... + ........... = .........................</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7353440">g) Can you predict what the sum of the first 6 cubed numbers will be?</para>
+      <para id="id1170905266375">_____________________________________________________________________</para>
+      <para id="id1170895570496">h) What do you notice about the numbers in the second column?</para>
+      <para id="id1170895609705">_____________________________________________________________________</para>
+    </section>
+    <section id="id1170896732607">
+      <title>Assessment</title>
+      <para id="id6460550"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1170895492186"><emphasis>Assessment Standard 1.3:</emphasis> We know this when the learner recognises, classifies and represents the following numbers in order to describe and compare them:</para>
+      <para id="id1170905593813"><emphasis>1.3.4: </emphasis>numbers in exponential form including squares of natural numbers to at least 12<sup>2</sup>, cubes of natural numbers to at least 5<sup>3</sup>, and their square and cube roots.</para>
+      <para id="id1170899206117"><emphasis>Assessment Standard 1.7:</emphasis> We know this when the learner estimates and calculates by selecting and using operations appropriate to solving problems that involve:</para>
+      <para id="id1358385"><emphasis>1.7.2: </emphasis>multiple operations with integers;</para>
+      <para id="id1170907342897"><emphasis>1.7.7: </emphasis>exponents.</para>
+      <para id="id1170904583938"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1170895537174"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</para>
+      <para id="id1170906690674"><emphasis>2.3.1: </emphasis>verbal descriptions;</para>
+      <para id="id3851115"><emphasis>2.3.3: </emphasis>tables.</para>
+    </section>
+  </content>
+</document>

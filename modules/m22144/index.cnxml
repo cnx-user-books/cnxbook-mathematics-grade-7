@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Revising</title>
+  <metadata>
+  <md:content-id>m22144</md:content-id><md:title>Revising</md:title>
+  <md:abstract/>
+  <md:uuid>c8953d09-9f97-475b-89ac-7effa3847264</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7135279">
+      <title>MATHEMATICS</title>
+      <para id="para-id7135279">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2245131">
+      <title>Perimeter, Area and Volume</title>
+      <para id="para-id2245131">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4686842">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id4686842">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5486226">
+      <title>Memorandum</title>
+      <para id="id6383573">1. </para>
+      <para id="id3227460">a) Yes</para>
+      <para id="id7205442">b) Yes</para>
+      <para id="id2139518">c) Yes</para>
+    </section>
+    <section id="id5979466">
+      <title>LEANER SECTION</title>
+      <para id="para-id5979466">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6095007">
+      <title>Content</title>
+      <section id="id7123991">
+        <title>ACTIVITY: Revising [LO 3.3, LO 3.7]</title>
+        <para id="id7482066">1. Why don’t we start by revising a bit? Get your thinking caps on!</para>
+        <para id="id6674719">a) Are KL and MN parallel?</para>
+        <para id="id2205239">
+          <figure id="id8057232">
+            <media id="id8057232_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-141f.png" id="id8057232__onlineimage" height="155" width="129"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id3212201">b) Is OP equidistant from QR?</para>
+        <para id="id6269817">
+          <figure id="id3210728">
+            <media id="id3210728_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-b0bf.png" id="id3210728__onlineimage" height="159" width="122"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id6854565">c) Are the following three line segments equally spaced from each other?</para>
+        <figure id="id2195139">
+          <media id="id2195139_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-ba00.png" id="id2195139__onlineimage" height="104" width="264"/>
+          </media>
+        </figure>
+        <para id="id3217282">1.4 Use the dots as corners and draw an equilateral triangle, a square and a rectangle.</para>
+        <figure id="id4427217">
+          <media id="id4427217_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-e7fd.png" id="id4427217__onlineimage" height="187" width="295"/>
+          </media>
+        </figure>
+        <para id="id6176448">1.5 Join the dots together so that you will form a parallelogram and a rhombus.</para>
+        <figure id="id5941470">
+          <media id="id5941470_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-f0f3.png" id="id5941470__onlineimage" height="182" width="225"/>
+          </media>
+        </figure>
+        <para id="id6506693">1.6 Use the dots as corners and draw:</para>
+        <para id="id2128895">a) two triangles of the same shape and size</para>
+        <para id="id2693307">b) an equilateral triangle</para>
+        <para id="id6245167">c) a right-angled triangle</para>
+        <para id="id2183041">(You must use all the dots and you may use each dot only once).</para>
+        <figure id="id7335679">
+          <media id="id7335679_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-011e.png" id="id7335679__onlineimage" height="186" width="260"/>
+          </media>
+        </figure>
+        <para id="id4983048">1.7 Draw in all the diagonals of this regular pentagon. Then colour in the only polygon that has been formed.</para>
+        <figure id="id1629196">
+          <media id="id1629196_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-dc54.png" id="id1629196__onlineimage" height="184" width="193"/>
+          </media>
+        </figure>
+        <para id="id7477534">2. See if you can draw the following (use your protractor and ruler):</para>
+        <para id="id7415400">2.1 Draw a pentagon where each side is 50 mm long and each corner angle is 108 degrees.</para>
+        <para id="id2517138">2.2 Draw an octagon where each side is 40 mm long and each corner angle is 135 degrees.</para>
+      </section>
+    </section>
+    <section id="id2264829">
+      <title>Assessment</title>
+      <para id="id6622131"><emphasis><emphasis effect="italics">Learning Outcome 3:</emphasis></emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id2370231"><emphasis><emphasis effect="italics">Assessment Standard 3.3:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner uses a pair of compasses, ruler and protractor to accurately construct geometric figures for investigation of own property and design of nets.</para>
+      <para id="id6905545"><emphasis><emphasis effect="italics">Assessment Standard 3.7:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner draws and interprets sketches of solids from different perspectives.</para>
+    </section>
+  </content>
+</document>

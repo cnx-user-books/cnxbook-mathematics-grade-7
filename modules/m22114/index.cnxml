@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Triangles</title>
+  <metadata>
+  <md:content-id>m22114</md:content-id><md:title>Triangles</md:title>
+  <md:abstract/>
+  <md:uuid>6226b391-ec6a-4fba-9cce-fb34942ad75d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6206131">
+      <title>MATHEMATICS</title>
+      <para id="para-id6206131">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2885577">
+      <title>Space and Shape</title>
+      <para id="para-id2885577">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6275012">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id6275012">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5184022">
+      <title>Memorandum</title>
+      <para id="id6419189">22.3  </para>
+      <para id="id6099775">(a) right-angled</para>
+      <para id="id5067993">(b) equilateral</para>
+      <para id="id6384383">(c) acute-angled</para>
+      <para id="id3136127">(d) isosceles</para>
+      <para id="id3864641">(e) obtuse-angled</para>
+      <para id="id3229127">22.4  </para>
+      <para id="id2992131">(a) one obtuse angle</para>
+      <para id="id6279752">(b) 2 sides equally long</para>
+      <para id="id6245939">(c) 3 different lengths</para>
+      <para id="id5436589">(d) one angle 90°</para>
+    </section>
+    <section id="id6323675">
+      <title>Leaner Section</title>
+      <para id="para-id6323675">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3162129">
+      <title>Content</title>
+      <section id="id5432095">
+        <title>ACTIVITY: Triangles [LO 3.1, LO 3.2, LO 3.4, LO 4.9]</title>
+        <para id="id5443263">22. TRIANGLES</para>
+        <para id="id6357570">22.1 Draw the triangles shown below on graph paper. Cut them out neatly. With a friend, sort these triangles into groups. The triangles in each group must have the same characteristics. Explain to the rest of the class why you sorted the triangles into these groups.</para>
+        <figure id="id6617911">
+          <media id="id6617911_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-6a56.png" id="id6617911__onlineimage" height="401" width="421"/>
+          </media>
+        </figure>
+        <para id="id3034014">22.2 Did you know?</para>
+        <para id="id5256216">We can classify triangles according to their angles or their sides.</para>
+        <para id="id3068517"/>
+        <para id="id6246253">a) Acute-angled triangle</para>
+        <figure id="id5982860">
+          <media id="id5982860_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-6ca0.png" id="id5982860__onlineimage" height="79" width="226"/>
+          </media>
+        </figure>
+        <para id="id2370219"/>
+        <para id="id6435691">b) Right-angled triangle</para>
+        <figure id="id5428288">
+          <media id="id5428288_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-050e.png" id="id5428288__onlineimage" height="69" width="238"/>
+          </media>
+        </figure>
+        <para id="id5163299"/>
+        <para id="id6296980">c) Obtuse-angled triangle</para>
+        <figure id="id3972971">
+          <media id="id3972971_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-e2ac.png" id="id3972971__onlineimage" height="65" width="261"/>
+          </media>
+        </figure>
+        <para id="id2880348"/>
+        <para id="id5873064">d) Equilateral triangle</para>
+        <para id="id6118137"> All three sides are equally long.</para>
+        <figure id="id5421737">
+          <media id="id5421737_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-c223.png" id="id5421737__onlineimage" height="101" width="195"/>
+          </media>
+        </figure>
+        <para id="id5442072"/>
+        <para id="id6103558">e) Scalene triangle</para>
+        <para id="id6140512"> All three sides have different lengths.</para>
+        <figure id="id6431067">
+          <media id="id6431067_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-724e.png" id="id6431067__onlineimage" height="75" width="255"/>
+          </media>
+        </figure>
+        <para id="id5192548"/>
+        <para id="id6196561">f) Isosceles triangle</para>
+        <para id="id5419879"> There are two equally long sides.</para>
+        <figure id="id6224443">
+          <media id="id6224443_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-2736.png" id="id6224443__onlineimage" height="82" width="251"/>
+          </media>
+        </figure>
+        <para id="id6406513">22.3 Identify the triangles shown below:</para>
+        <para id="id6173488"><figure id="id1931014"><media id="id1931014_media" alt=""><image mime-type="image/png" src="../../media/graphics8-fbd0.png" id="id1931014__onlineimage" height="99" width="118"/></media></figure>a) </para>
+        <para id="id6157130"/>
+        <para id="id4436377">______________________________</para>
+        <para id="id4681633">b) </para>
+        <para id="id2908969">
+          <figure id="id3180857">
+            <media id="id3180857_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics9-0c8c.png" id="id3180857__onlineimage" height="113" width="108"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id6229720">______________________________</para>
+        <para id="id3002587">c) </para>
+        <figure id="id5813905">
+          <media id="id5813905_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics10-2568.png" id="id5813905__onlineimage" height="73" width="124"/>
+          </media>
+        </figure>
+        <para id="id5627913">______________________________</para>
+        <para id="id6617914"/>
+        <para id="id2171595"><figure id="id6509682"><media id="id6509682_media" alt=""><image mime-type="image/png" src="../../media/graphics11-bd76.png" id="id6509682__onlineimage" height="85" width="125"/></media></figure>d)</para>
+        <para id="id3930416">______________________________</para>
+        <para id="id3021274">e)</para>
+        <figure id="id2789218">
+          <media id="id2789218_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics12-074c.png" id="id2789218__onlineimage" height="63" width="141"/>
+          </media>
+        </figure>
+        <para id="id6263243">______________________________</para>
+        <para id="id6547082">22.4 Now draw your own:</para>
+        <para id="id6435398">a) Obtuse-angled triangle </para>
+        <para id="id6108453">b) Isosceles triangle </para>
+        <para id="id4935480">c) Scalene triangle </para>
+        <para id="id5689805">d) Right-angled triangle </para>
+      </section>
+    </section>
+    <section id="id4588669">
+      <title>Assessment</title>
+      <para id="id5497079"><emphasis>Learning Outcome 3: </emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id5581739"><emphasis>Assessment Standard 3.1:</emphasis> We know this when the learner recognises, visualises and names geometric figures and solids in natural and cultural forms and geometric settings, including those previously dealt with.</para>
+      <para id="id4958702"><emphasis>Assessment Standard 3.2:</emphasis> We know this when the learner in contexts that include those that may be used to build awareness of social, cultural and environmental issues, describes and classifies geometric figures and solids in terms of properties;</para>
+      <para id="id6410548"><emphasis>Assessment Standard 3.4:</emphasis> We know this when the learner designs and uses nets to make models of geometric solids studied up to and including this grade;</para>
+      <para id="id5829318"><emphasis>Learning Outcome 4: </emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+      <para id="id6599063"><emphasis>Assessment Standard 4.9:</emphasis> We know this when the learner estimates, compares, measures and draws angles accurate to one degree using protractors.</para>
+    </section>
+  </content>
+</document>

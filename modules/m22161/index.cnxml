@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Volume</title>
+  <metadata>
+  <md:content-id>m22161</md:content-id><md:title>Volume</md:title>
+  <md:abstract/>
+  <md:uuid>5fe36ff2-6d26-4d1b-8d85-4adc6d5d92fb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166986294605">
+      <title>MATHEMATICS</title>
+      <para id="para-id1166986294605">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166986972094">
+      <title>Perimeter, Area and Volume</title>
+      <para id="para-id1166986972094">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166983113365">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1166983113365">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166976622765">
+      <title>Memorandum </title>
+      <para id="id7651084">23.4 </para>
+      <para id="id1166984407518">a) 108 cubic cm</para>
+      <para id="id1166981865199">b) 72 cubic cm</para>
+      <para id="id1166987207317">c) 23,625 cubic cm</para>
+      <para id="id1166983019688">d) 108 cubic cm</para>
+      <para id="id1166983609419">23.5 </para>
+      <para id="id1166989823377">a) 20 cubic cm</para>
+      <para id="id8973543">b) 63 000 cubic mm</para>
+      <para id="id1166982190134">c) 24 000 cubic cm</para>
+      <para id="id1166986565561">d) 1 728 cubic cm</para>
+      <para id="id1166989396069">e) own answer</para>
+    </section>
+    <section id="id1166976540443">
+      <title>LEANER SECTION</title>
+      <para id="para-id1166976540443">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166984917968">
+      <title>Content</title>
+      <section id="id1166986541821">
+        <title>ACTIVITY: Volume [LO 4.2, LO 4.3]</title>
+        <para id="id1166989717012">23. VOLUME</para>
+        <para id="id1166987131047">23.1 Did you know?</para>
+        <para id="id1166991861972">The amount of space that is taken up by a solid body is called the volume of the body. </para>
+        <para id="id3615392">The internal volume is thus the space inside a hollow container. It is also called the capacity or contents of the container.</para>
+        <para id="id7377718">23.2 IMPORTANT to REMEMBER!</para>
+        <para id="id6273392">Volume is measured in cubic measuring units</para>
+        <para id="id1166987393020">We use the following units:</para>
+        <para id="id1166986443987"> cubic mm : mm³</para>
+        <para id="id1166980966392"> cubic cm : cm³</para>
+        <para id="id6768710"> cubic m : m³</para>
+        <para id="id1166984183628">1 cm³ (cubic centimetre) is a cube with a length, breadth and height of 1 cm.</para>
+        <para id="id1166983230440">1 cm³ = 1 cm x 1 cm x 1 cm</para>
+        <para id="id6770386">= 10 mm x 10 mm x 10 mm</para>
+        <para id="id1166976605910">= 1 000 mm3</para>
+        <para id="id1166976576769">1 m³ = 1 m x 1 m x 1 m</para>
+        <para id="id1166976681904">= 100 cm x 100 cm x 100 cm</para>
+        <para id="id1166977327873">= 1 000 000 cm³</para>
+        <para id="id1166982800085">23.3 Also LEARN the following:</para>
+        <para id="id1166976515177">Volume of a rectangular prism is length x breadth x height</para>
+        <para id="id1166976521898">Volume of a cube is y³ y = (length, breadth and height)</para>
+        <para id="id1166986497306">23.4 Use the formula: volume = length x breadth x height</para>
+        <para id="id1166987979795">to calculate the volume of the following figures:</para>
+        <para id="id1166986276064"><figure id="id1166976321292"><media id="id1166976321292_media" alt=""><image mime-type="image/png" src="../../media/graphics1-4ea4.png" id="id1166976321292__onlineimage" height="151" width="266"/></media></figure>a) </para>
+        <para id="id1166976322534">___________________________________________________</para>
+        <para id="id1166976684789">___________________________________________________</para>
+        <para id="id1166977305159">___________________________________________________</para>
+        <para id="id1166975121038">b)</para>
+        <figure id="id1166976378444">
+          <media id="id1166976378444_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-fa8d.png" id="id1166976378444__onlineimage" height="151" width="266"/>
+          </media>
+        </figure>
+        <para id="id1166980686301">___________________________________________________</para>
+        <para id="id1166986314473">___________________________________________________</para>
+        <para id="id1166982537145">___________________________________________________</para>
+        <para id="id1166975224654">c) </para>
+        <figure id="id1166982528528">
+          <media id="id1166982528528_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-2143.png" id="id1166982528528__onlineimage" height="129" width="199"/>
+          </media>
+        </figure>
+        <para id="id3593746">___________________________________________________</para>
+        <para id="id1166987913371">___________________________________________________</para>
+        <para id="id8260650">___________________________________________________</para>
+        <para id="id1166976680331"><figure id="id1166983812493"><media id="id1166983812493_media" alt=""><image mime-type="image/png" src="../../media/graphics4-295e.png" id="id1166983812493__onlineimage" height="245" width="229"/></media></figure>d)</para>
+        <para id="id1166987014706">___________________________________________________</para>
+        <para id="id1166978881596">___________________________________________________</para>
+        <para id="id1166977779182">___________________________________________________</para>
+        <para id="id1166980350265">___________________________________________________</para>
+        <para id="id1166987898692">___________________________________________________</para>
+        <para id="id1166986885938">___________________________________________________</para>
+        <para id="id6605980">23.5 a) Calculate the volume of the following in cm3:</para>
+        <figure id="id1166990047264">
+          <media id="id1166990047264_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-e1ad.png" id="id1166990047264__onlineimage" height="125" width="253"/>
+          </media>
+        </figure>
+        <para id="id6129456">___________________________________________________</para>
+        <para id="id1166984271438">___________________________________________________</para>
+        <para id="id1166976470269">___________________________________________________</para>
+        <para id="id1166976098008">___________________________________________________</para>
+        <para id="id1166978408247">___________________________________________________</para>
+        <para id="id4852371">___________________________________________________</para>
+        <para id="id1166976313252">b) Calculate the volume of the following in mm3</para>
+        <figure id="id1166976611888">
+          <media id="id1166976611888_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-1e35.png" id="id1166976611888__onlineimage" height="131" width="239"/>
+          </media>
+        </figure>
+        <para id="id1166987140411">___________________________________________________</para>
+        <para id="id1166987734022">___________________________________________________</para>
+        <para id="id1166978880452">___________________________________________________</para>
+        <para id="id1166976510612">___________________________________________________</para>
+        <para id="id1166976548876">___________________________________________________</para>
+        <para id="id1166976615904">___________________________________________________</para>
+        <para id="id1166983686530">c) What is the volume of the figure in cm3?</para>
+        <para id="id5129655">
+          <figure id="id1166976546018">
+            <media id="id1166976546018_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics7-0191.png" id="id1166976546018__onlineimage" height="113" width="161"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1166977924629"/>
+        <para id="id3677925"/>
+        <para id="id1166988018153"/>
+        <para id="id3588359"/>
+        <para id="id1166990149598">___________________________________________________</para>
+        <para id="id1166978030042">___________________________________________________</para>
+        <para id="id1166976511103">___________________________________________________</para>
+        <para id="id1166980081784">___________________________________________________</para>
+        <para id="id1166976279233">___________________________________________________</para>
+        <para id="id1166989891421">___________________________________________________</para>
+        <para id="id1166980082476">d) Calculate the volume of a cube with a length of 12 cm.</para>
+        <para id="id3414000">___________________________________________________</para>
+        <para id="id1166977453159">___________________________________________________</para>
+        <para id="id1166980292053">___________________________________________________</para>
+        <para id="id1166976599949">___________________________________________________</para>
+        <para id="id1166979674207">e) Estimate the volume of the box of chalk in your classroom </para>
+        <para id="id1166976317216">___________________________________________________</para>
+        <para id="id1166986428407">___________________________________________________</para>
+        <para id="id5345438">___________________________________________________</para>
+        <para id="id1166989484747">___________________________________________________</para>
+        <para id="id1166987073528">23.6 CLASS DISCUSSION</para>
+        <para id="id1166978885276">How will you determine the volume of an irregular figure, e.g. a stone?</para>
+        <para id="id7136718">23.6.1 Did you know?</para>
+        <para id="id1166978050618">A Greek Mathematician, Archimedes, discovered how to calculate the volume of an irregular figure while he was bathing! He saw how water flowed over the edge of the bath when he climbed in. He realised that if he could measure the volume of water that his body displaced, then he could measure the volume of his own body. Archimedes was so excited by this realisation that he jumped out of the bath and ran down the street stark naked shouting, “EUREKA!” (I have found it!)</para>
+        <para id="id1166976661042">23.6.2 Follow the following steps and see if you can measure the volume of a stone that you have picked up outside.</para>
+        <para id="id7072334">a) Fill a cup completely to the top with water and put the cup in a bigger container. Remember to see precisely how many mℓ water you have in the cup!</para>
+        <para id="id1166979816287">b) Slowly lower the stone into the cup. Make certain that the water that overflows lands in the bigger container.</para>
+        <para id="id7073263">c) Measure the amount of water in the container by pouring it into a measuring cup.</para>
+        <para id="id1166986537679">d) Your stone has a volume of 1 cm3 for each mℓ of water that overflowed because 1 mℓ = 1 cm³.</para>
+        <para id="id1166980004419">e) What is the volume of your stone? .__________________________________</para>
+      </section>
+    </section>
+    <section id="id1166976552084">
+      <title>Assessment</title>
+      <para id="id1166975261131"><emphasis><emphasis effect="italics">Learning Outcome 4:</emphasis></emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+      <para id="id1166978110582"><emphasis><emphasis effect="italics">Assessment Standard 4.2:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner solves problems;</para>
+      <para id="id1166989788079"><emphasis><emphasis effect="italics">Assessment Standard 4.3:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner solves problems using a range of strategies.</para>
+    </section>
+  </content>
+</document>

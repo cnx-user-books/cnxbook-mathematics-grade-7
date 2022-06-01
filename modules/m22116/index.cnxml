@@ -1,0 +1,379 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tesselations</title>
+  <metadata>
+  <md:content-id>m22116</md:content-id><md:title>Tesselations</md:title>
+  <md:abstract/>
+  <md:uuid>32edd737-6515-4d14-a328-ac1c0f59f779</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170179915271">
+      <title>MATHEMATICS</title>
+      <para id="para-id1170179915271">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7649716">
+      <title>Space and Shape</title>
+      <para id="para-id7649716">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8973999">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id8973999">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3686362">
+      <title>Memorandum</title>
+      <para id="id3735736">24.2 No, pentagons do not tesselate</para>
+      <para id="id1170180616317">26 </para>
+      <para id="id1170191220117">(a)  50    </para>
+      <para id="id2643769">(b) 105    </para>
+      <para id="id6291725">(c) 993    </para>
+      <para id="id7733726">(d) 995    </para>
+      <para id="id2162365">(e)  12    </para>
+      <para id="id1170180729147">(f)  12    </para>
+      <para id="id1170180581657">(g)  12    </para>
+      <para id="id1170191535618">(h)  7</para>
+      <para id="id6471171">(i) 100</para>
+      <para id="id5609169">(j) 100 000</para>
+      <para id="id1170179928164">(k) 5 r. 3</para>
+      <para id="id1170191210280">(l) 9 r. 5</para>
+      <para id="id1170180558403">(m) 8 r. 6</para>
+      <para id="id1170180208202">(n) 9 r. 5</para>
+      <para id="id1170179491178">(o) 7 r. 4</para>
+    </section>
+    <section id="id1170186841636">
+      <title>Leaner Section</title>
+      <para id="para-id1170186841636">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170191205385">
+      <title>Content</title>
+      <section id="id1170180657075">
+        <title>ACTIVITY: Tesselations [LO 1.8]</title>
+        <para id="id1170180090322">24. TESSELLATIONS</para>
+        <para id="id1170179888361">24.1 Did you know?</para>
+        <para id="id1170191684114">When a surface is covered by tiles so that there are no gaps left between the tiles, and no tiles overlap, the pattern that is made is called a tessellation, e.g.</para>
+        <figure id="id1170191640068">
+          <media id="id1170191640068_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-cd3c.png" id="id1170191640068__onlineimage" height="100" width="199"/>
+          </media>
+        </figure>
+        <para id="id1170179539248">We say the form tessellates.</para>
+        <para id="id1170179757970">24.2 Do you think ALL polygons will tessellate? __________ Motivate your answer.</para>
+        <para id="id3764472">_____________________________________________________________________</para>
+        <para id="id7597030">_____________________________________________________________________</para>
+        <para id="id1170191612516">_____________________________________________________________________</para>
+        <para id="id1840639">_____________________________________________________________________</para>
+        <para id="id6721405">_____________________________________________________________________</para>
+        <para id="id4990380">24.3 Use a combination of polygons, e.g. a triangle and a square and design a floor covering for a kitchen or bathroom. It must tessellate! Colour it in neatly.</para>
+        <para id="id1170179754030">25. Time for self-assessment</para>
+        <table id="id1170189350592" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1170179768676" list-type="bulleted">
+                    <item>Colour in the face that shows your ability:</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to group different triangles according to their characteristics.</entry>
+                <entry>
+                  <media id="id1170186742394" alt="">
+                    <image mime-type="image/png" src="../../media/graphics2-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179732121" alt="">
+                    <image mime-type="image/png" src="../../media/graphics3-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179912693" alt="">
+                    <image mime-type="image/png" src="../../media/graphics4-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can explain the following concepts:</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170180015254" list-type="bulleted">
+                    <item>acute-angled triangle</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id4370642" alt="">
+                    <image mime-type="image/png" src="../../media/graphics5-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170188116972" alt="">
+                    <image mime-type="image/png" src="../../media/graphics6-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170180390619" alt="">
+                    <image mime-type="image/png" src="../../media/graphics7-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170179985814" list-type="bulleted">
+                    <item>equilateral triangle</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id1170180771751" alt="">
+                    <image mime-type="image/png" src="../../media/graphics8-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id2048874" alt="">
+                    <image mime-type="image/png" src="../../media/graphics9-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179879551" alt="">
+                    <image mime-type="image/png" src="../../media/graphics10-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170180551589" list-type="bulleted">
+                    <item>obtuse-angled triangle</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id1170180734812" alt="">
+                    <image mime-type="image/png" src="../../media/graphics11-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179754783" alt="">
+                    <image mime-type="image/png" src="../../media/graphics12-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id7500010" alt="">
+                    <image mime-type="image/png" src="../../media/graphics13-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170189213678" list-type="bulleted">
+                    <item>isosceles triangle</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id1170191540981" alt="">
+                    <image mime-type="image/png" src="../../media/graphics14-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179903709" alt="">
+                    <image mime-type="image/png" src="../../media/graphics15-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179827576" alt="">
+                    <image mime-type="image/png" src="../../media/graphics16-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170179176518" list-type="bulleted">
+                    <item>right-angles triangle</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id1170180069825" alt="">
+                    <image mime-type="image/png" src="../../media/graphics17-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170191598749" alt="">
+                    <image mime-type="image/png" src="../../media/graphics18-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170190112850" alt="">
+                    <image mime-type="image/png" src="../../media/graphics19-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id8473005" list-type="bulleted">
+                    <item>scalene triangle</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id7839878" alt="">
+                    <image mime-type="image/png" src="../../media/graphics20-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179787673" alt="">
+                    <image mime-type="image/png" src="../../media/graphics21-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170191065711" alt="">
+                    <image mime-type="image/png" src="../../media/graphics22-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170191492119" list-type="bulleted">
+                    <item>symmetry</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id1170180092337" alt="">
+                    <image mime-type="image/png" src="../../media/graphics23-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170192502939" alt="">
+                    <image mime-type="image/png" src="../../media/graphics24-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170191518932" alt="">
+                    <image mime-type="image/png" src="../../media/graphics25-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1170179763330" list-type="bulleted">
+                    <item>tessellations</item>
+                  </list>
+                </entry>
+                <entry>
+                  <media id="id1170179128738" alt="">
+                    <image mime-type="image/png" src="../../media/graphics26-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170191416976" alt="">
+                    <image mime-type="image/png" src="../../media/graphics27-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179959660" alt="">
+                    <image mime-type="image/png" src="../../media/graphics28-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can indicate the axes of symmetry of figures.</entry>
+                <entry>
+                  <media id="id1170191076002" alt="">
+                    <image mime-type="image/png" src="../../media/graphics29-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id7852202" alt="">
+                    <image mime-type="image/png" src="../../media/graphics30-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179937478" alt="">
+                    <image mime-type="image/png" src="../../media/graphics31-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+              <row>
+                <entry>I can draw a pattern with shapes that tessellate.</entry>
+                <entry>
+                  <media id="id4568050" alt="">
+                    <image mime-type="image/png" src="../../media/graphics32-e20c.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179458604" alt="">
+                    <image mime-type="image/png" src="../../media/graphics33-1bea.png"/>
+                  </media>
+                </entry>
+                <entry>
+                  <media id="id1170179483218" alt="">
+                    <image mime-type="image/png" src="../../media/graphics34-2974.png"/>
+                  </media>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170189614465">26. Can you improve the mark you got in the previous mental test? Try to complete this one in 2 minutes.</para>
+        <para id="id1170179935318"/>
+        <para id="id3137215">a) 16 + 19 + 15 = ____________</para>
+        <para id="id1170179494945">b) 28 + 36 + 41 = ____________</para>
+        <para id="id3220208">c) 1 009 – 16 = ____________</para>
+        <para id="id1170179087881">d) 1 012 – 17 = ____________</para>
+        <para id="id1170180072313">e) ____________ x 8 = 96</para>
+        <para id="id7223729">f) 9 x ____________ = 108 </para>
+        <para id="id1170180371562">g) 84 ÷ 7 = ____________</para>
+        <para id="id1170179730286">h) 63 ÷ ____________= 9 </para>
+        <para id="id1170189215945">i) 10<sup>5</sup> ÷ 103 = ____________</para>
+        <para id="id1170180410812">j) 10³ x 102 = ____________</para>
+        <para id="id1170180343674">k) 43 ÷ 8 = ____________</para>
+        <para id="id1170191685579">l) 59 ÷ 6 = ____________</para>
+        <para id="id1170191633898">m) 78 ÷ 9 = ____________</para>
+        <para id="id1170180429969">n) 86 ÷ 9 = ____________</para>
+        <para id="id1170179587234">o) 53 ÷ 7 = ____________</para>
+        <para id="id1170179728083">27. CHALLENGE!</para>
+        <list id="id1170180595079" list-type="bulleted">
+          <item>See if you can get the following correct</item>
+        </list>
+        <para id="id1170180380763">27.1 Arrange 20 toothpicks to form seven squares (see sketch). Move three toothpicks so that only five squares of the same size are left.</para>
+        <figure id="id1170179783965">
+          <media id="id1170179783965_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics35-2e5b.png" id="id1170179783965__onlineimage" height="165" width="165"/>
+          </media>
+        </figure>
+        <para id="id1170179754935">27.2 Arrange your toothpicks as shown in the example below. Move only two so that you form a parallelogram and three rhombuses.</para>
+        <figure id="id1170179782891">
+          <media id="id1170179782891_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics36-1d63.png" id="id1170179782891__onlineimage" height="59" width="211"/>
+          </media>
+        </figure>
+        <para id="id3267227">27.3 Trace the following pieces of a tangram onto a folio sheet and cut them out neatly. (You may use a tangram if you have one in the class.) </para>
+        <para id="id1170179470548">Use all the pieces and build a cat in as many different ways as possible!</para>
+        <figure id="id1170191605442">
+          <media id="id1170191605442_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics37-8e26.png" id="id1170191605442__onlineimage" height="847" width="599"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id3968190">
+      <title>Assessment</title>
+      <para id="id1170180416784"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1170180228100"><emphasis>Assessment Standard 1.8: </emphasis>We know this when the learner performs mental calculations involving squares of natural numbers to at least 10<sup>2</sup> and cubes of natural numbers to at least 5<sup>3</sup>.</para>
+    </section>
+  </content>
+</document>

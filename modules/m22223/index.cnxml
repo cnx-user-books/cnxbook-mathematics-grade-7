@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Modes, medians and arithmetic mean</title>
+  <metadata>
+  <md:content-id>m22223</md:content-id><md:title>Modes, medians and arithmetic mean</md:title>
+  <md:abstract/>
+  <md:uuid>c4872162-f92b-4061-8384-d32598797fd3</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6600697">
+      <title>MATHEMATICS</title>
+      <para id="para-id6600697">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7906650">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id7906650">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7433288">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id7433288">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4071358">
+      <title>Memorandum</title>
+      <para id="para-id4071358">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4825985">
+      <title>LEANER SECTION</title>
+      <para id="para-id4825985">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9366615">
+      <title>Content</title>
+      <section id="id14670442">
+        <title>ACTIVITY: Modes, medians and arithmetic mean [LO 5.6, LO 5.9]</title>
+        <para id="id4153776">11. MODES, MEDIANS AND ARITHMETIC MEAN</para>
+        <para id="id9614566">11.1 LEARN the following CONCEPTS</para>
+        <para id="id9670028">MODE : </para>
+        <para id="id9209368">The value that is repeated the most often</para>
+        <para id="id7993845">E.g. 5; 6 ;6 ;7; 4 ; 8 ; 6 ; 6</para>
+        <para id="id15208412">The mode is 6.</para>
+        <para id="id8214965">Sometimes there is more than one mode:</para>
+        <para id="id14722153">E.g. 2; 3 ; 3 ; 4 ; 6; 2 ; 5</para>
+        <para id="id14724933">The modes are 2 and 3.</para>
+        <para id="id4248810">MEDIAN : </para>
+        <para id="id12889303">This is the value that lies in the middle when data is arranged from smallest to biggest.</para>
+        <para id="id8731582">E.g. 18 ; 21 ; 22 ; 23 ; 27 ; 31 ; 40</para>
+        <para id="id6862933">If there is an even number of values, then the median is the average of the two centre values.</para>
+        <para id="id5137666">E.g. 4 ; 5 ; 6 ; 6 ; 6 ; 7 ; 7 ; 9 ; 9 ; 10</para>
+        <para id="id3358126">The median = (7 + 6) ÷ 2 = 6,5</para>
+        <para id="id8672182">ARITHMETIC MEAN (AVERAGE):  </para>
+        <para id="id5165611">Add all the values together and divide by the number of the values.</para>
+        <para id="id14635641">E.g. 2; 3; 5; 5; 6</para>
+        <para id="id14727554">= 21 ÷ 5</para>
+        <para id="id14696508">= 4,2</para>
+        <para id="id9657533">11.2 Here follows a list of the shoe sizes of ten Grade 7 boys:</para>
+        <para id="id6390875">6 ; 7 ; 9 ; 8 ; 8 ; 9 ; 5 ; 6 ; 7 ; 8</para>
+        <para id="id7008541">a) Calculate the mode: ______________________________________________</para>
+        <para id="id7442823">b) Calculate the median: ____________________________________________</para>
+        <para id="id14686088">c) If the shoe sizes were a mark out of 10, what would the arithmetic average of the “test” be?</para>
+        <para id="id6230777"/>
+        <para id="id6222204">11.3 Calculate the average age (in years) of your class.</para>
+        <para id="id9206447">_____________________________________________________________________</para>
+        <para id="id7946934">_____________________________________________________________________</para>
+        <para id="id6559608">_____________________________________________________________________</para>
+        <para id="id9624994">_____________________________________________________________________</para>
+        <para id="id8312243">_____________________________________________________________________</para>
+        <para id="id6787615">11.4 Choose 10 of your classmates and determine the average number of children per family.</para>
+        <para id="id8981563">_____________________________________________________________________</para>
+        <para id="id13016111">_____________________________________________________________________</para>
+        <para id="id14698429">_____________________________________________________________________</para>
+        <para id="id11330336">_____________________________________________________________________</para>
+        <para id="id3208669">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id4677694">
+      <title>Assessment</title>
+      <para id="id6917904"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id8528888"><emphasis><emphasis effect="italics">Assessment Standard 5.6:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner identifies the largest and smallest scores in a data set and determines the difference between them in order to determine the spread of the data (range);</para>
+      <para id="id3468306"><emphasis><emphasis effect="italics">Assessment Standard 5.9:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner summarises ungrouped numerical data by determining mean, median and mode as measures of central tendency and distinguishes between them.</para>
+    </section>
+  </content>
+</document>

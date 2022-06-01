@@ -1,0 +1,591 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Estimations, Equations and Variables (Algebraic equations)</title>
+  <metadata>
+  <md:content-id>m21841</md:content-id><md:title>Estimations, Equations and Variables (Algebraic equations)</md:title>
+  <md:abstract/>
+  <md:uuid>192e5293-66ef-48a0-b8c5-f2b63264dd8f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id2246239">
+      <title>MATHEMATICS</title>
+      <para id="para-id2246239">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171600027937">
+      <title>Estimations, Equations and Variables</title>
+      <para id="para-id1171600027937">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171600169551">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1171600169551">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171600713638">
+      <title>Memorandum</title>
+      <para id="id1171599460438">21.  (a)</para>
+      <table id="id1171600870593" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Days</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>5</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>49</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Bo</emphasis>
+                <emphasis effect="bold">x</emphasis>
+                <emphasis effect="bold">es</emphasis>
+              </entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>150</entry>
+              <entry>200</entry>
+              <entry>___</entry>
+              <entry>600</entry>
+              <entry>1 750</entry>
+              <entry>___</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171600097225">22.</para>
+      <para id="id1171601371579"> (b)</para>
+      <table id="id1171600297854" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Sketch</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+              <entry>___</entry>
+            </row>
+            <row>
+              <entry>Number of squares </entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>13</entry>
+              <entry>25</entry>
+              <entry>40</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171601523838"> (c) Squares   = 1 + (Sketch No. x 3)</para>
+      <para id="id2300518"> (d) (i) 1 + (25 x 3) = 76</para>
+      <list id="id6654301" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>1 + (37 x 3) = 112</item>
+        <item>1 + (101 x 3) = 304</item>
+      </list>
+      <para id="id1171601862877">(e) (i) 43</para>
+      <list id="id2671085" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>55</item>
+        <item>80</item>
+      </list>
+      <para id="id2706722">23. (a) <emphasis effect="italics">u</emphasis> = <emphasis effect="italics"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="italics"> i</emphasis> ÷ 4</para>
+      <para id="id2336843"> (b) <emphasis effect="italics">u</emphasis> = (<emphasis effect="italics">i </emphasis>x 2) + 1</para>
+      <para id="id1171603360257">24. (a) Input</para>
+      <para id="id1171602747936"> money</para>
+      <para id="id1171600537700">
+        <table id="id1171601367041" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>24. (a) <emphasis effect="bold">Input</emphasis><emphasis effect="bold">money</emphasis></entry>
+                <entry>R1</entry>
+                <entry>R5</entry>
+                <entry>R30</entry>
+                <entry>R50</entry>
+                <entry>R100</entry>
+              </row>
+              <row>
+                <entry>Output : flower bulbs </entry>
+                <entry>3</entry>
+                <entry>15</entry>
+                <entry>90</entry>
+                <entry>150</entry>
+                <entry>300</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+      <para id="id1171598255366"> (b)</para>
+      <para id="id1171603641182">
+        <table id="id2455574" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>InputNights</entry>
+                <entry>1</entry>
+                <entry>7</entry>
+                <entry>10</entry>
+                <entry>15</entry>
+                <entry>31</entry>
+              </row>
+              <row>
+                <entry>Output Cost</entry>
+                <entry>R280</entry>
+                <entry>R1 960</entry>
+                <entry>R2 800</entry>
+                <entry>R4 200</entry>
+                <entry>R8 680</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+      <para id="id1171605689356"> (c)</para>
+      <para id="id1171600926885">
+        <table id="id1171601348328" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>InputKg</entry>
+                <entry>1</entry>
+                <entry>2½</entry>
+                <entry>4</entry>
+                <entry>5¼</entry>
+                <entry>19</entry>
+              </row>
+              <row>
+                <entry>OutputAmount</entry>
+                <entry>R6,20</entry>
+                <entry>R17</entry>
+                <entry>R27,70</entry>
+                <entry>R35,70</entry>
+                <entry>R129,78</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+    </section>
+    <section id="id7257380">
+      <title>Leaner Section</title>
+      <para id="para-id7257380">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171599380741">
+      <title>Content</title>
+      <para id="para-id1171599380741">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171600923832">
+      <title>ACTIVITY: Estimations, Equations and Variables (Algebraic equations) [LO 2.1, LO 2.3.3, LO 2.2, LO 2.4]</title>
+      <para id="id2690592">21. Let us see if we can formulate rules to solve equations by looking at patterns.</para>
+      <para id="id1171601307271">Every day the Cape Market purchases 50 boxes of grapes </para>
+      <para id="id1171600022073">from a farmer.</para>
+      <para id="id1171602005372">a) Complete the following table:</para>
+      <table id="id6289913" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Days </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry/>
+              <entry>12</entry>
+              <entry>35</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Boxes</entry>
+              <entry>50</entry>
+              <entry>100</entry>
+              <entry/>
+              <entry/>
+              <entry>250</entry>
+              <entry/>
+              <entry/>
+              <entry>2 450</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171601097061">b) We can check if you are correct by writing an algebraic equation </para>
+      <para id="id2118252">for the above:</para>
+      <para id="id1171601257842">b (boxes) = d (days) ´ 50</para>
+      <para id="id1171602143848">Therefore: c = 3 ´ 50</para>
+      <para id="id1171602468493">= 150 (3rd day)</para>
+      <para id="id8648333">c = d ´ 50</para>
+      <para id="id1171601295536">250 = d ´ 50</para>
+      <para id="id1171599681552">250 ÷ 50 = d</para>
+      <para id="id1171600570530">5 = d</para>
+      <para id="id1171601133401">On day 5 the market had already bought 250 boxes of grapes.</para>
+      <para id="id1171599841659">c) Work with a partner and check the rest of your work in the same way.</para>
+      <para id="id1171601096155">22. Examine the following three sketches:</para>
+      <figure id="id1171600409141">
+        <media id="id1171600409141_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-8794.png" id="id1171600409141__onlineimage" height="148" width="600"/>
+        </media>
+      </figure>
+      <para id="id1171602473843">a) Can you explain to a friend the pattern that is formed here?</para>
+      <para id="id1171601370155">b) Complete this table:</para>
+      <table id="id1171600908735" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Sketch</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>13</entry>
+            </row>
+            <row>
+              <entry>Number of squares</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171602272249">c) Can you write down the equation by which you can determine your solution?</para>
+      <para id="id1171600480102">_____________________________________________________________________</para>
+      <para id="id1171601511612">d) Use your equation to determine the number of squares in</para>
+      <para id="id1171607046653">(i) sketch 25: ___________________________________________________</para>
+      <para id="id1171601820943">(ii) sketch 37: ___________________________________________________</para>
+      <para id="id1171600064949">(iii) sketch 101: ___________________________________________________</para>
+      <para id="id1171600745086">e) Which sketches will contain the following number of squares?</para>
+      <para id="id1171602672342">(i) 130: _________________________________________________________</para>
+      <para id="id1171604706178">(ii) 166: _________________________________________________________</para>
+      <para id="id1171606818102">(iii) 241: _________________________________________________________</para>
+      <para id="id1171601348924">23. Are you able to write a rule (an algebraic equation) for the relationship between the input and output numbers in the following table?</para>
+      <para id="id1171599910180">a) </para>
+      <table id="id1171605602684" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Input (i)</entry>
+              <entry>16</entry>
+              <entry>28</entry>
+              <entry>48</entry>
+              <entry>60</entry>
+            </row>
+            <row>
+              <entry>Output (o)</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>12</entry>
+              <entry>15</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171603568334"/>
+      <para id="id6811401">b) </para>
+      <table id="id1171601348054" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Input (i)</entry>
+              <entry>105</entry>
+              <entry>115</entry>
+              <entry>125</entry>
+              <entry>135</entry>
+            </row>
+            <row>
+              <entry>Output (o)</entry>
+              <entry>211</entry>
+              <entry>231</entry>
+              <entry>251</entry>
+              <entry>271</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171603657737"/>
+      <para id="id1171600762230">24. Compile tables for the following (You may use your pocket calculator):</para>
+      <para id="id1171600246978">a) Flower Pot Nursery sells flower bulbs at 3 for a rand. Indicate in your table how many bulbs would be sold for R1,00 ; R5,00 ; R30,00 ; R50,00 and R100,00.</para>
+      <para id="id4080924"/>
+      <para id="id1171601251506">b) The Good Rest Holiday Resort's tariff is R280,00 per person per night. Indicate in your table the cost for one person for the following number of nights: 1 ; 7 ; 10 ; 15 ; 31.</para>
+      <para id="id1171601767521">c) At Sally's Supermarket you can buy grapes at R6,80 a kilogram. Indicate in your table how much you would pay for: 1 kg ; 2 ½ kg ; 4 kg ; 5¼ kg ; 19 kg grapes.</para>
+      <para id="id1171603726370">25. Time for Self-Assessment</para>
+      <list id="id1171605731180" list-type="bulleted">
+        <item>Make a cross on the scale of 1 to 5 for each of the following:</item>
+      </list>
+      <table id="id8181483" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c4">Struggling</entry>
+              <entry namest="c5" nameend="c7">So-so</entry>
+              <entry namest="c8" nameend="c11">Capable</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry>1</entry>
+              <entry namest="c4" nameend="c5">2</entry>
+              <entry>3</entry>
+              <entry namest="c7" nameend="c8">4</entry>
+              <entry>5</entry>
+              <entry namest="c10" nameend="c11"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I can determine output numbers from a flow diagram correctly</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I can determine input numbers from a flow diagram</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I understand the replacing of numbers with letters of the alphabet.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I understand what "variables" are.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I understand the replacing of letters of the alphabet with numbers.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I can write algebraic equations for given number sentences.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I can resolve algebraic equations.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I can write number sentences by making use of inequalities.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I am able to formulate rules for solving equations by looking at patterns and can write down equations for them.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">I can compile tables from given information.</entry>
+              <entry>__</entry>
+              <entry namest="c4" nameend="c5">__</entry>
+              <entry>__</entry>
+              <entry namest="c7" nameend="c8">__</entry>
+              <entry namest="c9" nameend="c10">__</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171602033000">
+      <title>MODULE TEST</title>
+      <para id="id1171602555269">Let us see if we can apply all the previous knowledge.</para>
+      <para id="id1171601845673">1. Just write down the answer:</para>
+      <para id="id1171601459822">a) 43 = __________ b) 93 = __________ (2)</para>
+      <para id="id1171603531527">2. True or false? </para>
+      <para id="id1171600873568">a) 125 is a cubed number ________________</para>
+      <para id="id1171601345566">b) 125 is a square number ________________</para>
+      <para id="id1171605807374">c) v – w = w – v ________________</para>
+      <para id="id1171602533471">d) (g + h) x j = (g x j) + (h x j) ________________ (4)</para>
+      <para id="id1171603804760">3. If m = 16 ; n = 9 and p = 18, calculate:</para>
+      <para id="id4304545">a) (m x n) + p ___________________________________</para>
+      <para id="id1171607226807">b) p ¸ n x m2 ___________________________________ (2)</para>
+      <para id="id1171600064735">4. Write an algebraic equation for the following:</para>
+      <para id="id1171604729184">a) If I subtract 347 from a number, the answer is 1706.</para>
+      <para id="id7900350">______________________________________________ (1)</para>
+      <para id="id1171601571400">b) The product of a certain number and 598 is equal to the difference between 80 000 and 6 446</para>
+      <para id="id1171604861019">______________________________________________ (2)</para>
+      <para id="id6289169">5. Write number sentences by using inequalities:</para>
+      <para id="id1171606077221">a) One quarter of the red shoes is less than half of the green shoes.</para>
+      <para id="id1171600128570">______________________________________________ (1)</para>
+      <para id="id1171607226537">b) Everyday more than 100 000 people read the newspaper.</para>
+      <para id="id7533163">______________________________________________ (1)</para>
+      <para id="id7893823">6.1   Write an equation for the following table:</para>
+      <table id="id1171605687921" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Input</entry>
+              <entry>5</entry>
+              <entry>10</entry>
+              <entry>15</entry>
+              <entry>20</entry>
+              <entry>25</entry>
+              <entry>30</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Output</entry>
+              <entry>28</entry>
+              <entry>53</entry>
+              <entry>78</entry>
+              <entry>103</entry>
+              <entry>128</entry>
+              <entry/>
+              <entry>228</entry>
+              <entry>328</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171603407149">______________________________________________ (1)</para>
+      <para id="id1171602346107">6.2  Use the equation to complete the table. (3)</para>
+      <para id="id1171602553255">7. Compile a table for the following:</para>
+      <para id="id6625806">At the Happy Fruit Stall you can buy 1 kg of apples for R6,99. In your table, indicate the cost of 2 and a half kg ; 8 kg ; 13 kg (3)</para>
+      <para id="id1171602676220">20</para>
+    </section>
+    <section id="id1171599308410">
+      <title>Assessment</title>
+      <para id="id8522904"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1171599979375"><emphasis><emphasis effect="italics">Assessment Standard 2.2:</emphasis></emphasis><emphasis>:</emphasis> We know this when the learner describes, explains and justifies observed relationships or rules in own words;</para>
+      <para id="id1171604589082"><emphasis><emphasis effect="italics">Assessment Standard 2.3:</emphasis></emphasis> We know this when the learner represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using:</para>
+      <para id="id1171601345726">2.3.3: tables;</para>
+      <para id="id1171603350044"><emphasis><emphasis effect="italics">Assessment Standard 2.4:</emphasis></emphasis> We know this when the learner constructs mathematical models that represent, describe and provide solutions to problem situations, showing responsibility toward the environment and the health of others (including problems within human rights, social, economic, cultural and environmental contexts).</para>
+    </section>
+  </content>
+</document>

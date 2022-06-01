@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Percentages – discount and increases</title>
+  <metadata>
+  <md:content-id>m31581</md:content-id><md:title>Percentages – discount and increases</md:title>
+  <md:abstract/>
+  <md:uuid>ab24ad15-09ff-4552-bfa7-7093edeabc74</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4767866">
+      <title>MATHEMATICS</title>
+      <para id="para-id4767866">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170757915773">
+      <title>Percentages</title>
+      <para id="para-id1170757915773">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170757799789">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1170757799789">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2033216">
+      <title>Memorandum</title>
+      <para id="id1170752692159">17.4 </para>
+      <para id="id6303658">a) R179,97   </para>
+      <para id="id5402732">b) R254,58 (rounded off)</para>
+      <para id="id6841529">c) R10 665   </para>
+      <para id="id8934048">d) R16 794,75</para>
+      <para id="id3051501">17.5.2  </para>
+      <para id="id2020048">a) 10,7%   </para>
+      <para id="id4291159">b) 10%</para>
+    </section>
+    <section id="id4393063">
+      <title>LEANER SECTION</title>
+      <para id="para-id4393063">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170764586591">
+      <title>Content</title>
+      <section id="id8321588">
+        <title>ACTIVITY: Percentages – discount and increases [LO 1.7, LO 2.7.1]</title>
+        <para id="id4272782">17. PERCENTAGES – DISCOUNT AND INCREASES</para>
+        <para id="id6345469">17.1 Look at the following advertisements</para>
+        <figure id="id8851113">
+          <media id="id8851113_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-b0ed.png" id="id8851113__onlineimage" height="190" width="538"/>
+          </media>
+        </figure>
+        <para id="id1170764812799">17.2 Did you know?</para>
+        <para id="id8884988"> COST PRICE : The amount that the dealer / trader / merchant pays for an article</para>
+        <para id="id6756027"> MARKED PRICE : This is the price of the article</para>
+        <para id="id8923496"> SELLING PRICE : This is the price after discount</para>
+        <para id="id7225524"> PROFIT : Sale price – cost price</para>
+        <para id="id5753080">17.3 Work together with a friend through the following problem and solutions:</para>
+        <para id="id1170758165440">(i) The price of a tub of margarine is R6,99. If the price is going to rise by 10 %, how much will you have to pay for the margarine in the future?</para>
+        <para id="id8391313">a) New price is R6,99 + 10% of R6,99= R6,99 + 70 c (rounded off)= R7,69</para>
+        <para id="id4237101">b) New price is (100 + 10)% of R6,99</para>
+        <para id="id6836424">= 110% of R6,99</para>
+        <equation id="id2211027">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow/>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi/>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>110</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>100</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mfrac>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mtext>699</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {}=` {  { size 8{"110"} }  over  { size 8{"100"} } }  times  {  { size 8{"699"} }  over  { size 8{1} } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id8556084">= R7,69 (rounded off)</para>
+        <para id="id4255134">Which method do you choose? ..................................................</para>
+        <para id="id8863310">Why? ……………………………………………………………………………</para>
+        <para id="id1170757895914"> (ii) Top Teenage T-shirts have a 20 % discount on all T-shirts. If the T-shirt originally cost R189,90, what will you pay for it now?</para>
+        <para id="id6508757">a) </para>
+        <para id="id8858716">I only pay 80% (100% - 20% discount)</para>
+        <para id="id7208597">Thus: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>80</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mtext>189</m:mtext><m:mi>,</m:mi><m:mtext>90</m:mtext></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"80"} }  over  { size 8{"100"} } }  times  {  { size 8{"189","90"} }  over  { size 8{1} } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8602031">= R 151, 92</para>
+        <para id="id6318921">b) </para>
+        <para id="id1170764964832">20% of R189,90 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>20</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mtext>189</m:mtext><m:mi>,</m:mi><m:mtext>90</m:mtext></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"20"} }  over  { size 8{"100"} } }  times  {  { size 8{"189","90"} }  over  { size 8{1} } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id6976733">The discount is thus R37,98</para>
+        <para id="id6060684">I pay R189,90 – R37,98 = R151,92</para>
+        <para id="id8949729">Which method do you choose? ..................................................</para>
+        <para id="id3083232">Why?  </para>
+        <para id="id5231278"/>
+        <para id="id6012307"/>
+        <para id="id5055319">17.4 What will you pay for the following items?</para>
+        <figure id="id4237065">
+          <media id="id4237065_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-8e63.png" id="id4237065__onlineimage" height="549" width="518"/>
+          </media>
+        </figure>
+        <para id="id4424404">17.5.1 Important to remember!</para>
+        <figure id="id8007640">
+          <media id="id8007640_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-868c.png" id="id8007640__onlineimage" height="84" width="418"/>
+          </media>
+        </figure>
+        <para id="id1170757834323">17.5.2 Divide into groups of three. Can you calculate how much % discount was given on the following items?</para>
+        <figure id="id1170757771090">
+          <media id="id1170757771090_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-a36f.png" id="id1170757771090__onlineimage" height="247" width="510"/>
+          </media>
+        </figure>
+        <para id="id6760618">17.5.3 Explain your method(s) to the rest of the class.</para>
+      </section>
+    </section>
+    <section id="id8317384">
+      <title>Assessment</title>
+      <para id="id6393192"><emphasis>Learning Outcome 1: </emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1170752653470"><emphasis>Assessment Standard 1.7:</emphasis> We know this when the learner estimates and calculates by selecting and using operations appropriate to solving problems;</para>
+      <para id="id983150"><emphasis>Learning Outcome 2: </emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id4556369"><emphasis>Assessment Standard 2.7:</emphasis> We know this when the learner determines, analyses and interprets the equivalence of different descriptions of the same relationship or rule presented:</para>
+      <para id="id972980">2.7.1 verbally.</para>
+    </section>
+  </content>
+</document>

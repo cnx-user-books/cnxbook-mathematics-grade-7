@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Compare sizes</title>
+  <metadata>
+  <md:content-id>m22219</md:content-id><md:title>Compare sizes</md:title>
+  <md:abstract/>
+  <md:uuid>a0e3cc2d-cca0-4d8d-be6a-6093f2b312ec</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166178874172">
+      <title>MATHEMATICS</title>
+      <para id="para-id1166178874172">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166173584415">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id1166173584415">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166181547525">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1166181547525">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166174719339">
+      <title>Memorandum</title>
+      <para id="id1166170246836"><table id="id1166174714452" summary=""><tgroup cols="4"><colspec colnum="1" colname="c1"/><colspec colnum="2" colname="c2"/><colspec colnum="3" colname="c3"/><colspec colnum="4" colname="c4"/><tbody><row><entry>3 cm</entry><entry>2 cm</entry><entry>10 cm</entry><entry>6 cm</entry></row><row><entry>6 cm</entry><entry>4 cm</entry><entry>20 cm</entry><entry>24 cm</entry></row><row><entry>9 cm</entry><entry>6 cm</entry><entry>30 cm</entry><entry>54 cm</entry></row><row><entry>15 cm</entry><entry>10 cm</entry><entry>50 cm</entry><entry>150 cm</entry></row></tbody></tgroup></table>3. (a) </para>
+      <para id="id1166174618002">(b) 2 twice more; 3 times more; </para>
+      <para id="id2513301">5 times more than first rectangle</para>
+      <para id="id1166170753055"> (c) 16 times</para>
+      <para id="id1166176699872">4.2.1 – 4.2.4 Check learner’s effort.</para>
+    </section>
+    <section id="id1166180487326">
+      <title>LEANER SECTION</title>
+      <para id="para-id1166180487326">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166176990467">
+      <title>Content</title>
+      <section id="id1166176995595">
+        <title>ACTIVITY: Compare sizes [LO 4.2, LO 3.8]</title>
+        <para id="id1166178744257">3. LET US COMPARE SIZES!</para>
+        <para id="id1166168607714">The following rectangle has been enlarged first two times, then three times and then five times.</para>
+        <figure id="id1166181026341">
+          <media id="id1166181026341_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-07fb.png" id="id1166181026341__onlineimage" height="197" width="295"/>
+          </media>
+        </figure>
+        <para id="id6282065">All the rectangles have the same ratio for length to breadth: 3:2.</para>
+        <para id="id1166173770695">a) Look again at the rectangles above. Suppose that each block is 1 cm by 1 cm. Complete the table.</para>
+        <table id="id1166174592529" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Rectangle</entry>
+                <entry>Length</entry>
+                <entry>Breadth</entry>
+                <entry>Perimeter</entry>
+                <entry>Area</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1166178754668">b) What happens to the perimeter each time the rectangle is enlarged?</para>
+        <para id="id1166180474141">_____________________________________________________________________</para>
+        <para id="id2595672">_____________________________________________________________________</para>
+        <para id="id1166176522523">c) How many times larger is the area if the rectangle is enlarged four times?</para>
+        <para id="id1166173393525">_____________________________________________________________________</para>
+        <para id="id1166168607366">4.1 Did you know?</para>
+        <para id="id6454875">The ratio to scale is always written in a specific way:</para>
+        <para id="id1166179425371">The first number refers to the drawing/plan.</para>
+        <para id="id1166179075716">The second number refers to reality.</para>
+        <para id="id1166178147032">A scale of 1:5 means that the length is 5 times smaller than in reality.</para>
+        <para id="id2564563">A scale of 5:1 means that the length is 5 times bigger than in reality.</para>
+        <para id="id1166174833443">4.2.1 Use the graph paper and enlarge the sketch on a scale of 4:1.</para>
+        <figure id="id1166182713072">
+          <media id="id1166182713072_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-90d0.png" id="id1166182713072__onlineimage" height="481" width="600"/>
+          </media>
+        </figure>
+        <para id="id1166168638788">4.2.2 Enlarge this drawing on a scale of 1:2.</para>
+        <figure id="id1166173363949">
+          <media id="id1166173363949_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-7b64.png" id="id1166173363949__onlineimage" height="384" width="600"/>
+          </media>
+        </figure>
+        <para id="id1166173191370">4.2.3 Reduce this sketch on a scale of 2:1.</para>
+        <figure id="id1166178640036">
+          <media id="id1166178640036_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-5149.png" id="id1166178640036__onlineimage" height="314" width="551"/>
+          </media>
+        </figure>
+        <para id="id1166175456344">4.2.4 BRAINTEASER!</para>
+        <list id="id6927103" list-type="bulleted">
+          <item>Can you enlarge this drawing and re-draw it?</item>
+        </list>
+        <figure id="id1166181130375">
+          <media id="id1166181130375_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-26ab.png" id="id1166181130375__onlineimage" height="521" width="550"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id1166168614057">
+      <title>Assessment</title>
+      <para id="id1166173493602"><emphasis><emphasis effect="italics">Learning Outcome 3:</emphasis></emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id1166181485838"><emphasis><emphasis effect="italics">Assessment Standard 3.8:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner locates positions on co-ordinate systems (ordered grids) and maps</para>
+      <para id="id1166180031341"><emphasis><emphasis effect="italics">Learning Outcome 4:</emphasis></emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+      <para id="id1166180582667"><emphasis><emphasis effect="italics">Assessment Standard 4.2:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner solves problems.</para>
+    </section>
+  </content>
+</document>

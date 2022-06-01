@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Number Patterns (Terms)</title>
+  <metadata>
+  <md:content-id>m22088</md:content-id><md:title>Number Patterns (Terms)</md:title>
+  <md:abstract/>
+  <md:uuid>d3fba389-6699-4041-90b0-84121d434212</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7444978">
+      <title>MATHEMATICS</title>
+      <para id="para-id7444978">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8816330">
+      <title>Number Patterns</title>
+      <para id="para-id8816330">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2173494">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id2173494">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8422422">
+      <title>Memorandum</title>
+      <para id="id3155710">4.</para>
+      <para id="id8011903">4; 8; 12: 28; 40; 48</para>
+      <para id="id2940387">5. Row is faulty: must be 0; 1; 1; 2; 3; 5; 8; etc.</para>
+      <para id="id5920573">a) 0 + 1 = 1; 1 + 1 = 2; 2 + 1 = 3; 3 + 2 = 5; 5 + 3 = 8; 8 + 5 = 13; 13 + 8 = 21;</para>
+      <para id="id8113140"> 21 + 13 = 34</para>
+      <para id="id6762599">b) It follows the Fibonacci sequence</para>
+      <para id="id2668210">c) 55; 89; 144</para>
+      <para id="id5631319">d) 1 7 - 21 - 35 - 35 - 21 - 7 - 1</para>
+      <para id="id7823045"> 1 - 8 - 28 - 56 - 70 - 56 - 28 - 8 - 1</para>
+      <para id="id4869650"> 1 - 9 - 36 - 84 - 126v126 - 84 - 36 - 9 - 1</para>
+    </section>
+    <section id="id3310707">
+      <title>Leaner Section</title>
+      <section id="id6728105">
+        <title>Content</title>
+        <para id="para-id6728105">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id9148347">
+        <title>ACTIVITY: Number Patterns (Terms) [LO 2.2, LO 2.3.3] </title>
+        <para id="id3369268">For the next activity you will need a box of matches. Place the matches as shown in the diagram.</para>
+        <para id="id1170232098471">4. </para>
+        <figure id="id4787080">
+          <media id="id4787080_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-83c0.jpg" id="id4787080__onlineimage" height="72" width="409"/>
+          </media>
+        </figure>
+        <list id="id6677568" list-type="bulleted">
+          <item>Complete the table. If necessary, use your matches.</item>
+        </list>
+        <table id="id3462789" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Number of squares</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>7</entry>
+                <entry>10</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>Number of matches</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <section id="id8403820">
+          <title>5. Did you know?</title>
+          <para id="id3755672">Leonardo Fibonacci was an Italian mathematician who lived during the 12th century. Because he lived in the town of Pisa, he was also called Leonardo of Pisa. Fibonacci looked at patterns in plants and arrived at the well-known idea of the Fibonacci sequence or series:</para>
+          <para id="id5167435">0 ; 1 ; 1 ; 2 ; 3 ; 5 ; 8 ; 13 ; 21 ; 34</para>
+          <list id="id4242600" list-type="bulleted">
+            <item>Take a look at the heads of sunflowers and the spirals of pine cones to see if you can observe the Fibonacci pattern.</item>
+          </list>
+          <para id="id5447978">a) Are you able to explain the pattern? ____________________________________</para>
+          <para id="id3429051">b) Work in groups of four. Look around in the school garden (or at home) and count the petals of different flowers.</para>
+          <para id="id1170231129591">What do you observe? __________________________________________________</para>
+          <para id="id2341282">_____________________________________________________________________</para>
+          <para id="id5685575">_____________________________________________________________________</para>
+          <para id="id1170231081117">_____________________________________________________________________</para>
+          <para id="id8812154">c) Add three more numbers to the Fibonacci series:</para>
+          <para id="id2341753">5 ; 8 ; 13 ; 21 ; 34 ; ________________________________________________</para>
+          <para id="id4182701">d) Ask your educator for graph paper and try and draw the Fibonacci spiral.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id6464990">
+      <title>Assessment</title>
+      <para id="id8382476"><emphasis>Learning Outcome 2:</emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id2368052"><emphasis>Assessment Standard 2.2:</emphasis> We know this when the learner describes, explains and justifies observed relationships or rules in own words;</para>
+      <para id="id8382235"><emphasis>Assessment Standard 2.3:</emphasis> We know this when the learner represents and uses relationships between variables in order to determine input and/or output values in a variety of ways using;</para>
+      <para id="id5249862"><emphasis effect="bold">2.3.3:</emphasis> tables.</para>
+    </section>
+  </content>
+</document>

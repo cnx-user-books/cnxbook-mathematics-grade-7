@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Area (Brain-teaser)</title>
+  <metadata>
+  <md:content-id>m22147</md:content-id><md:title>Area (Brain-teaser)</md:title>
+  <md:abstract/>
+  <md:uuid>b8ea2329-f8cd-4d2a-8b8a-6a8b532606eb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169676698039">
+      <title>MATHEMATICS</title>
+      <para id="para-id1169676698039">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7870663">
+      <title>Perimeter, Area and Volume</title>
+      <para id="para-id7870663">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169685002055">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1169685002055">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169679718705">
+      <title>Memorandum</title>
+      <para id="id5345027">10. </para>
+      <para id="id1169675850608">a) Yes, area of all three figures the same</para>
+      <para id="id1169684473061">b) area = (half of base) x height</para>
+      <para id="id1169690262180">11.1 1 867 km<sup>²</sup></para>
+      <para id="id1169675920594">11.2 530 m<sup>²</sup></para>
+      <para id="id1169676043563">11.3 9 m by 8 m</para>
+      <para id="id1169678945575">12.</para>
+      <para id="id1169680534682">13.1 </para>
+      <para id="id1169676726084">a) 3 and a quarter square cm</para>
+      <para id="id1169676093746">b) 5 square cm</para>
+      <para id="id1169679676806">13.2 A</para>
+      <para id="id1169676662627">14.1 </para>
+      <para id="id1169677848343">a)  64 cm<sup>²</sup></para>
+      <para id="id1169681424900">b) 180 cm<sup>²</sup></para>
+      <para id="id1169679080282">c)  81 m<sup>²</sup></para>
+      <para id="id1169676026585">d) 200 m<sup>²</sup></para>
+      <para id="id1169686270603">14.2 </para>
+      <para id="id1169680894976">a) 42 m<sup>²</sup></para>
+      <para id="id1169675906606">b) 48 cm<sup>²</sup></para>
+      <para id="id1169679235079">c) 65 cm<sup>²</sup></para>
+      <para id="id1169676133570">d) 64 m<sup>²</sup></para>
+    </section>
+    <section id="id1169679647149">
+      <title>LEANER SECTION</title>
+      <para id="para-id1169679647149">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169675846749">
+      <title>Content</title>
+      <section id="id1169679015563">
+        <title>ACTIVITY: Area (Brain-teaser) [LO 4.2, LO 1.9, LO 4.5]</title>
+        <para id="id1169682717999">10. BRAIN-TEASER!</para>
+        <para id="id1169679694280">A farmer divides his land as follows among his three children:</para>
+        <figure id="id1169680904800">
+          <media id="id1169680904800_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-049e.png" id="id1169680904800__onlineimage" height="169" width="600"/>
+          </media>
+        </figure>
+        <para id="id1169687111048">a) Was the farmer fair? __________________________ Motivate your answer:</para>
+        <para id="id1169675834886">_____________________________________________________________________ </para>
+        <para id="id1169680518954">_____________________________________________________________________</para>
+        <para id="id1169675835743">b) From the above example, can you work out a formula that we use to determine the area of a triangle?</para>
+        <para id="id1169684034922">_____________________________________________________________________ </para>
+        <para id="id1169686327888">11.1 Calculate the area of the farmer’s farm without the dam.</para>
+        <figure id="id1169686905338">
+          <media id="id1169686905338_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-f1e4.png" id="id1169686905338__onlineimage" height="143" width="319"/>
+          </media>
+        </figure>
+        <para id="id1169683937443">_____________________________________________________________________</para>
+        <para id="id1169684671054">_____________________________________________________________________</para>
+        <para id="id1169675840031">_____________________________________________________________________</para>
+        <para id="id1169680677718">_____________________________________________________________________</para>
+        <para id="id1169676080989">11.2 What is the area of this lucerne camp on the farmer’s farm?</para>
+        <figure id="id1169675675487">
+          <media id="id1169675675487_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-d98f.png" id="id1169675675487__onlineimage" height="195" width="423"/>
+          </media>
+        </figure>
+        <para id="id2026522">_____________________________________________________________________</para>
+        <para id="id1169675555274">_____________________________________________________________________</para>
+        <para id="id1169675475163">_____________________________________________________________________</para>
+        <para id="id1169683760671">_____________________________________________________________________</para>
+        <para id="id1169675908423">11.3 The farmer wants to fence a rectangular camp with an area of 72m2. Problem: The perimeter must be kept to the minimum (because of the cost of the wire). What will the measurements of the camp be?</para>
+        <para id="id1169687429369">_____________________________________________________________________</para>
+        <para id="id1169684479684">12. A rectangular rugby field has a length of 110 m and a breadth of 60 m. What will it cost to plant grass which costs R6,45 per square metre?</para>
+        <para id="id1169676690427">_____________________________________________________________________</para>
+        <para id="id1169675853508">_____________________________________________________________________</para>
+        <para id="id8709438">_____________________________________________________________________</para>
+        <para id="id1169682703024">_____________________________________________________________________</para>
+        <para id="id1169676489084"/>
+        <para id="id1169676112447">13.1 If each square is 1 cm2, what is the area of the shaded section?</para>
+        <para id="id1169689179191"><figure id="id1169675997824"><media id="id1169675997824_media" alt=""><image mime-type="image/png" src="../../media/graphics4-f1c9.png" id="id1169675997824__onlineimage" height="127" width="127"/></media></figure>a) </para>
+        <para id="id1169680854803">_____________________________________</para>
+        <para id="id1169679292701">b)</para>
+        <figure id="id1169679654371">
+          <media id="id1169679654371_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-98e0.png" id="id1169679654371__onlineimage" height="119" width="119"/>
+          </media>
+        </figure>
+        <para id="id1169684685767">_____________________________________</para>
+        <para id="id1169685027227">13.2 Which figure has the biggest area: A or B?</para>
+        <para id="id8998491"><figure id="id1169681639598"><media id="id1169681639598_media" alt=""><image mime-type="image/png" src="../../media/graphics6-f799.png" id="id1169681639598__onlineimage" height="81" width="119"/></media></figure>A </para>
+        <para id="id1169679033231">_____________________________________</para>
+        <para id="id1169682794071"><figure id="id1169676130765"><media id="id1169676130765_media" alt=""><image mime-type="image/png" src="../../media/graphics7-437f.png" id="id1169676130765__onlineimage" height="81" width="120"/></media></figure>B</para>
+        <para id="id1169678855217">_____________________________________</para>
+        <para id="id1169676109374">14. BRAINTEASERS!</para>
+        <list id="id6266563" list-type="bulleted">
+          <item>Work with a friend.</item>
+        </list>
+        <para id="id1169681628599">14.1 Can you determine the area of the shaded parts of each figure?</para>
+        <para id="id1169684686069"><figure id="id1169680757581"><media id="id1169680757581_media" alt=""><image mime-type="image/png" src="../../media/graphics8-f37f.png" id="id1169680757581__onlineimage" height="149" width="217"/></media></figure>a) </para>
+        <para id="id1169679624798">_____________________________________</para>
+        <para id="id1169675843533">_____________________________________</para>
+        <para id="id1169684466365">_____________________________________</para>
+        <para id="id1169676439326"><figure id="id1169684203087"><media id="id1169684203087_media" alt=""><image mime-type="image/png" src="../../media/graphics9-d444.png" id="id1169684203087__onlineimage" height="163" width="116"/></media></figure>b)</para>
+        <para id="id1169686072481">_____________________________________</para>
+        <para id="id1169675890800">_____________________________________</para>
+        <para id="id1169675448583">_____________________________________</para>
+        <para id="id1169685684151">c) </para>
+        <figure id="id1169679569146">
+          <media id="id1169679569146_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics10-e471.png" id="id1169679569146__onlineimage" height="135" width="152"/>
+          </media>
+        </figure>
+        <para id="id1169680809885">_____________________________________</para>
+        <para id="id1169685201216">_____________________________________</para>
+        <para id="id4405258">_____________________________________</para>
+        <para id="id1169680829710">d)</para>
+        <figure id="id1169680899476">
+          <media id="id1169680899476_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics11-36b3.png" id="id1169680899476__onlineimage" height="159" width="191"/>
+          </media>
+        </figure>
+        <para id="id1169686093910">_____________________________________</para>
+        <para id="id1169686933536">_____________________________________</para>
+        <para id="id1169680666667">_____________________________________</para>
+        <para id="id1169681083074">14.2 Calculate the areas of the following figures?</para>
+        <para id="id2526633">a) </para>
+        <figure id="id1169684105160">
+          <media id="id1169684105160_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics12-a7aa.png" id="id1169684105160__onlineimage" height="144" width="174"/>
+          </media>
+        </figure>
+        <para id="id1169676106089">_____________________________________</para>
+        <para id="id1169681020249">_____________________________________</para>
+        <para id="id1169679199350">_____________________________________</para>
+        <para id="id3285761">_____________________________________</para>
+        <para id="id1169676044635"><figure id="id1169684489404"><media id="id1169684489404_media" alt=""><image mime-type="image/png" src="../../media/graphics13-8148.png" id="id1169684489404__onlineimage" height="161" width="155"/></media></figure>b)</para>
+        <para id="id1169680473505">_____________________________________</para>
+        <para id="id1169679644324">_____________________________________</para>
+        <para id="id1169684466479">_____________________________________</para>
+        <para id="id1169675897298">_____________________________________</para>
+        <para id="id1169679706302"><figure id="id1169675444254"><media id="id1169675444254_media" alt=""><image mime-type="image/png" src="../../media/graphics14-8abb.png" id="id1169675444254__onlineimage" height="96" width="127"/></media></figure>c) </para>
+        <para id="id1169680920857">_____________________________________</para>
+        <para id="id1169675905555">_____________________________________</para>
+        <para id="id1169687036817">_____________________________________</para>
+        <para id="id1169675835171">_____________________________________</para>
+        <para id="id2246910"><figure id="id1169681076613"><media id="id1169681076613_media" alt=""><image mime-type="image/png" src="../../media/graphics15-76ce.png" id="id1169681076613__onlineimage" height="181" width="237"/></media></figure>d)</para>
+        <para id="id1169680618759">_____________________________________</para>
+        <para id="id1169677849695">_____________________________________</para>
+        <para id="id1169675877650">_____________________________________</para>
+        <para id="id1169680930504">_____________________________________</para>
+        <para id="id1169675460539">15. CLASS DISCUSSION</para>
+        <list id="id1169680935692" list-type="bulleted">
+          <item>Let us discuss the following as a class:</item>
+        </list>
+        <para id="id2524841">15.1 Your school wants to build a new computer centre. The two possible plans that have been drawn up look like this:</para>
+        <para id="id1573531">A </para>
+        <figure id="id1169675832813">
+          <media id="id1169675832813_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics16-06cc.png" id="id1169675832813__onlineimage" height="111" width="210"/>
+          </media>
+        </figure>
+        <para id="id1169678853912"><figure id="id1169681210662"><media id="id1169681210662_media" alt=""><image mime-type="image/png" src="../../media/graphics17-4c7e.png" id="id1169681210662__onlineimage" height="179" width="337"/></media></figure>B</para>
+        <list id="id1169680759618" list-type="bulleted">
+          <item>Discuss:</item>
+        </list>
+        <para id="id1169675453086">a) Which plan would use the most bricks? Why?</para>
+        <para id="id1169679622299">b) Which plan would accommodate the most computers? Motivate.</para>
+        <para id="id1169680596852">c) Which plan will be the most expensive to build? Why?</para>
+        <para id="id1169676725124">15.2 A plan for a swimming pool for the school has also been drawn up:</para>
+        <figure id="id1169675885627">
+          <media id="id1169675885627_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics18-b377.png" id="id1169675885627__onlineimage" height="97" width="365"/>
+          </media>
+        </figure>
+        <para id="id1169675442432">a) What will happen to the area if the perimeter stays the same, BUT:</para>
+        <para id="id2739410">(i) the length increases and the breadth decreases?</para>
+        <para id="id1169680696478">(ii) the length decreases and the breadth increases?</para>
+        <para id="id1169679100758">b) When would the swimming pool have a maximum area?</para>
+      </section>
+    </section>
+    <section id="id1169676387217">
+      <title>Assessment</title>
+      <para id="id1169676030266"><emphasis><emphasis effect="italics">Learning Outcome 4:</emphasis></emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+      <para id="id5599811"><emphasis><emphasis effect="italics">Assessment Standard 4.2:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner solves problems;</para>
+      <para id="id1169675917163"><emphasis><emphasis effect="italics">Assessment Standard 4.5:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner calculates, by selecting and using appropriate formulae.</para>
+      <para id="id1169686100551"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1169676243523"><emphasis><emphasis effect="italics">Assessment Standard 1.9:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner uses a range of techniques to perform calculations.</para>
+    </section>
+  </content>
+</document>

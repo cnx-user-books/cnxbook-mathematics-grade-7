@@ -1,0 +1,253 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Another type of data</title>
+  <metadata>
+  <md:content-id>m22227</md:content-id><md:title>Another type of data</md:title>
+  <md:abstract/>
+  <md:uuid>b3cde135-d4db-4a57-8bb3-a25e93854ffb</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167132210224">
+      <title>MATHEMATICS</title>
+      <para id="para-id1167132210224">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167130485829">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id1167130485829">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167129157938">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1167129157938">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167129011086">
+      <title>Memorandum</title>
+      <para id="id1167129334988">16.2</para>
+      <para id="id6566573">16.3 (1,1) (1,2) (1,3) (1,4) (1,5) (2,5) (2,4) (2,3) (3,3) (3,4) (3,5) (3,6) </para>
+      <para id="id1167127392667">(3,7) (4,7) (5,7) (6,7) (6,6) (7,6) (8,6) (8,5) (8,4) (8,3) (8,2) (8,1)</para>
+      <para id="id1167132421855">(9,1) (9,2) (9,3) (9,4) (9,5) (9,6) (9,7) (9,8) (8,8) (7,8) (7,9) (8,9)</para>
+      <para id="id6372108">(9,9) (9,10)</para>
+      <para id="id1167129248671">17.2 </para>
+      <para id="id7078880">(a) 50, 7N</para>
+      <para id="id8751541"> (b) 10, 2S</para>
+      <para id="id1167127224265"> (c) 30, 5S</para>
+      <para id="id1167131251793"> (d) 70, 5N</para>
+      <para id="id8979242"> (e) 4W, 1N</para>
+      <para id="id6534415"> (f) 5W, 3S</para>
+      <para id="id1167129736155"> (g) 3W, 6N</para>
+      <para id="id1167129163832"> (h) 10, 2N</para>
+      <para id="id2083041">19. </para>
+      <para id="id1167128985658">(a) 343 </para>
+      <para id="id1167127328627"> (b) 200 </para>
+      <para id="id1167129492534"> (c) 270 000 </para>
+      <para id="id1167128996856">(d) 1 600 000 </para>
+      <para id="id1167131256953">(e) 100 </para>
+      <para id="id1167131387514">(f) 164 </para>
+      <para id="id1167127644356">(g) 83 </para>
+      <para id="id1167132629812">(h) 0</para>
+      <para id="id1167129848795">(i) 90</para>
+      <para id="id1167129402871">(j) 150</para>
+      <para id="id8926357">(k) 30</para>
+      <para id="id7437595">(l) R148</para>
+      <para id="id1167129006080">(m) 13</para>
+      <para id="id1167132735191">(n) 81</para>
+      <para id="id5362059">(o) 28</para>
+    </section>
+    <section id="id7240069">
+      <title>LEANER SECTION</title>
+      <para id="para-id7240069">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167133429390">
+      <title>Content</title>
+      <section id="id1167128419528">
+        <title>ACTIVITY: Another type of data [LO 3.8, LO 5.9, LO 1.8]</title>
+        <para id="id6152688">16. ANOTHER TYPE OF DATA</para>
+        <para id="id1167132630236">16.1 Did you know?</para>
+        <para id="id3292721">We can collect data or find information by plotting given co-ordinates on a grid.</para>
+        <para id="id3218700">Look carefully at the example.</para>
+        <para id="id8089546">The dot (l) is at (4,7).</para>
+        <para id="id3953024">The 4 indicates the horizontal number and the 7 indicates the vertical number.</para>
+        <figure id="id7949185">
+          <media id="id7949185_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-846c.png" id="id7949185__onlineimage" height="217" width="217"/>
+          </media>
+        </figure>
+        <para id="id1167132481938">16.2 Plot the following on the island.</para>
+        <figure id="id3709880">
+          <media id="id3709880_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-32e3.png" id="id3709880__onlineimage" height="277" width="579"/>
+          </media>
+        </figure>
+        <para id="id4033866">16.3 Write down the co-ordinates for the route that a group of learners followed during a recent fun-run.</para>
+        <para id="id1167132489214">
+          <figure id="id1167129792433">
+            <media id="id1167129792433_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-1e25.png" id="id1167129792433__onlineimage" height="276" width="276"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id8739101">_____________________________________________________________________</para>
+        <para id="id7068332">_____________________________________________________________________</para>
+        <para id="id7329639">_____________________________________________________________________</para>
+        <para id="id1167129436320">_____________________________________________________________________</para>
+        <para id="id1167128369677">_____________________________________________________________________</para>
+        <para id="id6432956">_____________________________________________________________________</para>
+        <para id="id7139771">_____________________________________________________________________</para>
+        <para id="id7065720">_____________________________________________________________________</para>
+        <para id="id2893244">_____________________________________________________________________</para>
+        <para id="id6278123">_____________________________________________________________________</para>
+        <para id="id7427056">16.4 CHALLENGE!</para>
+        <list id="id1167132463021" list-type="bulleted">
+          <item>Write your own secret message. Give the co-ordinates to a friend to decipher your message.</item>
+        </list>
+        <figure id="id1167129049693">
+          <media id="id1167129049693_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-da89.png" id="id1167129049693__onlineimage" height="327" width="328"/>
+          </media>
+        </figure>
+        <para id="id3019998"/>
+        <para id="id1167132210526"/>
+        <para id="id5440296"/>
+        <para id="id5462847"/>
+        <para id="id1167129539843"/>
+        <para id="id5876576"/>
+        <para id="id1167133553362"/>
+        <para id="id4011269"/>
+        <para id="id1167129797189"/>
+        <para id="id1167132614337">_____________________________________________________________________</para>
+        <para id="id1167132489893">_____________________________________________________________________</para>
+        <para id="id3072133">_____________________________________________________________________</para>
+        <para id="id5996660">_____________________________________________________________________</para>
+        <para id="id1167129800599">_____________________________________________________________________</para>
+        <para id="id6386012">_____________________________________________________________________</para>
+        <para id="id1167129054871">_____________________________________________________________________</para>
+        <para id="id1167129445113">_____________________________________________________________________</para>
+        <para id="id1167133356416">_____________________________________________________________________</para>
+        <para id="id7408799">_____________________________________________________________________</para>
+        <list id="id1167129449801" list-type="bulleted">
+          <item>Let your friend write your message here:</item>
+        </list>
+        <para id="id1167131174013">_____________________________________________________________________</para>
+        <para id="id1167132502611">_____________________________________________________________________</para>
+        <para id="id1167129261242">_____________________________________________________________________</para>
+        <para id="id1167128545466">17. Did you know?</para>
+        <para id="id6419782">17.1 Sometimes co-ordinates are combined with compass directions to find a certain place</para>
+        <para id="id1167129386522">You find the airport at 3W; 3N. (W = West; N = North)</para>
+        <figure id="id6523724">
+          <media id="id6523724_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-89af.png" id="id6523724__onlineimage" height="450" width="450"/>
+          </media>
+        </figure>
+        <para id="id1167131590344">17.2 Where will you find the following places?</para>
+        <para id="id8625456">a) Zoo ___________________________________________________________</para>
+        <para id="id1167131100291">b) Library  ________________________________________________________</para>
+        <para id="id1167129826736">c) Shopping centre _________________________________________________</para>
+        <para id="id7286533">d) Park __________________________________________________________</para>
+        <para id="id1167129402632">e) Bus stop _______________________________________________________</para>
+        <para id="id1167129278895">f) Public swimming pool ____________________________________________</para>
+        <para id="id7034152">g) Station _________________________________________________________</para>
+        <para id="id1167128760217">h) Golf course _____________________________________________________ </para>
+        <para id="id3082161">18. Time for self-assessment</para>
+        <table id="id1167129453195" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1167132247695" list-type="bulleted">
+                    <item>Tick the applicable block:</item>
+                  </list>
+                </entry>
+                <entry>Yes</entry>
+                <entry>
+                  <emphasis effect="bold">Still </emphasis>
+                  <emphasis effect="bold">Struggling</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>I was able to represent the information at 14.1 by means of a line graph.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to draw the pie graph at 14.2.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to correctly represent the number of votes in the election, in a pictogram.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to draw a column graph at 14.4.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to draw a double column graph at 14.5.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to correctly answer the questions at 15.1 in connection with time.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to interpret the given scale at 15.2 correctly and could answer the questions relating to it.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to interpret the given co-ordinates on the map correctly and could carry out the instructions at 16.2.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to correctly answer the questions referring to the combination of direction and co-ordinates (17.2).</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7252993">19. Let us see if you can get full marks for your last mental! Try to answer all the questions in less than 2 minutes!</para>
+        <para id="id8136263"/>
+        <para id="id1167132295128">a) 7³ = __________________________</para>
+        <para id="id1167129309013">b) 5² x 2³ = __________________________</para>
+        <para id="id7368992">c) 3³ x 10<sup>4</sup> = __________________________</para>
+        <para id="id1167133392816">d) 2<sup>4</sup> x 10<sup>5</sup> = __________________________</para>
+        <para id="id1167132236531">e) (4 x 7) ÷ (8 x 9) = __________________________</para>
+        <para id="id7091042">f) (12 x 9) ÷ (7 x 8) = __________________________</para>
+        <para id="id1167129403296">g) 16 ÷ 6 x 8 ÷ 19 = __________________________</para>
+        <para id="id1167129435784">h) (2 x 8 x 5 x 4 x 7) x 0 = __________________________</para>
+        <para id="id1167132605374">i)  = __________________________</para>
+        <para id="id1167129613059">j)  of 200 = __________________________</para>
+        <para id="id2606383">k) 0,3 = __________________________%</para>
+        <para id="id3941094">l) 25% of R592 = __________________________</para>
+        <para id="id8233923">m) (72 ÷ 9) ÷ (45 ÷ 9) = __________________________</para>
+        <para id="id1167133483242">n) (63 ÷ 7) x (54 ÷ 6) = __________________________</para>
+        <para id="id1994729">o) 92 – 9 x 4 – 28 = __________________________</para>
+      </section>
+    </section>
+    <section id="id3114942">
+      <title>Assessment</title>
+      <para id="id1167129278435"><emphasis>Learning Outcome 1:</emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1167133447156"><emphasis>Assessment Standard 1.8:</emphasis><emphasis effect="italics"/>We know this when the learner performs mental calculations involving squares of natural numbers to at least 10<sup>²</sup> and cubes of natural numbers to at least 5<sup>³</sup>.</para>
+      <para id="id4007366"><emphasis>Learning Outcome 3:</emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id1167132623125"><emphasis>Assessment Standard 3.8:</emphasis><emphasis effect="italics"/>We know this when the learner locates positions on co-ordinate systems (ordered grids) and maps.</para>
+      <para id="id3246500"><emphasis>Learning Outcome 5:</emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id8240603"><emphasis>Assessment Standard 5.9:</emphasis><emphasis effect="italics"/>We know this when the learner critically reads and interprets data presented in a variety of ways to draw conclusions and make predictions sensitive.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,247 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ways in which to represent data</title>
+  <metadata>
+  <md:content-id>m22225</md:content-id><md:title>Ways in which to represent data</md:title>
+  <md:abstract/>
+  <md:uuid>395c343f-9cb5-49b5-a0ed-5f4fc60f4bb4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7455041">
+      <title>MATHEMATICS</title>
+      <para id="para-id7455041">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169990691010">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id1169990691010">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169986238756">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1169986238756">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169986062275">
+      <title>Memorandum</title>
+      <para id="para-id1169986062275">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2369351">
+      <title>LEANER SECTION</title>
+      <para id="para-id2369351">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1169985030588">
+      <title>Content</title>
+      <section id="id1169985059798">
+        <title>ACTIVITY: Ways in which to represent data [LO 2.6]</title>
+        <para id="id1903706">13. WAYS IN WHICH TO REPRESENT DATA</para>
+        <para id="id1169985062182">13.1  There are different ways in which data can be represented. Work through the following examples with a friend and make sure you understand each one.</para>
+        <para id="id3092448">COLUMN / BAR GRAPHS</para>
+        <figure id="id8806541">
+          <media id="id8806541_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-6dfa.png" id="id8806541__onlineimage" height="186" width="386"/>
+          </media>
+        </figure>
+        <figure id="id1169985143364">
+          <media id="id1169985143364_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-25ed.png" id="id1169985143364__onlineimage" height="239" width="265"/>
+          </media>
+        </figure>
+        <para id="id1169985223504">PIE GRAPH</para>
+        <para id="id1169986101825"/>
+        <para id="id1169985021271">PICTOGRAM</para>
+        <figure id="id1169985257432">
+          <media id="id1169985257432_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-9b9e.png" id="id1169985257432__onlineimage" height="274" width="278"/>
+          </media>
+        </figure>
+        <para id="id1169986505131">LINE GRAPHS</para>
+        <para id="id5840049"/>
+        <figure id="id1169985374715">
+          <media id="id1169985374715_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-89a7.png" id="id1169985374715__onlineimage" height="237" width="237"/>
+          </media>
+        </figure>
+        <para id="id1169990876592">13.2 CHALLENGE!</para>
+        <para id="id1169985280596">Work in groups of three. Page through your local newspaper and magazines. Cut out as many representations of data as possible. Group them and stick them neatly on cardboard. Hold an exhibition and discuss each group with the rest of the class.</para>
+        <list id="id1169983240771" list-type="bulleted">
+          <item>Evaluate each presentation critically!</item>
+        </list>
+        <para id="id7924758">13.3 Time for self-assessment</para>
+        <table id="id7424416" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>
+                  <list id="id1169986226231" list-type="bulleted">
+                    <item>Tick the applicable column:</item>
+                  </list>
+                </entry>
+                <entry>Uncertain</entry>
+                <entry>Certain</entry>
+              </row>
+              <row>
+                <entry>I can explain the concepts:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id8576485" list-type="bulleted">
+                    <item>data/statistics</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169985087477" list-type="bulleted">
+                    <item>sample</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169996486994" list-type="bulleted">
+                    <item>mode</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169985136932" list-type="bulleted">
+                    <item>median</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1684362" list-type="bulleted">
+                    <item>arithmetic mean (Average)</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can name at least two methods to organise information.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can calculate the following correctly from given information:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169985255789" list-type="bulleted">
+                    <item>mode</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id4077577" list-type="bulleted">
+                    <item>median</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169985006369" list-type="bulleted">
+                    <item>arithmetic mean (Average)</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can name at least two methods to collect information.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can explain what the following is and what it looks like:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169993895778" list-type="bulleted">
+                    <item>column/bar graph</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169984296563" list-type="bulleted">
+                    <item>line graph</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id1169990659965" list-type="bulleted">
+                    <item>pie graph</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <list id="id3334100" list-type="bulleted">
+                    <item>pictogram</item>
+                  </list>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to correctly collect the information at question 12.3.</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>I was able to correctly collect the information at question 12.4.</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id8579886">
+      <title>Assessment</title>
+      <para id="id6328312"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1169990504206"><emphasis><emphasis effect="italics">Assessment Standard 2.6:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner describes a situation by interpreting a graph of the situation, or draws a graph from a description of a situation (e.g. height of a roller-coaster car over time; the speed of a racing car going around a track).</para>
+    </section>
+  </content>
+</document>

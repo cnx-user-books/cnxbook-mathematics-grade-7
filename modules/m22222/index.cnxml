@@ -1,0 +1,383 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Data and statistics</title>
+  <metadata>
+  <md:content-id>m22222</md:content-id><md:title>Data and statistics</md:title>
+  <md:abstract/>
+  <md:uuid>cc2c7ff2-0c32-41f0-ad54-b66504f92002</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4814165">
+      <title>MATHEMATICS</title>
+      <para id="para-id4814165">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6825451">
+      <title>More Geometry, Data Handling and Probability</title>
+      <para id="para-id6825451">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8183564">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id8183564">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4290576">
+      <title>Memorandum</title>
+      <para id="id7779306">10.2.2 (a) 60</para>
+      <para id="id6125135"> (c) 17</para>
+      <para id="id7674817">  33</para>
+      <para id="id13644018">  16</para>
+      <para id="id13774108">  5</para>
+      <para id="id5373451">  24</para>
+      <para id="id3965692">10.2.6   </para>
+      <table id="id8973167" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>llll</entry>
+              <entry/>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>_</entry>
+              <entry>llll</entry>
+              <entry>lll</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>llll</entry>
+              <entry/>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>_</entry>
+              <entry>llll</entry>
+              <entry>l</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>ll</entry>
+              <entry/>
+              <entry>2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7531612">
+      <title>LEANER SECTION</title>
+      <para id="para-id7531612">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7849543">
+      <title>Content</title>
+      <section id="id3369937">
+        <title>ACTIVITY: Data and statistics [LO 5.7, LO 5.9, LO 5.5]</title>
+        <para id="id8312740">9 DATA AND STATISTICS</para>
+        <para id="id10088436">9.1 Class discussion</para>
+        <list id="id8355640" list-type="bulleted">
+          <item>Precisely what are “data” and “statistics”?</item>
+          <item>When do we use these terms?</item>
+          <item>Where do we get the information?</item>
+          <item>How can we represent the information that is obtained?</item>
+        </list>
+        <para id="id6710830">9.2 Something more to discuss</para>
+        <list id="id7781019" list-type="bulleted">
+          <item>Divide into groups of three. How would you answer the following questions?</item>
+        </list>
+        <para id="id4940793">a) What is the average height of a Grade 7 boy in South Africa?</para>
+        <para id="id4338208">b) Which TV programme do Grade 7 girls in South Africa watch the most?</para>
+        <para id="id4657382">c) What is the most popular brand of chips in South Africa?</para>
+        <para id="id8680359">d) How many learners play tennis in the Western Cape?</para>
+        <para id="id8592554">e) What is the average mass of the Grade 7 educators in your school?</para>
+        <para id="id14831262">f) What is the average age of the Grade 7 learners in your school?</para>
+        <para id="id15505796">10. COUNTING AND GROUPING OF DATA</para>
+        <para id="id4932219">10.1.1 Did you know?</para>
+        <para id="id14488486">Sometimes it is very difficult to get information from the whole group that you had to interview (see 9.2(c) above). That is why often only a part of the group is questioned. This is seen as a sample of the bigger group.</para>
+        <para id="id10024412">If you do a sample of the larger group, it must be representative of the larger group, i.e.:</para>
+        <list id="id5176147" list-type="bulleted">
+          <item>You must ask enough people. </item>
+          <item>You must ask a large variety of people. (age, sex, etc.)</item>
+        </list>
+        <para id="id6791192">10.1.2 Class discussion:</para>
+        <list id="id8215259" list-type="bulleted">
+          <item>Which of you and how many will allow yourselves to be questioned as part of a sample to find out the following? Remember: you will want realistic answers!</item>
+        </list>
+        <para id="id3676098">a) What is the favourite sport of the girls in your school?</para>
+        <para id="id8168389">b) What is the favourite magazine of English-speaking South Africans?</para>
+        <para id="id13662384">c) What is the most common illness/ailment that people over 50 years old in South Africa suffer from?</para>
+        <para id="id4078597">10.2.1 Study the following data that was collected during a sample. It indicates the ages of secretaries.</para>
+        <table id="id7750035" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>32</entry>
+                <entry>24</entry>
+                <entry>25</entry>
+                <entry>18</entry>
+                <entry>23</entry>
+                <entry>25</entry>
+                <entry>26</entry>
+                <entry>19</entry>
+                <entry>33</entry>
+                <entry>30</entry>
+                <entry>21</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>23</entry>
+                <entry>23</entry>
+                <entry>26</entry>
+                <entry>25</entry>
+                <entry>22</entry>
+                <entry>21</entry>
+                <entry>24</entry>
+                <entry>18</entry>
+                <entry>18</entry>
+                <entry>22</entry>
+                <entry>20</entry>
+                <entry>18</entry>
+              </row>
+              <row>
+                <entry>19</entry>
+                <entry>32</entry>
+                <entry>30</entry>
+                <entry>22</entry>
+                <entry>21</entry>
+                <entry>20</entry>
+                <entry>20</entry>
+                <entry>20</entry>
+                <entry>22</entry>
+                <entry>23</entry>
+                <entry>21</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>26</entry>
+                <entry>28</entry>
+                <entry>29</entry>
+                <entry>24</entry>
+                <entry>23</entry>
+                <entry>21</entry>
+                <entry>18</entry>
+                <entry>24</entry>
+                <entry>23</entry>
+                <entry>27</entry>
+                <entry>26</entry>
+                <entry>29</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>19</entry>
+                <entry>20</entry>
+                <entry>25</entry>
+                <entry>29</entry>
+                <entry>26</entry>
+                <entry>24</entry>
+                <entry>18</entry>
+                <entry>28</entry>
+                <entry>17</entry>
+                <entry>25</entry>
+                <entry>22</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4639651">10.2.2 Answer the following questions:</para>
+        <para id="id3317058">a) How many secretaries were questioned in the sample?</para>
+        <para id="id8603541">b) Work together with a friend. How can you organise/group this information so that it makes sense? Report back tot he class!</para>
+        <para id="id10323605">c) Complete: </para>
+        <list id="id5046035" list-type="bulleted">
+          <item>The youngest secretary is __________________________________ years old.</item>
+          <item>The oldest secretary is ____________________________________ years old. </item>
+          <item>The difference between the oldest and the youngest secretaries is _____ years.</item>
+          <item>________________________________________ secretaries are 21 years old.</item>
+          <item>The largest number of secretaries that were the same age, were all _____ years old.</item>
+        </list>
+        <para id="id10396210">10.2.3 Did you know?</para>
+        <para id="id8467752">One way of organising information is by means of the “stem” and “leaf” diagram.</para>
+        <table id="id8690412" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Stem</entry>
+                <entry>Leaf</entry>
+              </row>
+              <row>
+                <entry>(tens)</entry>
+                <entry>(units)</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>2 ; 3; 0 ; etc.</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>8 ; 9 ; 8 ; 8 ; etc.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3214626">The first row is thus 32, 33, 30 etc.</para>
+        <para id="id5528068">10.2.4 Find out the mass of 15 of your classmates. Represent the data by means of a stem and leaf diagram.</para>
+        <para id="id14146218"/>
+        <para id="id9086258">10.2.5 Did you also know?</para>
+        <para id="id4511258">You can also count the data by drawing lines/sticks and then drawing up a tally. Every fifth line/stick crosses out the precious.4. The numbers will look like this:</para>
+        <para id="id15700969">one: I</para>
+        <para id="id9058160">two: II</para>
+        <para id="id13589485">three: III</para>
+        <para id="id9916488">four: IIII</para>
+        <para id="id14145026">five: IIII</para>
+        <para id="id4226687">10.2.3 Use the information below to complete the table. The information shows how many marks out of 30 the Grade 7 girls achieved:</para>
+        <table id="id9348612" summary="">
+          <tgroup cols="15">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <tbody>
+              <row>
+                <entry>24</entry>
+                <entry>28</entry>
+                <entry>26</entry>
+                <entry>24</entry>
+                <entry>24</entry>
+                <entry>26</entry>
+                <entry>22</entry>
+                <entry>20</entry>
+                <entry>24</entry>
+                <entry>26</entry>
+                <entry>28</entry>
+                <entry>28</entry>
+                <entry>24</entry>
+                <entry>18</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>22</entry>
+                <entry>22</entry>
+                <entry>24</entry>
+                <entry>20</entry>
+                <entry>20</entry>
+                <entry>26</entry>
+                <entry>28</entry>
+                <entry>30</entry>
+                <entry>28</entry>
+                <entry>30</entry>
+                <entry>28</entry>
+                <entry>24</entry>
+                <entry>24</entry>
+                <entry>22</entry>
+                <entry>16</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id14894354" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Marks</entry>
+                <entry>Lines</entry>
+                <entry>Total</entry>
+              </row>
+              <row>
+                <entry>16</entry>
+                <entry>I</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>18</entry>
+                <entry>I</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>20</entry>
+                <entry>III</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>22</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>24</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>26</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>28</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>__________</entry>
+                <entry>__________</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id7131189">
+      <title>Assessment</title>
+      <para id="id5893972"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id8612671"><emphasis><emphasis effect="italics">Assessment Standard 5.7:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner identifies the largest and smallest scores in a data set and determines the difference between them in order to determine the spread of the data (range);</para>
+      <para id="id3198611"><emphasis><emphasis effect="italics">Assessment Standard 5.9:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner critically reads and interprets data presented in a variety of ways to draw conclusions and make predictions sensitive;</para>
+      <para id="id6852572"><emphasis><emphasis effect="italics">Assessment Standard 5.5:</emphasis></emphasis><emphasis effect="italics"/>We know this when the learner organises (including grouping where appropriate) and records data using tallies, tables and stem-and-leaf displays.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,209 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Number Patterns (Fibonacci spiral)</title>
+  <metadata>
+  <md:content-id>m22060</md:content-id><md:title>Number Patterns (Fibonacci spiral)</md:title>
+  <md:abstract/>
+  <md:uuid>984d5a55-6265-4fd1-8472-a680c7e3e9d5</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164473320772">
+      <title>MATHEMATICS</title>
+      <para id="para-id1164473320772">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164473320787">
+      <title>Number Patterns</title>
+      <para id="para-id1164473320787">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164473320795">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1164473320795">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164473320809">
+      <title>Memorandum</title>
+      <para id="id1164473320819">6.</para>
+      <para id="id1164473320824">a) 1 7 21 35  35  21  7  1</para>
+      <para id="id9011243"> 1 8 28 56  70  56 28  8 1</para>
+      <para id="id9011272"> 1 9 36 84 126 126 84 36 9 1</para>
+      <para id="id9011297">b). </para>
+      <para id="id9011302">i) Answers may differ – it depends on the row chosen</para>
+      <para id="id9011310">ii) The sum of the 2 numbers on top in the “triangle” is the third number below.</para>
+      <para id="id9011318">iii) 1; 2; 4; 8; 16; 32; 64; etc.</para>
+      <para id="id9011341">Answers multiply (x2)</para>
+      <para id="id9011346">iv) 512</para>
+    </section>
+    <section id="id9011354">
+      <title>Leaner Section</title>
+      <para id="para-id9011354">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9011368">
+      <title>Content</title>
+      <section id="id9011375">
+        <title>ACTIVITY: Number Patterns (Fibonacci spiral) [LO 2.1, LO 2.2] </title>
+        <section id="id9011384">
+          <title>Fibonacci spiral</title>
+          <figure id="id9011394">
+            <media id="id9011394_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-09b1.jpg" id="id9011394__onlineimage" height="725" width="535"/>
+            </media>
+          </figure>
+        </section>
+        <section id="id9011418">
+          <title>6. Did you know?</title>
+          <para id="id9011427">The French mathematician Blaise Pascal lived in the 17th century. The following interesting pattern is named after him and is called the "Pascal triangle".</para>
+          <table id="id9011435" summary="">
+            <tgroup cols="13">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <colspec colnum="12" colname="c12"/>
+              <colspec colnum="13" colname="c13"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>2</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>3</entry>
+                  <entry/>
+                  <entry>3</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>4</entry>
+                  <entry/>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>4</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry>10</entry>
+                  <entry/>
+                  <entry>10</entry>
+                  <entry/>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry/>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>15</entry>
+                  <entry/>
+                  <entry>20</entry>
+                  <entry/>
+                  <entry>15</entry>
+                  <entry/>
+                  <entry>6</entry>
+                  <entry/>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id9012096">_____________________________________________________________________</para>
+          <para id="id9012100">a) Are you able to complete the above three rows? ___________________________</para>
+          <para id="id9012132">b) Work with a friend and choose any diagonal.</para>
+          <para id="id9012139">(i) What pattern do you observe? _________________________________________</para>
+          <para id="id9012157">_____________________________________________________________________</para>
+          <para id="id9012161">_____________________________________________________________________</para>
+          <para id="id9012166">ii) Explain to your friend how Pascal's triangle works.</para>
+          <para id="id9012183">iii) Determine the sum of each row. What pattern is formed?</para>
+          <para id="id9012202">_____________________________________________________________________</para>
+          <para id="id9012206">_____________________________________________________________________</para>
+          <para id="id9012210">iv) What will the sum of the 10th row be?</para>
+          <para id="id9012227">_____________________________________________________________________</para>
+          <para id="id9012232">_____________________________________________________________________</para>
+        </section>
+      </section>
+    </section>
+    <section id="id9012239">
+      <title>Assessment</title>
+      <para id="id9012252"><emphasis>Learning Outcome 2:</emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id9012271"><emphasis>Assessment Standard 2.1:</emphasis> We know this when the learner investigates and extends numeric and geometric patterns looking for a relationship or rules, including patterns;</para>
+      <para id="id9012286"><emphasis>Assessment Standard 2.2:</emphasis> We know this when the learner describes, explains and justifies observed relationships or rules in own words.</para>
+    </section>
+  </content>
+</document>
