@@ -104,7 +104,7 @@
       <para id="id4824856"> 8  5   25  27</para>
       <para id="id2283998">2   1    5 3</para>
       <para id="id4649694">  k =  
-<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:msubsup><m:mrow/><m:mrow/><m:mrow/></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mmultiscripts><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"" lSub { size 8{ {}  rSub {}  rSup {} } }  lSup {}  {  {3}  over  {2} } } {}</m:annotation></m:semantics></m:math> = 1
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:none/><m:none/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:msubsup><m:mrow/><m:mrow/><m:mrow/></m:msubsup></m:mrow></m:mstyle><m:mrow/></m:mmultiscripts><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"" lSub { size 8{ {}  rSub {}  rSup {} } }  lSup {}  {  {3}  over  {2} } } {}</m:annotation></m:semantics></m:math> = 1
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">c</emphasis> = 
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>16</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>15</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"16"} }  over  { size 8{"15"} } } } {}</m:annotation></m:semantics></m:math> = 1
 <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>15</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"15"} } } } {}</m:annotation></m:semantics></m:math></para>
@@ -677,7 +677,7 @@
                   <m:mrow>
                     <m:mtable>
                       <m:mtr>
-                        <m:mrow>
+                        <m:mtd>
                           <m:mstyle fontsize="12pt">
                             <m:mrow>
                               <m:mrow>
@@ -732,10 +732,10 @@
                             </m:mrow>
                           </m:mstyle>
                           <m:mrow/>
-                        </m:mrow>
+                        </m:mtd>
                       </m:mtr>
                       <m:mtr>
-                        <m:mrow>
+                        <m:mtd>
                           <m:mrow/>
                           <m:mfrac>
                             <m:mstyle fontsize="8pt">
@@ -750,10 +750,10 @@
                             </m:mstyle>
                           </m:mfrac>
                           <m:mrow/>
-                        </m:mrow>
+                        </m:mtd>
                       </m:mtr>
                       <m:mtr>
-                        <m:mrow>
+                        <m:mtd>
                           <m:mrow/>
                           <m:mtext>10</m:mtext>
                           <m:mfrac>
@@ -769,10 +769,10 @@
                             </m:mstyle>
                           </m:mfrac>
                           <m:mrow/>
-                        </m:mrow>
+                        </m:mtd>
                       </m:mtr>
                       <m:mtr>
-                        <m:mrow>
+                        <m:mtd>
                           <m:mrow/>
                           <m:mtext>10</m:mtext>
                           <m:mfrac>
@@ -788,7 +788,7 @@
                             </m:mstyle>
                           </m:mfrac>
                           <m:mrow/>
-                        </m:mrow>
+                        </m:mtd>
                       </m:mtr>
                     </m:mtable>
                     <m:mrow/>
